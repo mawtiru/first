@@ -3188,18 +3188,275 @@
           "sourceUrl": "https://www.adeka.co.jp/"
         }
       ]
+    },
+    {
+      "id": "shin-etsu-polymer",
+      "name": "信越ポリマー",
+      "aliases": [
+        "信越ポリマー",
+        "Shin-Etsu Polymer"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "半導体ウェーハの搬送・保管・出荷容器、精密樹脂成形品",
+      "stageIds": [],
+      "infrastructureIds": [
+        "wafer-handling"
+      ],
+      "website": "https://www.shinpoly.co.jp/",
+      "irUrl": "https://www.shinpoly.co.jp/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体ウェーハの搬送・保管に用いる容器などの精密成形品を扱う。樹脂・シリコーン加工技術を電子部品や産業・生活関連製品にも展開する。信越化学工業とは別の企業として掲載する。",
+        "industryPosition": "複数工程に共通するウェーハの搬送・保管を支える容器サプライヤー。搬送ロボットや工場内自動搬送システムとは製品を区別し、同じ製品市場のシェアのみ比較する。",
+        "strengths": [
+          "ウェーハ搬送・保管容器",
+          "精密樹脂成形",
+          "汚染・帯電対策"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.shinpoly.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。製品規格・上場状態・製造拠点の現行情報は要確認。"
+      },
+      "listing": {
+        "status": "unknown",
+        "ticker": null,
+        "exchange": null,
+        "parent": "信越化学工業",
+        "note": "現行の上場状態は未確認のため、銘柄と時価総額の自動取得先は未設定。信越化学工業の時価総額は代用しません。"
+      },
+      "marketCapSource": null,
+      "facilities": []
+    },
+    {
+      "id": "miraial",
+      "name": "ミライアル",
+      "aliases": [
+        "ミライアル",
+        "Miraial"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "半導体ウェーハの搬送・保管・出荷容器、精密樹脂成形品",
+      "stageIds": [],
+      "infrastructureIds": [
+        "wafer-handling"
+      ],
+      "website": "https://www.miraial.co.jp/",
+      "irUrl": "https://www.miraial.co.jp/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "高機能樹脂の成形・加工技術を用い、半導体ウェーハの搬送・出荷・保管容器などを扱う。ウェーハの清浄度を保ちながら取り扱うための容器を供給する。",
+        "industryPosition": "複数工程に共通するウェーハの搬送・保管を支える容器サプライヤー。搬送ロボットや工場内自動搬送システムとは製品を区別し、同じ製品市場のシェアのみ比較する。",
+        "strengths": [
+          "ウェーハ搬送容器",
+          "ウェーハ出荷容器",
+          "高機能樹脂成形"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.miraial.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。製品規格・上場状態・製造拠点の現行情報は要確認。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "4238.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現行の上場状態は確認が必要です。"
+      },
+      "marketCapSource": null,
+      "facilities": [
+        {
+          "name": "山鹿の製造拠点",
+          "location": "日本・熊本県山鹿市",
+          "function": "半導体関連樹脂製品の製造拠点候補。最新の拠点名称・担当品目は要確認。",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "verifiedAt": null,
+          "sourceUrl": "https://www.miraial.co.jp/"
+        }
+      ]
+    },
+    {
+      "id": "hirata",
+      "name": "平田機工",
+      "aliases": [
+        "平田機工",
+        "Hirata"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "半導体向けウェーハ搬送ロボット・EFEM・ロードポート、生産設備の自動化",
+      "stageIds": [],
+      "infrastructureIds": [
+        "wafer-handling"
+      ],
+      "website": "https://www.hirata.co.jp/",
+      "irUrl": "https://www.hirata.co.jp/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体製造向けのウェーハ搬送機器や自動化設備を扱う。搬送ロボット、EFEM、ロードポートなどにより、製造装置へのウェーハの投入・取り出しを支える。自動車等の生産設備にも事業を展開する。",
+        "industryPosition": "複数工程に共通する装置内・装置周辺の搬送と生産自動化を担うサプライヤー。本サイトではウェーハ搬送の部品・コンポーネントに分類し、搬送容器メーカーとは製品市場を区別する。",
+        "strengths": [
+          "ウェーハ搬送ロボット",
+          "EFEM・ロードポート",
+          "生産設備の自動化"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.hirata.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。現行の製品構成・拠点機能・上場状態は要確認。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6258.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は全社の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "hirata",
+        "ticker": "6258.T"
+      },
+      "facilities": [
+        {
+          "name": "熊本の本社・製造拠点",
+          "location": "日本・熊本県熊本市北区",
+          "function": "生産設備・搬送機器関連の製造拠点候補。最新の担当製品・機能は要確認。",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "verifiedAt": null,
+          "sourceUrl": "https://www.hirata.co.jp/"
+        }
+      ]
+    },
+    {
+      "id": "ulvac",
+      "name": "アルバック",
+      "aliases": [
+        "アルバック",
+        "ULVAC"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "半導体向けスパッタリング・CVD装置、ドライエッチング装置、真空機器",
+      "stageIds": [
+        "deposition",
+        "etch"
+      ],
+      "infrastructureIds": [],
+      "website": "https://www.ulvac.co.jp/",
+      "irUrl": "https://www.ulvac.co.jp/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "真空技術を基盤に、半導体向けの成膜・エッチング装置や真空ポンプ等を扱う。半導体以外にもディスプレー等の製造装置を展開する。",
+        "industryPosition": "前工程の薄膜形成・加工を担う装置メーカー。真空機器・コンポーネントも扱うが、本サイトでは主分類を装置メーカーとする。各製品のシェアは同じ市場定義で比較する。",
+        "strengths": [
+          "スパッタリング",
+          "CVD",
+          "ドライエッチング",
+          "真空技術"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.ulvac.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。現行の製品構成・拠点機能・上場状態は要確認。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6728.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は全社の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "ulvac",
+        "ticker": "6728.T"
+      },
+      "facilities": [
+        {
+          "name": "茅ヶ崎の本社・製造開発拠点",
+          "location": "日本・神奈川県茅ヶ崎市",
+          "function": "真空装置関連の製造・開発拠点候補。最新の担当製品・機能は要確認。",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "verifiedAt": null,
+          "sourceUrl": "https://www.ulvac.co.jp/"
+        }
+      ]
+    },
+    {
+      "id": "fuji",
+      "name": "FUJI",
+      "aliases": [
+        "FUJI",
+        "株式会社FUJI",
+        "富士機械製造",
+        "Fuji Corporation"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "電子部品実装機（SMTマウンター）、基板実装の自動化設備",
+      "stageIds": [],
+      "infrastructureIds": [
+        "electronics-assembly"
+      ],
+      "website": "https://www.fuji.co.jp/",
+      "irUrl": "https://www.fuji.co.jp/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "プリント基板へ半導体パッケージ等の電子部品を搭載する実装機と生産自動化設備を扱う。旧社名は富士機械製造。富士電機や富士フイルムとは別企業として掲載する。",
+        "industryPosition": "半導体パッケージ完成後の電子部品実装を支える装置メーカー。主力のSMT実装機はウェーハ工程や半導体の接合・封止装置とは用途が異なるため、周辺領域として独立表示する。",
+        "strengths": [
+          "電子部品実装機",
+          "SMT実装",
+          "実装ライン自動化"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.fuji.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。現行の製品構成・拠点機能・上場状態は要確認。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6134.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は全社の値です。"
+      },
+      "marketCapSource": null,
+      "facilities": [
+        {
+          "name": "岡崎の製造拠点",
+          "location": "日本・愛知県岡崎市",
+          "function": "電子部品実装機関連の製造拠点候補。最新の担当製品は要確認。",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "verifiedAt": null,
+          "sourceUrl": "https://www.fuji.co.jp/"
+        }
+      ]
     }
   ],
   "infrastructure": [
     {
       "id": "wafer-handling",
       "name": "ウェーハ搬送",
-      "description": "工程間・装置内のウェーハ搬送を支えるロボット、EFEM、ロードポート、工場内自動搬送システム。複数の工程に共通する設備としてまとめています。"
+      "description": "工程間・装置内のウェーハ搬送を支えるロボット、EFEM、ロードポート、工場内自動搬送システムと、搬送・保管・出荷用の容器。複数の工程に共通する設備・部品としてまとめています。"
     },
     {
       "id": "water-treatment",
       "name": "超純水・水処理",
       "description": "半導体工場全体を支える超純水の製造・供給、用水・排水処理、水処理薬品。個別の製造工程とは別のインフラとしてまとめています。"
+    },
+    {
+      "id": "electronics-assembly",
+      "name": "電子部品実装・基板組立（周辺領域）",
+      "description": "半導体パッケージなどの電子部品をプリント基板へ搭載する実装・組立。半導体製造の接合・封止とは区別して、製造工程表の外に表示する周辺領域です。"
     }
   ]
 }
