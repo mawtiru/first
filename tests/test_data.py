@@ -12,11 +12,25 @@ RESEARCH = json.loads((ROOT / 'site/data/research.json').read_text())
 class DataTests(unittest.TestCase):
     def test_catalog_is_ready(self):
         self.assertTrue(validate(CATALOG, RESEARCH))
-        self.assertEqual(len(CATALOG['companies']),42)
+        self.assertEqual(len(CATALOG['companies']),46)
         phases = [s['phase'] for s in CATALOG['stages']]
         self.assertEqual(phases, ['front']*6+['back']*3)
         for stage in CATALOG['stages']:
             self.assertTrue(any(c['category']=='equipment' and stage['id'] in c['stageIds'] for c in CATALOG['companies']))
+
+    def test_added_suppliers_have_correct_codes_and_stage_roles(self):
+        companies = {c['id']: c for c in CATALOG['companies']}
+        for cid, ticker in [('rorze','6323.T'),('sinfonia','6507.T'),('ferrotec','6890.T'),('tatsumo','6266.T')]:
+            c = companies[cid]
+            self.assertEqual(c['listing']['ticker'], ticker)
+            self.assertEqual(c['marketCapSource']['ticker'], ticker)
+            self.assertTrue(c['profile']['summary'])
+            self.assertTrue(c['aliases'])
+        self.assertEqual(companies['rorze']['category'], 'parts')
+        self.assertEqual(companies['sinfonia']['category'], 'parts')
+        self.assertEqual(companies['ferrotec']['category'], 'parts')
+        self.assertEqual(companies['tatsumo']['category'], 'equipment')
+        self.assertIn('packaging', companies['tatsumo']['stageIds'])
 
     def market(self):
         return {'id':'test-market','status':'verified','product':'TEST ONLY','year':2025,'region':'世界','measure':'売上金額','definition':'TEST ONLY','sourceUrl':'https://example.test/report','verifiedAt':'2026-10-10','rows':[{'companyId':'asml','share':50},{'companyId':'nikon','share':30}]}
