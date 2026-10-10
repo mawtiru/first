@@ -2338,6 +2338,120 @@
         "ticker": "6266.T"
       },
       "facilities": []
+    },
+    {
+      "id": "daifuku",
+      "name": "ダイフク",
+      "aliases": [
+        "ダイフク",
+        "Daifuku"
+      ],
+      "website": "https://www.daifuku.com/",
+      "irUrl": "https://www.daifuku.com/jp/ir/",
+      "products": "クリーンルーム搬送システム・AMHS・OHT・自動保管システム",
+      "listing": {
+        "status": "listed",
+        "ticker": "6383.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は全社の値であり、半導体向け搬送事業単独の評価額ではありません。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "daifuku",
+        "ticker": "6383.T"
+      },
+      "country": "日本",
+      "category": "equipment",
+      "stageIds": [
+        "lithography",
+        "deposition",
+        "etch",
+        "clean",
+        "inspection"
+      ],
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体工場向けのクリーンルーム搬送・保管システムを扱う。ウェーハを収めた容器等を装置間で運び、工場内の物流を自動化する。一般産業の物流、空港等の搬送関連事業も持つ。",
+        "industryPosition": "半導体工場全体の自動搬送・保管を担う設備メーカー。複数の前工程に共通する工場インフラとして配置し、露光・成膜等の加工装置そのものとは区別する。全社の時価総額には半導体以外の事業も含まれる。",
+        "strengths": [
+          "クリーンルーム搬送システム",
+          "AMHS",
+          "OHT",
+          "自動保管システム"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.daifuku.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。工程分類は共通の工場内搬送の役割を示し、特定装置メーカーへの納入関係を示すものではありません。"
+      },
+      "facilities": [
+        {
+          "name": "滋賀事業所",
+          "location": "日本・滋賀県蒲生郡日野町",
+          "function": "搬送システム等の生産関連拠点。半導体向け設備の現行生産範囲は要確認",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.daifuku.com/",
+          "verifiedAt": null
+        }
+      ]
+    },
+    {
+      "id": "murata-machinery",
+      "name": "村田機械",
+      "aliases": [
+        "村田機械",
+        "Murata Machinery",
+        "MURATEC"
+      ],
+      "website": "https://www.muratec.jp/",
+      "irUrl": null,
+      "products": "クリーンルーム搬送システム・AMHS・OHT・自動倉庫・搬送制御",
+      "listing": {
+        "status": "private",
+        "ticker": null,
+        "exchange": null,
+        "parent": null,
+        "note": "村田機械は非上場。村田製作所（6981）の上場情報・時価総額とは別であり、その数値を当社に代用しません。"
+      },
+      "marketCapSource": null,
+      "country": "日本",
+      "category": "equipment",
+      "stageIds": [
+        "lithography",
+        "deposition",
+        "etch",
+        "clean",
+        "inspection"
+      ],
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体工場向けのクリーンルーム搬送・保管システム等を扱う。物流システム、工作機械、繊維機械等の事業も持つ。MURATECの名称で事業を展開する村田機械であり、電子部品メーカーの村田製作所とは別企業。",
+        "industryPosition": "半導体工場の装置間搬送と仕掛品の保管を支える設備メーカー。複数の前工程に共通する工場インフラとして配置する。非上場企業であり、村田製作所の時価総額や株価を代用しない。",
+        "strengths": [
+          "クリーンルーム搬送システム",
+          "AMHS",
+          "OHT",
+          "自動倉庫",
+          "搬送制御"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.muratec.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。工程分類は共通の工場内搬送の役割を示し、特定装置メーカーへの納入関係を示すものではありません。"
+      },
+      "facilities": [
+        {
+          "name": "犬山事業所",
+          "location": "日本・愛知県犬山市",
+          "function": "複数の機械・物流システム事業に関わる拠点。半導体向け搬送設備の現行生産範囲は要確認",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.muratec.jp/",
+          "verifiedAt": null
+        }
+      ]
     }
   ]
 }
