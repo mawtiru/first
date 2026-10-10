@@ -1,51 +1,2693 @@
 {
   "schemaVersion": 1,
-  "lastAttemptAt": "2026-10-10T12:10:09Z",
-  "lastSuccessAt": null,
+  "lastAttemptAt": "2026-10-10T15:17:40Z",
+  "lastSuccessAt": "2026-10-10T15:17:40Z",
   "companies": {
     "tel": {
-      "news": [],
-      "ir": [],
+      "news": [
+        {
+          "id": "a33d0740a51399da43e8",
+          "title": "注目半導体株が分割！キオクシア、東京エレクトロン、イビデンなど！ Mikael Granlund (CYdbWJGfuM) - Unisba Media",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSV9xZ2ZtOXQ2Ri1pcTJWX3h0NHhoSlBQRFZTMjZVRW5kREgwMVFRTUxwZEdsdVlTYnA0WWFqQS1OYVhJSVVFS2pOSW5HNmFFU2hZZUh1a1dFMmpxZTRGZGc1cEVnRzJma1d4OWprN1JzRV9OQmVEc0x6cDhwckJpcjZDbWtUb3M?oc=5",
+          "publishedAt": "2026-10-08T11:58:35Z",
+          "publisher": "Unisba Media",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "d430b07b24eef256d082",
+          "title": "パワー半導体で日本が勝つために採るべきソリューションとは | サイエンス リポート | TELESCOPE magazine - 東京エレクトロン株式会社",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iZWY1ZHNOOFhOYXJnc0RNUEIwa3RxbDR6UEd0Q1FBTTB3enhvWHpOX0xtQXk3YmphNHdBbXBVclhfak14NFJKTUM1OFdjUzJ4ZFYyMUh2NTNMd1lWcXZja3NlU1owZw?oc=5",
+          "publishedAt": "2026-10-05T07:00:00Z",
+          "publisher": "東京エレクトロン株式会社",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "08e3981c0a709eb52934",
+          "title": "半導体商社の東京エレクトロンデバイス、メーカー機能強化 顧客との関係が強み - 日経ヴェリタス - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZS0t0eXoxU3BRajlDcUxZaVNvSHRDektFUjhHaW13V0xvTUJmOFlEOTlaTmg1dExIQkZXTENkM05oWWlyZGRNeV9HMThhVHN1STg2cHZFZ3BmaWtaTXZha1VDT3JYM0dMR0kwWW9sTnlKTVpNWXdDZkRCckNNQQ?oc=5",
+          "publishedAt": "2026-10-02T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "e9d50ac21ae81e2cb644",
+          "title": "インドで半導体産業の展示会 東京エレクトロン、研修施設整備へ - 時事ドットコム",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jNWpmeG1raWhscGRtMEVjU2VFZVFwamFsVTVLUmtSaTl4MDlEc05ib2xQWF9oSExxZHY3ZFMtVjQ5Q2RHSjZpSzVQVi00ZmpGZDVWNFV4WE01ZTg2RlJ4Y2NqSQ?oc=5",
+          "publishedAt": "2026-09-17T07:00:00Z",
+          "publisher": "時事ドットコム",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "e6084e725d9e104d677d",
+          "title": "インドで半導体産業の展示会 東京エレクトロン、研修施設整備へ - 時事ドットコム",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbjduTmVsclg5ZXhUM3NuQndLZnUzRlV1aFVnTUVZR0VUVUVncjBvQXA5XzUwSDdjczBQZllyQXBWLS1PM01iQ192TkgxU2gxcU9DY3RWb2JJanczRERQM1ZWaXYzbnpnQnZQYi1yQTlwMUt4SExjMGFxRDBTMWo0Z3ln?oc=5",
+          "publishedAt": "2026-09-17T07:00:00Z",
+          "publisher": "時事ドットコム",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "ee9f05c693c2322de1dd",
+          "title": "インドで半導体産業の展示会＝東京エレクトロン、研修施設整備へ(時事通信) - Yahoo!ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR294dlVfVE16ck1vdkVWSDRzVzcybFNrM0hVbHM4eVRadTNFWFhhRFhtbWRreUxqVW00T1NzaWJVOGpLYkp6Yk02NUFDczZ1WnVlNkJ5YlJ3WnVMM09ETlZfeXMzTGkyeGNRLTFNV2h1UnJ5WjJOejhpX3Z3aDNQZkdXN0F4a3M?oc=5",
+          "publishedAt": "2026-09-17T07:00:00Z",
+          "publisher": "Yahoo!ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "b378dabd6d3439cf9c47",
+          "title": "【 9/15 (火) 16:00 】元 東京エレクトロン宮城 執行役員・友安 昌幸 氏が読み解く 2026年 インド半導体市場 無料オンラインセミナーを開催 - PR TIMES",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IUnBwVmREYl9sd012U2RVMFU1VjRnYjdRNVZVZUFJQ3B5VHRJblBUUDEtNl9UNE1iWWRfUmZab2hFOXh6QTZIZVBvbjZIcEJPWHNQeTJPeW90OG1qSERQczJURWlzaHJrUFE?oc=5",
+          "publishedAt": "2026-09-08T07:00:00Z",
+          "publisher": "PR TIMES",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "e39cc11e399d26ca9f41",
+          "title": "東京エレクトロン、株価一時5.1%安 日米金利上昇で半導体株に売り - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mRmF2bFdQeHJYOTlXdzV1b1RUcGxTSUdySHhFVnFMdWtWQ3VLVXM1bGNQQjluLVRla0Q0Skp3T2ZDbnlGZDNhYnJab3BzbTNOZ3Bfa0h2MGF3OERZX2tMVjhZd3FETjdBR3gxNQ?oc=5",
+          "publishedAt": "2026-09-01T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "6023320b9d72078bd898",
+          "title": "アドバンスコンポジット、東京エレクトロンのCVCからシリーズB資金調達を実施。半導体製造装置分野における事業展開を加速 - PR TIMES",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SQnp1VEJ2SmxJOVM0Z0xGT09ELWNCNHFuRjJXNDhCSnZEWk55NjBIYUttejJEdFEwci1ia2V6bnA5ZWZxbUVCR0NyNXRTNEtGZWVYTHZ5UVYwbWFZcWN2OThfOXhBRG84a0E?oc=5",
+          "publishedAt": "2026-08-31T07:00:00Z",
+          "publisher": "PR TIMES",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "24ca8ca62b31506fa8e8",
+          "title": "アドバンスコンポジット、東京エレクトロンのCVCからシリーズB資金調達を実施。半導体製造装置分野における事業展開を加速 - 朝日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IdWtPV3ZrMTFBNjRXZXk3cS1FcDhzMGN1Q2Q4WUNoa181MGl4bm1vdnlIT3k1OHdoaWV4ZFJ2SmQ0Z25lQVBVTlVtRHNndjJETUR2SGRYSGNXY2s?oc=5",
+          "publishedAt": "2026-08-31T07:00:00Z",
+          "publisher": "朝日新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "b843cc74f3bd1ef7058f",
+          "title": "東京エレクトロンコリアが大学と連携し実機教育で半導体人材育成 - CHOSUNBIZ - Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uS1FzZmJ0V194ZEZ3RVlibU9LaDBNYVRDUlQyWnB6SEQ5di15X3dzdkMtdDRURmNEQVhneExsVTF0bnJoY25qakh1TGZLOHhncmJFNHR4RDU5dEVkdk0tNlJNN0l3VHpKY1JUcUd4VGRPdGtOTlpRWExR0gGOAUFVX3lxTFBVSThudTRYYWhzSkV0eVVvc0JKNWFteTcxNUpnanJTa1JIT25qaDktcVNQRkxMODJ5bjI5YjhOQlU3UVFuYUgtVUtrT3J3UUpUUVpnM29uY2pMY3dBMmtmcFNIaDVULTJ5WURHZU9uV21nay1kSUo1NGV4aHFhdThZSFQ1NkNMUzhoRUVQNVE?oc=5",
+          "publishedAt": "2026-08-28T07:00:00Z",
+          "publisher": "Chosunbiz",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "146eba6fdaa57cb0ee3f",
+          "title": "TELとともに半導体イノベーションを起こすNaidun-tech — 研究室から事業化への道のり - 東京エレクトロン株式会社",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Lc0FTV19QVlJBT1FsQUowT2diamlyb29teWU3LVI1VENnSmtSaFdfRm5VLWJnTzMyV2FDSllhNnM1aWhTanJCaE0zV0ZyZ2FTdkxDUnp0dXgxdUdM?oc=5",
+          "publishedAt": "2026-08-26T07:00:00Z",
+          "publisher": "東京エレクトロン株式会社",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [
+        {
+          "id": "64ee1ce13fe25fe4f943",
+          "title": "Summary of Consolidated Financial Results for the First Quarter Ended June 30, 202​6 (Japanese GAAP)​ （202KB）",
+          "url": "https://www.tel.com/ir/irta3a00000006g5-att/fy27q1tanshin-e.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        }
+      ],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-10-10T12:10:09Z",
-          "error": "接続拒否（403）",
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 27,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%22+OR+%22Tokyo+Electron%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
-          "state": "error",
-          "lastAttemptAt": "2026-10-10T12:10:09Z",
-          "error": "接続拒否（403）",
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 1,
           "sourceUrl": "https://www.tel.com/ir/"
         }
       }
     },
     "asml": {
-      "news": [],
+      "news": [
+        {
+          "id": "6af815740b34d1f2d40d",
+          "title": "ASML、日本で先端半導体工場への支援強化 次世代EUVも準備 - 日経クロステック（xTECH）",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45T1dzenNZcnlqODNpY3hjRzZCRDZqMGo2UmtLSzdrZTdfeWt0Z3Y5M3NpT3RrTFdsbUNUaTZBbUhUNmVmRVhsalJaTVBuX09QZjc3YkVFWEI4QkdGWkwtSEo5dHF6Xzg?oc=5",
+          "publishedAt": "2026-09-29T20:00:00Z",
+          "publisher": "日経クロステック（xTECH）",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "6722d3c0ba507bacdc08",
+          "title": "ASML、日本で先端半導体工場への支援強化 次世代EUVも準備（2ページ目） - 日経クロステック（xTECH）",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaHlGa29yR0RkSmRGNjFOdUVhYUpzQjk3dFcxM1lZSVU1R09GV3N6UFZtWFp6aWk2OV9wbjVMRDNWdkVZbGhPRHViVFdXV2JGS3Y4ZmdfVU9UUDkybVgyV196SGFiSG1vZDFBY1l5RExaU2Q5SmlIMU54YldkNGV0V3hPSjlxYXBfNEJDdkI0WTM1OE1mcWFlVjNreVlaQ3hBbnNrN182ZUFSN1EzLVhQb0JxQmxEZENsQzJlRnRWdW5TZGNvekdoUld1ZDhwdHJCUEtVSA?oc=5",
+          "publishedAt": "2026-09-29T20:00:00Z",
+          "publisher": "日経クロステック（xTECH）",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "d32baaf4433b78d4d816",
+          "title": "ASML、日本の先端半導体工場「支援を強化」 次世代EUVも - 日経テックフォーサイト - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGNqZXRfcXRBMi1DNnNhRDhPblVZQXFhS1Z0QUFVSlc1M2NsOEtGMER4bk9ZNE1KX2VTVDJaY1ZZZjA2bHpac29RTENmS181djNmUGQxd1FvaW5DZENzVGtTaXJLSnFrUVI0U1ZLWkc0SUVrN1pKcjAxZFpuckp0OWpQYy1udVU?oc=5",
+          "publishedAt": "2026-09-25T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "405d8bfde7de77c5e90c",
+          "title": "ASML、TSMC・サムスンから4億ドルのHigh-NA EUV装置の導入確約を獲得 - BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HTkhYNjR3ejRERXNqdkV6RGNGVGQzX2VxdzUtRjNlaldzcktoOExxQ2VJa1F6ZDVvOC03MG1YeWNUS0FOVUdzNnJNeXRKYUFLTVhmOE1MbmJDLWFmVUEzdnJyX0pMUW9xZzlPREtkYWV4ajQy?oc=5",
+          "publishedAt": "2026-09-08T07:00:00Z",
+          "publisher": "BigGo ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "a3e4fb87228c15e8917d",
+          "title": "ASML、国内人員を4年で4割増 ラピダスなど先端半導体の量産を支援 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nd3VlMVUwVldJeU02UDY1aVVLeVNRd1pNYThmR1RFMFRIcXZaZVJwOG9oNEwxaEQyLWx6Mm12TnhIVXh6SVB5WVlUYkpwLUc2aGxSUDBPMXVfWjJNSDRzWEZFWWcxRjVZWk94ag?oc=5",
+          "publishedAt": "2026-09-03T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "4eda41c1d7189a894f29",
+          "title": "ASML Korea、下半期に100人以上採用へ 半導体業界外の経験者にも門戸拡大 - BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SNlFtdjBpTl9wQVAwVUxGaXpYb2FpSExVNW5hUjAyb3BKSnkwQVM3Ql82VW1yWmRoZ3h5OFlWTWVDNFh6MHE5cGNfcnpDWHJuX1lpTWxZZjFlbFplQ3U3NEpqS3ZzZHcwVXhaeGstMS1sb3RV?oc=5",
+          "publishedAt": "2026-08-27T07:00:00Z",
+          "publisher": "BigGo ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "4acd99a8d3176779775f",
+          "title": "ASML、キヤノン、ニコンの半導体露光機事業決算まとめ AI追い風で活況、メモリ向けも急成長 | TECH+（テックプラス） - マイナビニュース",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LVzVELWdieVczYnFURm51Q2VwU0U2WXQ5RFRhLU4wTkdBWndFMk1TMnF5di16aEpxdFRVRTE4dlFXTm4tLTJ6TjNubTFuN3padVQxNlhyQU1EaUNMeHJhSTRwc2g2QWt1?oc=5",
+          "publishedAt": "2026-08-25T07:00:00Z",
+          "publisher": "マイナビニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "6c6abf3cafeb4c10ad83",
+          "title": "日経平均が一日で4%急落——中国製DUV露光装置ショックの正体と、ASML「6,000億ドルの牙城」は崩れるのか - ブルーモ証券",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qel9FSFJjVUdBUFdjckNJNkMzb055UldRMGpPSmZWWmwyNUJLcUFsb1BUZ19MbEFnam1SZGZyUzRGM2tqbE9IQjBzUU83cUZsdWkxTG5leW0wX0M4ZHA3VWdTbkwzNk15ZWlWVGhhdVVtV21mbHc?oc=5",
+          "publishedAt": "2026-08-02T07:00:00Z",
+          "publisher": "ブルーモ証券",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "2a775f5e675f48349cbc",
+          "title": "ASML、EUV露光装置の生産能力を27年と28年に30％増強：26年通期見通しは上方修正（1/3 ページ） - EE Times Japan",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKQTg4b3lON2dsb1UwUVdEamlwNWFBaUFuTEFDc2VqUFRiOG54dmRiWFVRdGtrWUJ4X2NqMXpFek9IY2R3UlZIZ1pPUjY3X3I2LTh2MXd5Wjd3Y0lLSDY0UUVRdktLQnBQTXdnQXF0SQ?oc=5",
+          "publishedAt": "2026-07-24T07:00:00Z",
+          "publisher": "EE Times Japan",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "5995296b58bc6743e8ff",
+          "title": "ASML、2026年の売上高目標を450億ユーロに引き上げ、EUV生産能力30%増強へ - BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0teG55d1d2TVBKMnVCZWlicEpsdDhKMVRsS29EZkM5WUplRUZ4RUpHUlRvNjNIUUxZZ0I3a2p3U20xQ2NCQ2hJbTBqQUI1VmhJWnNfN2tNN2d5WjN0bUdHcHdHZkZtVFVFd21DTk1ZSzdsaDlv?oc=5",
+          "publishedAt": "2026-07-20T07:00:00Z",
+          "publisher": "BigGo ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "255e51ab9901309aad08",
+          "title": "ASML、全従業員に2万ユーロの株式報酬 半導体大手で利益還元の動き広がる - BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZTUw4NTZBNHRBUjQ5Vk9WQjZuWXZMSW0xWmV4c2JVa2NRMjNpdFZGTnMzRVhtTi1EcXhKTkw4T0hvV3B0clhiaEo0OExobElwMGlCMkdsUkZONXBJOWpTTmV2XzY5MGtwLVVCYnNOaXQ4YUNW?oc=5",
+          "publishedAt": "2026-07-17T07:00:00Z",
+          "publisher": "BigGo ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "5a21871e3a7e82e194cd",
+          "title": "ASML、EUV・DUV装置の値上げを推進…TSMCが強く反発 - BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBELXREVXN5OEdtQXhQQkQ2ekd1aXljZ1J5RFlvT01QVVE1bDJNeDdzRVRjbEdIczVoZF91UlQxVkFYU01LRVluMUpOUm5XRmJibElJdUd0dDBlVi1aWGo0ajdmek1MczR0Uzg0LV9NS0Z2NlRh?oc=5",
+          "publishedAt": "2026-07-16T07:00:00Z",
+          "publisher": "BigGo ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-10-10T12:10:09Z",
-          "error": "接続拒否（403）",
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 16,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22ASML%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "error",
-          "lastAttemptAt": "2026-10-10T12:10:09Z",
-          "error": "接続拒否（403）",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "error": "HTTP 403",
           "sourceUrl": "https://www.asml.com/en/investors"
+        }
+      }
+    },
+    "amat": {
+      "news": [
+        {
+          "id": "6b2a9269b6dbfb4927f5",
+          "title": "Applied Materials Stock Jumped Nearly 7% in a Chip-Equipment Rally. Its $5 Billion India Plan Is the Longer Story - TIKR.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSXUwVVN3dGtfYkg0TEhpNGU1d0N3elVzQTduMjhUbWpad2VBeDAzNEdBQXBjWmUyYjI5cDFrZWJQSW1SSEVmWUp6X0o0QmxYMG1FdzJSeWFKZWJpTDhSZlhGTEF3blVmRmVlR1lTSTVPLUJpdjAyVzZleUQyNjhnTXdKUzhZemFaanUzQlA1NjBXRG93TmhJbWlhR2ZuUzZZV0h1NUcyTGlwbFNMeFlLcmd5Q3NRSGNjQXdZNUtFMkZBZE9pTGx6Yi1iaXJWRmhWX1RJX25R?oc=5",
+          "publishedAt": "2026-09-21T07:00:00Z",
+          "publisher": "TIKR.com",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "110f1b95ccb97bb8e1d7",
+          "title": "応用材料（Applied Materials）、10年で50億ドルを投じインド深耕 半導体人材とサプライチェーンに賭ける - BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSUU5uWldLTkwxQ3h1bXJUM3l6dXVwbEFYV2N4UVhtOUh3UG9FSFJaTFBIU3d2STcteDBIRUc5M1Y5eHhlWmpieHlIUVNjRGdvY1Vud3ZTX3Y4TXRqcW0wZF9uczhGMC1od3duaGxOQ0UzX0Za?oc=5",
+          "publishedAt": "2026-09-17T07:00:00Z",
+          "publisher": "BigGo ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "82a1a9d174bcbfe73116",
+          "title": "[Applied Materials (AMAT)] The Absolute King of Semiconductor Manufacturing Equipment: The Current State of the 'Fortress of Material Creation' Breaking Through Nano Limits - note",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6ME9vNzVRUTVBMDU1cTQ0RW1WVVVFUjUwNFdNSkJNcXR1NDlvOUtWZVVzUTEtcjB0M1Y4S0dtVUdwUEI2TElMMTBYZHVXMHJqNlZZZ21KRDhGZ3pEVHh6NnlfYlhsdw?oc=5",
+          "publishedAt": "2026-09-15T07:00:00Z",
+          "publisher": "note",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 3,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22Applied+Materials%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "lam": {
+      "news": [
+        {
+          "id": "40a9be7e9320bb607a89",
+          "title": "Lam Research、韓国専用の半導体ユニコーンファンドを立ち上げ…製造チャンバー1万5000基を出荷 - BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IZTVGekpsZEpXMFNLNlBDZVpFLWR3OVQ3Q0pwWGhpNjZZdEFmcE9sNVFYbnZvR2NIaE9XSGIyWi0zXzltOHJqQkd0WE92RlAzY3BNeDUyX1J6NzU5MEVpNFoyNVlPYU80VnVaRVFkSUpacE5T?oc=5",
+          "publishedAt": "2026-10-08T18:28:00Z",
+          "publisher": "BigGo ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "2035c6720a80534c3488",
+          "title": "Lam Research、韓国向け半導体ユニコーンファンド組成へ - 디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamdrWHczM3RBeHhQTlluM3JlUzVOOUl4T0xhb2t0NzFzenlsM0loYlZlWjFZRXFyWlVGUlNvNEZoNm93UHo3aVR3YUF5cDJ0Y3JuNGUwRm9NNUVodVEtNF82d1pNT29ocmhVTHRtSkRJMDB1UkloM01icEhLLXRQUW5RTm9LbVlDQk9TeDM5aVdOUVpUVTFoRlhnblRWVW1KQ2pGaXJ3Qko?oc=5",
+          "publishedAt": "2026-10-08T02:32:41Z",
+          "publisher": "디지털투데이",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "07e39420334d560be495",
+          "title": "【ラムリサーチ(Lam Research)】最先端メモリとエッチングの絶対王者の正体〜AI時代の微細化を原子レベルで刻む「超深穴加工の要塞」の現在地〜｜Semiconductor Geek - note",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZ19wVDRKTE15LUg4V2VWLTd6MF9RcHlwY05qdG5iY0drX0dTUVNvb1JTY3ZWY25IRXc4UzV1N0Z4d2x2Ymd2MVZ1Y3VtVG0ybkF3TjBmZm9TZ3Rmanc?oc=5",
+          "publishedAt": "2026-09-23T07:00:00Z",
+          "publisher": "note",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "8edd12a1ecf70c701e69",
+          "title": "半導体株急反発、Lam Research 20％高 Microsoft決算が支え - 디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ0VLbXZ3WEVpU3d4RGl3QmxTbHh6b1pOMlpnU0EydFlsWHlnWklKbmRGMWgtOWhiTlVKVEthbHBnVzYwaE9kUzdINDYxaHJHX0llWUJOdmNEOWl0NFczVHVjRmpKamdRR2dUbElRZDZjV3NBV2JIYnV5TGVNVFdLN2NiRktDUzlIZk9EUEZ4ZWRkTlpTYVBReVdrZEtURlJpdjc5Uy1NU0ZtYXNFZTZQVnVGN0RxRVcyckUzU0w1NXpHQW02UUgxVENsdTJGZjJEaVVqejktemNpZTIyMGNmd1Rtaw?oc=5",
+          "publishedAt": "2026-07-31T07:00:00Z",
+          "publisher": "디지털투데이",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 4,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22Lam+Research%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "nikon": {
+      "news": [
+        {
+          "id": "da554af21c929ca6a04c",
+          "title": "【ニコン逆襲】ASMLは年5台しか売れない狭い頂点...日本2社が半導体本流を独占していた理由 Green Party Councillor Car Usage (PMxdQ4rnZs) - Unisba Media",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWRiem5xRDNzTm9RNy04cE5RZ2dpMFNvYmVvSUFuS2l2Ul95MFhfSURMbk4wbFVqdmRadm5Qc0dGT1IzdXZINUZhdkRJcGQ4Q0ZUT3FQVjZVRHYtcUVyWGd4amRQRlJ2V2tYMzdqMmx5ejhpNGk5ZS1OcGd2ZXZkNENB?oc=5",
+          "publishedAt": "2026-10-05T14:50:50Z",
+          "publisher": "Unisba Media",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "853ff76aaa82200979fd",
+          "title": "（株）ニコン 執行役員 精機事業本部 半導体装置事業 部長 笠井紀昭氏 - 産業タイムズ社",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIVGg3R2d6aVpSR25XZU5jVTd3UzA4WDE5S2hhdkNjcmFNVlhGUVRHaUpiYnBmZThLOEJIbTNxWC1RelhoOEtiN2ExZzY1YzFRZjNnT1BuT0FzUVFoX3c?oc=5",
+          "publishedAt": "2026-09-25T07:00:00Z",
+          "publisher": "産業タイムズ社",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "fa0aa06b21c35f8349c9",
+          "title": "ウシオ電機・ニコンなど開発…広がる「半導体直描露光」、後工程向け装置が戦国時代に - ニュースイッチ by 日刊工業新聞社",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xYVRMQ05LZlZ5TWh0Mm9UemNReGlEVjJEUVpuTktfSFltQkZtSmhRSS1IWXBNSF84Z0Q3bEpNN0hxUQ?oc=5",
+          "publishedAt": "2026-09-24T07:00:00Z",
+          "publisher": "ニュースイッチ by 日刊工業新聞社",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "3b5fb47cd83d3b9a9b68",
+          "title": "ウシオ電機・ニコンなど開発…広がる「半導体直描露光」、後工程向け装置が戦国時代に (ニュースイッチ) - Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ25CTGY2UFdKZXVmNU5XQ2RCQmgwUURnNWFmWjE2V1Y4azVta1B5Wmp1NHJncnFiekFsb3RoUXNWUUZ3RXcyUDk4aDNwSUNMMkdGQ2ZlaWFVZFhnV2YtWHBBY0RKdUdUMXh5bFhQblRvcXFNejFCNm9vZzZLR3d1S0FkTmU5cTgwb3kzeWJB?oc=5",
+          "publishedAt": "2026-09-24T07:00:00Z",
+          "publisher": "Yahoo!ニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "4acd99a8d3176779775f",
+          "title": "ASML、キヤノン、ニコンの半導体露光機事業決算まとめ AI追い風で活況、メモリ向けも急成長 | TECH+（テックプラス） - マイナビニュース",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LVzVELWdieVczYnFURm51Q2VwU0U2WXQ5RFRhLU4wTkdBWndFMk1TMnF5di16aEpxdFRVRTE4dlFXTm4tLTJ6TjNubTFuN3padVQxNlhyQU1EaUNMeHJhSTRwc2g2QWt1?oc=5",
+          "publishedAt": "2026-08-25T07:00:00Z",
+          "publisher": "マイナビニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "4c6f65af0ea5547312d1",
+          "title": "ニコン社長、ASML対抗へ顧客目線徹底 半導体露光装置「2社購買に商機」（2ページ目） - 日経クロステック（xTECH）",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFNncxcVNJZ0JSUXNRbTJmSEhnSzF1aDh4ckh4WlZfZUpEbHhvQ1Vqbi12Tjc5SDg4ekNiTDU0T0ZPRFhqcVNueUVRUktyMFdDNXFiTjJqUTdNVnhCY0dCUU51WFJRYVJibUxCdA?oc=5",
+          "publishedAt": "2026-08-19T07:00:00Z",
+          "publisher": "日経クロステック（xTECH）",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "86f78602b66f6b204a96",
+          "title": "ニコン、半導体ウエハーのずれ計測装置 精度35%向上 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45WDBhMHFsa3luSF9xZjUyM0Q4cEtaNG1McTJnWWhaNl80OG9yVFEzNGowSllKVE5kUC1YY0tDY2ZDb0h5X1BXZV94WUtKZXo0MXk4eWxLOEhOUElJLURUUTJ6engzU1ZTS3I4cQ?oc=5",
+          "publishedAt": "2026-08-05T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "b62555dfe48669594260",
+          "title": "【Nikon】光と精密の絶対王者・AI半導体の「ガラス基板・後工程」を支配する、光学帝国の逆襲〜｜Semiconductor Geek - note",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mMnc3ZnVlem9hRF9Ga0s2UG1IR3p3TDc1WVJsRUcyemRXajYyVTJwTk5NWGpsX3hNdmRsUjhNUjZlUWwzbWNZVU1jeWwyTFhKOWhaVUlmU29qakpPTkE?oc=5",
+          "publishedAt": "2026-08-03T07:00:00Z",
+          "publisher": "note",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "5848861f5c97599a75f5",
+          "title": "ニコン、新型アライメントステーションを発表 半導体露光工程を高度化 - OPTRONICS ONLINE",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zbkExSHdDZU1FYUFEQ2JYTlJLSW1VdUNvOURDNGJYWEhTU1JGWTZJR0xCcVR1X1JVXzNNWVVneHN2R2drR1gxYXhTNkFvQlBxQVZKUUtnTnU1T3Z5Mmc?oc=5",
+          "publishedAt": "2026-07-30T07:00:00Z",
+          "publisher": "OPTRONICS ONLINE",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "5bcb48c36f0c4482da1a",
+          "title": "半導体露光装置に重点投資 カメラは動画に注力―ニコン社長 - 時事ドットコム",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EQlN4LWt6Q08tSzV2MFVPOGM2Y3kwUFBsVlFzZ3UzYzdHNzNlc0pRUHpDdHQxX1RZbWljNGhYMWoydkNQa0pMZkd4b1BSbHdsZDhhX200UWxNc1lqZDVHbW9lcw?oc=5",
+          "publishedAt": "2026-07-18T07:00:00Z",
+          "publisher": "時事ドットコム",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "475813f0d992adf69486",
+          "title": "半導体露光装置に重点投資 カメラは動画に注力―ニコン社長 - 時事ドットコム",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTzBUTE9KVFRWdmY4MUM0c2dFcGd1NkFxZHhybkpLT2luQXVHcVZQZUxSbkhIeEhaLWZjV2MtRzVZcURTTFUyV1lhWDlqODdoakU3QUFha3NYLXZvQWZDelNUYWdVMEg5ZW4ySzJUUFN6RXJLRjVPazBNdkNtQ0lmdV9n?oc=5",
+          "publishedAt": "2026-07-18T07:00:00Z",
+          "publisher": "時事ドットコム",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "8905f8666dec345fbd89",
+          "title": "◎大村ニコン社長：半導体露光装置に重点投資 - 時事通信ニュース",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84aE5nWk1ab1RpNUxNMkw4cVBDN1QtY0hhNFNudnRnRWsxVVRmNHdycDZsZHE5NGMwSW96U2dzMXJkVV9qSFRpczlrLWRydTF6cGgyUFgxaWdvdV9iVFE?oc=5",
+          "publishedAt": "2026-07-17T07:00:00Z",
+          "publisher": "時事通信ニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [
+        {
+          "id": "9bd4802e0f32d837c060",
+          "title": "Financial Results ( PDF:431KB )",
+          "url": "https://www.nikon.com/content/dam/web-assets/nikoncom/company/local/global/en/ir/ir_library/result/pdf/2027/27_1qf_c_e.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        }
+      ],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 12,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%8B%E3%82%B3%E3%83%B3%22+OR+%22Nikon%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 1,
+          "sourceUrl": "https://www.nikon.com/company/ir/"
+        }
+      }
+    },
+    "kokusai": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22KOKUSAI+ELECTRIC%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "asm": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22ASM+International%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "kla": {
+      "news": [
+        {
+          "id": "679227709c9408613cbf",
+          "title": "【ガチ分析】プロセス検査の絶対王者、KLA（KLA Corporation）の正体〜AI半導体の歩留まりを支配する「ミクロの検問所」の現在地〜｜Semiconductor Geek - note",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14QUoyMGNBM2lCUEhNS3c5NEFvNE1CVkpTWUFMNm45cFpiNmxQNGJ1ZmtON1JyUVVjd09DcVh5cEkwU0FYUHk3Vk1fYnVqRm9EeDVQT3Y3ZmUyME9qcEE?oc=5",
+          "publishedAt": "2026-09-27T22:03:41Z",
+          "publisher": "note",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 1,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22KLA%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "hitachi": {
+      "news": [
+        {
+          "id": "fe9fbf11b7a2d32d13de",
+          "title": "半導体低膨張材料の熱特性を高精度測定、日立ハイテクが新分析装置 - ニュースイッチ by 日刊工業新聞社",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5OcDlFaGZ4QWl1cjY3RU9GZlFIdFdJeC1CeWc3dlAtVjlVTVFsajM3Y0JnQjNpUmRDdWktTWNjdFVrZw?oc=5",
+          "publishedAt": "2026-10-10T05:01:00Z",
+          "publisher": "ニュースイッチ by 日刊工業新聞社",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "133b96ee7ee2e527d53d",
+          "title": "日立ハイテク、半導体低膨張材料向け分析装置 熱特性を高精度測定 - 日刊工業新聞",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OUFhna2RVU0F2YjNSa0l0T0txRkhHTk5MTGpuR3hKd2hTa1dzVTRsdV93NEpyajZlZnRodFF6YkVVM3V5NFhNZVNMRkZJQUU0VFlPRVUxenA?oc=5",
+          "publishedAt": "2026-10-04T20:00:00Z",
+          "publisher": "日刊工業新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "06aef1e745c39bcd734e",
+          "title": "日立ハイテクとZEISS社が半導体製造向け次世代電子線検査装置の共同開発を推進 - ニュースメディアVOIX",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ONFhpSWxZLTJiX0V0aWVtYVdZeDRoaEZLQThSUWhaUnRrRnRrNG10WjBfODNNekxjdmcxc1pfeGZRTkE1RWxhZm9CeWFOUm8wcW9ubHZPM3FxZGFFd1FqVUJ6TGNmU1hNQzczb19paXhxaUJITC12Xw?oc=5",
+          "publishedAt": "2026-09-30T07:28:00Z",
+          "publisher": "ニュースメディアVOIX",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "066ab16934febbf6d65c",
+          "title": "日立ハイテクCTO「医療と半導体は近い」、ハードとソフトで計測の精度究める - 日経クロステック（xTECH）",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoSFFnb0dlaHdCSWxvTzYyODV2djE5dkE4d200WlM2Y3VsX3hkb1FJZThrcjZfUmFJaEZVRG0xS1ZnaWZoV2JKUWNHRFZYLWw2XzZNZEhybjdBTE5vMFdMeTFOd3BUUlU?oc=5",
+          "publishedAt": "2026-07-17T07:00:00Z",
+          "publisher": "日経クロステック（xTECH）",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "60579f4b654780edbfe8",
+          "title": "日立ハイテク、先端半導体関連技術の集積地に拠点…計測・検査技術を開発 - ニュースイッチ by 日刊工業新聞社",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDdnpTZ3pha2t0cjZxNWJsbVE4bXZqSjZTQnZyRG5QZG0zaTZqY0hvUkZPYkVyekVybS1nS3R0M09LUQ?oc=5",
+          "publishedAt": "2026-07-15T07:00:00Z",
+          "publisher": "ニュースイッチ by 日刊工業新聞社",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 5,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E7%AB%8B%E3%83%8F%E3%82%A4%E3%83%86%E3%82%AF%22+OR+%22Hitachi+High-Tech%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "screen": {
+      "news": [
+        {
+          "id": "dce69a9a25df38d072f1",
+          "title": "世界の半導体需要を支える工場へ──SCREEN SPEのスマートファクトリーを推進する生産技術の力 | TECH+（テックプラス） - マイナビニュース",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iMXVnUWtkYzh6bGtGQ2F3bmFybElwNzVqaGo3ajF5SkhWd3dQVjhuSHJMLTJqeHkyTlpZZC1VeEVJSkZrWHZsVHhkeGNweGc4dTctZ0NHU3lkcGVCdHBPTHgxdldkRms?oc=5",
+          "publishedAt": "2026-09-24T07:00:00Z",
+          "publisher": "マイナビニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "1aa81fb4b5b292e1044b",
+          "title": "SCREEN、27年にインド進出 半導体製造装置の保守拠点を開設 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYYU9DSWVrTHVoNkhOQWlJdUs1dklqR1ZhMUFBRWNidHlGX3JlTjZDY2ttellpWmhiXzBZemhtN01lY2dnM1kwdi1PS2p2Z0ZWemE0UGZ2dDVhVUhpTkZtT243RVlUYUhULTI3Uw?oc=5",
+          "publishedAt": "2026-09-18T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "d2fe3006f1cd72978617",
+          "title": "SCREEN、純利益1150億円に上方修正 半導体需要の追い風で最高益更新へ - BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NRUpVYVl6S0c4YzFfS0twalJpSGktU0NOR3dXbVMxdU44Nk5sQWVYV1otcjExMVFZQlpZbkdqd2E5RDZYVjA3QjI5NnpmZldnNnVJOVFUWHJvamY0c3QzVFM0M0t1Y3pXbFVlMkJIRnlUUklC?oc=5",
+          "publishedAt": "2026-07-28T07:00:00Z",
+          "publisher": "BigGo ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 3,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22SCREEN%22+OR+%22SCREEN+Holdings%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "sourceUrl": "https://www.screen.co.jp/ir/"
+        }
+      }
+    },
+    "accretech": {
+      "news": [
+        {
+          "id": "ed395d3cbb56c5dd8b09",
+          "title": "【ガチ分析】半導体検査の絶対王者・東京精密（7729）の正体〜AIチップの良否を見極める「プローバ＆ダイシングの要塞」を牛耳る、精密計測の真実〜｜Semiconductor Geek - note",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lam1DdUp0YUt5S0NpQ3dmOWxVdE1zd1BfSlJUMEN0czZoYlo1Z0hLcDZKYl9STXY4NGtrekZMRXpvRmN1VWttalg3MlZnQmZmSnQ2UGp4a0gtX29jRnc?oc=5",
+          "publishedAt": "2026-09-06T07:00:00Z",
+          "publisher": "note",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 1,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%9D%B1%E4%BA%AC%E7%B2%BE%E5%AF%86%22+OR+%22ACCRETECH%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "besi": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22Besi%22+OR+%22BE+Semiconductor+Industries%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "asmpt": {
+      "news": [
+        {
+          "id": "1e06da34e9b99125c436",
+          "title": "【インド半導体、構想から実行へ】ASMPT、インドの半導体後工程を支援 量産技術からEV向け先端実装まで - 電波新聞デジタル",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5keTdTQ3NpRllaNUFCZUl5YlU3RzlFZVpmbVQzNHJLSTVCWXRneUpmcVVHVjYwY3Y5b0FENmNPLWRSb1BreGktQkM3UUhjNktMQ3c?oc=5",
+          "publishedAt": "2026-10-04T20:46:56Z",
+          "publisher": "電波新聞デジタル",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "e912ea0c8cb8ea4a7445",
+          "title": "ASMPT、AI半導体パッケージングに軸足 過剰設備投資の懸念を一蹴、マイクロンは高値警戒感 - BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9makpGVmlMdWprSmc5SENxdjhZNVJCS2NJSl9RXzZzOVg3NkRCcGNuTEhGcUpXS25kSHhZeWlTdk9sSjhwWS01NTJtWU42YjdmSjNhM0dHTVJ0NXhlREdKT3p3U3BvejJ6bnJlM2NHYVlVVWti?oc=5",
+          "publishedAt": "2026-07-29T07:00:00Z",
+          "publisher": "BigGo ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 2,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22ASMPT%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "towa": {
+      "news": [
+        {
+          "id": "f0e088a2cbede91c16bf",
+          "title": "TOWA、国内に半導体製造装置の新工場 経済安保で供給網見直し - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91LWhzTUs2RDNxYmZpNDNGUU01R2I4ZlI4dU5BcllVY0g1eU5ldjJMd3cxTUduaEZVb1IydUZYR2pxQlBXWHRINUFuWFNFdnB2ZTFkb0JodmNCbVhQbHlORmZKWGVKWFRWWmtpMg?oc=5",
+          "publishedAt": "2026-10-06T20:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 1,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22TOWA%22+OR+%22TOWA+Corporation%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "advantest": {
+      "news": [
+        {
+          "id": "440857cc8ebbae8e454e",
+          "title": "アドバンテスト、株価一時1.9%安 米半導体株安で利益確定売り - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BWDliZm5CaDFLdkpzWllGNDNYNEVBU0p1SDRvWEdsR0x1el9vNzRCN3RWS29aR2JWaVlvZlVTNmNlNGw3ZVduSkh5QlUwYk5uVEl6dmxqTzE3ZHd3SXRXck0zQl82UlZJOERMNg?oc=5",
+          "publishedAt": "2026-10-08T01:40:56Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "cc034e2d02d6de07af44",
+          "title": "アドバンテスト株価、利益確定売りで反落 「半導体検査需要強い」の声も - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QWFk2TDdqUk1ENzlRWlFQMTBLbWpodVlQbDRPWW5PdXZJU2Jjdmh3OW8xT0YyQ0JXcm5nRHAwNVZvNjg3LVVSTTRfU3Z4QVhpUWNuenBnTE9KenV3VWV3Q3hQaVVFb3pheVJTTA?oc=5",
+          "publishedAt": "2026-10-07T01:41:46Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "532fb7542608f0d4859e",
+          "title": "アドバンテスト株価、連日の上場来高値 米半導体株高が波及 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DTzFoWkF3YndLSTVtT3N5WUp4VzVGRUtXaGFmd3p4ZDBxZnRrZFZfMEpNdEtvdHdFMWkycFpYTTVQbjNzMHYwOTRTQmwzZUpIWnN6Uk8tNVJUQVlfcUN6WnFpbVRsNWV0Zzd0Vg?oc=5",
+          "publishedAt": "2026-10-05T02:13:50Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "826df8836f755158af23",
+          "title": "【インド半導体、構想から実行へ】アドバンテスト、インドでテスト事業拡大 AI活用で半導体開発を支援 - 電波新聞デジタル",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XQ0dXdEQ1WGEwME1CTUNZaUxpUlplZW12U2pUeVd1V1JMSFY4dXhtWGNUV2RMUFJOM3FsNVpDaGdvNkEtcXR1UklzTDA3UjBvZ2c?oc=5",
+          "publishedAt": "2026-10-04T20:48:51Z",
+          "publisher": "電波新聞デジタル",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "71d5fba613226b739e63",
+          "title": "アドバンテストなど半導体関連株が軒並み高 日銀短観、AI需要を示す - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xcmljOTlLY3lPQkM2em1tT1FxUjJlZ0E0b0NHN3ZmOVRSdUoyVEJQZ0pxZVJxU3F1OWM5UTBPSHl4TGtYUXdkRXFBM3R2YWllRlRCaVgwMXJwcmV0TmdYWkVJSmtWZl9kTXlqWQ?oc=5",
+          "publishedAt": "2026-10-01T06:23:28Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "f295aaa900d3d1fd1e38",
+          "title": "アドバンテスト---大幅続伸、米マイクロンの好決算刺激に半導体関連高い - 株探",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2VXgwQ1BNQWFXRnpwNnM5ZGE2ajV0aWdHMnpaVlVSVzVFdy1IM1VHTTJ6SnFiYzdBSmxMZ0pOemFtQ0NBQTNVSHYxWE9uX3FGNWhXZ3ZudXpEcmlRN090OQ?oc=5",
+          "publishedAt": "2026-10-01T01:32:05Z",
+          "publisher": "株探",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "c1fae2894e1d89a5d36e",
+          "title": "アドバンテスト－急騰 マイクロン好決算を受けて半導体株に買い 東京エレクなども高い - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ILUtQR1VwWDJvME1ZcW9RVkpfdm5PbVM5c2VnaDRZUlBCNUNqTGFvSW03MTZkc3p1b3ZBWkxobjI5dEpYSnBnZVpqYlY0RkhVTDBRTEZrUVA5VElROXlkRnpFVXMtTU5TRWl0R3BNdTk?oc=5",
+          "publishedAt": "2026-10-01T00:18:00Z",
+          "publisher": "TradingView",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "5392d5c395d8ab66b871",
+          "title": "アドバンテストが大幅続伸、マイクロン好決算で半導体株に買い - BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MSFpoOVZnVnJwY0g2VTdEWXNtd1JjdjZaSnBPdy0tQjM5WHdmUzc1UThqdjBFZGVqQWRaMmFnLVVkUnNyQUVJei1JSXBhdUt0SnBORWJfYl9aZ0ZUVEFHUnhGT09keTI4V0pjLUNXTWppQWNX?oc=5",
+          "publishedAt": "2026-09-30T07:00:00Z",
+          "publisher": "BigGo ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "7fb65e801ea212fc3da0",
+          "title": "アドバンテスト株価が大幅続伸、一時4.1%高 米半導体株高で - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NSzh4Z0ZCREN3alg3VW9EQ0V2czRTdkVJV3B0MERoUU12Xy1NQ3JMTXlCUTBobWpoNU5IaHN4akJoTUJPRmtWRjMyT3ZvTUx5dlVKa0RfREZDR3BQcHlhaU9pS2ZfMlZnQ281YQ?oc=5",
+          "publishedAt": "2026-09-28T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "a48eec8ce8791642a2c2",
+          "title": "キオクシアHDは▲4.37％で安値引け、アドバンテストやレーザーテックも安値引けなど「半導体・AI関連株7選」28日の終値・騰落まとめ（9月28日） 日経平均は6営業日ぶりに反落、朝方の高値から1,100円あまり値を消す - LIMO | くらしとお金の経済メディア",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kNmVQVEQ0b2hKRHI3alhXSXRwSXBwS2YwcDlWSGRIbUNwZmFzUUNobmJRYUhWNWFfRFRSaHBBcldkZWFqbEtBTXV3ZVg?oc=5",
+          "publishedAt": "2026-09-28T07:00:00Z",
+          "publisher": "LIMO | くらしとお金の経済メディア",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "d22bdcbed5ba9b0df96a",
+          "title": "キオクシアHDは一時+3.04％、アドバンテストは+2.84％で高値引けなど「半導体・AI関連株7選」25日の終値・騰落まとめ（9月25日） 日経平均は850円高の6万6,364円、寄り付きを安値に高値圏で引ける - LIMO | くらしとお金の経済メディア",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLLV9COWJuMDVrcElDVXBibmhjM0J1TmJ2TEstME5qRkpaR2J2cVk1RVdheDJZTEdnODNlb0w0YUNBbVFuNmEtQzJLZjM?oc=5",
+          "publishedAt": "2026-09-25T07:00:00Z",
+          "publisher": "LIMO | くらしとお金の経済メディア",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "f93dde83751b2d156d2b",
+          "title": "アドバンテスト株価が反発 エヌビディアなど米半導体株高で - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zVm5yNlJUQXg1V1pURkRGbHBoYXhEaUdGd3RiRXRVMEd4alBOeDdxOWZLMHY4UTNEMFBLOFlhNHdrWk93Nm1aelM3YVE4TlF3czdoWHJTS0MzTlRFMG1ZTUk1T2d4UHlGaTExcQ?oc=5",
+          "publishedAt": "2026-09-18T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 43,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%22+OR+%22Advantest%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "teradyne": {
+      "news": [
+        {
+          "id": "da6c1bf92cfe32753f1a",
+          "title": "Teradyne、AI半導体向け信頼性試験を強化 Titan HPを量産現場に導入 - 千葉テレビ放送株式会社",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zdmRZT3pLWERBdFVmSlRRSDNMTngtVzN0bUpjX2hwUHU3dFQ0SDZ1TU9QX0F6aTZfZDc3ZGZrV1NuUnV0d3pJOFRVWXNKQ1dkX2dFaF82dmpjc0c0WE1n?oc=5",
+          "publishedAt": "2026-10-07T04:21:00Z",
+          "publisher": "千葉テレビ放送株式会社",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 1,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22Teradyne%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "pva": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22PVA+TePla%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "edwards": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22Edwards%22+OR+%22Edwards+Vacuum%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "ebara": {
+      "news": [
+        {
+          "id": "94d0ff24f4ab0293da03",
+          "title": "荏原製作所の稼ぎ頭はポンプではなく半導体装置。営業利益の半分を稼ぎ、株価は7割振れた(LIMO) - Yahoo!ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFVfZ04tamE2ZjQ0RzZpbG90VUJnTTBDTTh0ZkFLLXQzSmQ2cHVYc2JwOXdaLUNsNE9zSFAtbHBrZm9nUnhLdW5BNF9VeTJWNHJRNUVKNHFyUU5xVU9fRHNuaDl5blRkSE1Cd2h4MUczLU5iX2xWUDVObHhoNDZSS21RV1NvdXc?oc=5",
+          "publishedAt": "2026-09-27T07:00:00Z",
+          "publisher": "Yahoo!ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "167354b048279768134e",
+          "title": "荏原製作所の稼ぎ頭はポンプではなく半導体装置。営業利益の半分を稼ぎ、株価は7割振れた (LIMO) - Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVXhGS3REVEhfeUNiTEp5Y0VCNk5uemFjRFlHTzdoNE9hWjhsVjBacUFBdHJERXBHZGxRYWxiU0liaGxTSUEyNXlEZjg5alUzVVdUbWQwVGVkeE5oaFhZdnFIeU9xNVNBMGpYcWFtUVdUMnhMMjhFSG1SNHpFRGFUbGNPZXBBeHQyVUJrMVd3?oc=5",
+          "publishedAt": "2026-09-27T07:00:00Z",
+          "publisher": "Yahoo!ニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "91e4abb31766a3c07508",
+          "title": "荏原製作所、営業利益の半分を稼ぐのはポンプではなく半導体装置だ。7割振れた株価と受注構造を分解する 精密・電子事業の営業利益率は16.9%。受注残高が最も厚いのは環境事業という受注構造の偏り - LIMO | くらしとお金の経済メディア",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KMFJDTFkzQWdsanFNZ2UtamdjLTRMVjRxMllDbTFtUDk1RVIzZHdZaDc2c3BkZlh1NzJUWk40OE8wR2J5clRWRWVURGo?oc=5",
+          "publishedAt": "2026-09-26T07:00:00Z",
+          "publisher": "LIMO | くらしとお金の経済メディア",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "02ad8e7c0f9508e60087",
+          "title": "半導体CMP装置がけん引、台湾／韓国で伸長 中間決算過去最高の荏原製作所：製造マネジメントニュース（1/2 ページ） - MONOist",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWNXFQQ0xIQnQ5ZXF4ZVhnaHR1Z2JCeUJPd0pRYTJxZFpHTkNqQV84XzEtd1hSSlctaTAzTk0tbzBSanZ0cEhtNjloTU94R1hZVXQ1Q1lYcmJmT0ZoOFplSEVWVEkxS2l5ajM2VGROYw?oc=5",
+          "publishedAt": "2026-08-19T07:00:00Z",
+          "publisher": "MONOist",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "dcfd378189fb40803fed",
+          "title": "荏原製作所、半導体業界向け極低温チラーを初出荷：電力・水の消費量を最大で半分に - EDN Japan",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qdjBqRWZqaUNaZGpQemxlaDBla3ZjZDRTNHQ3UU0ySTB0aElVM0E4bG1pdnI2dmd0dFh1Y1ItVTdJLThEVUxfYnFxWDB0MjhYVFR1MU1TeXVlcGVlUXJuSlR2VTkwUTB6RTg0?oc=5",
+          "publishedAt": "2026-08-18T07:00:00Z",
+          "publisher": "EDN Japan",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "c1f486bb1d35d5eb0903",
+          "title": "荏原製作所、-60℃対応の半導体向け極低温チラーを出荷 電力・水使用量を最大50％削減 | TECH+（テックプラス） - マイナビニュース",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sR2pMVWgxY1NPNVpSMDVXQ3c4ZTlFbXZmcWJNM21ZZFdFcXd3OWZybVZXYjNaTmNyekVSU3N2M183N2RYOXYtaWNZVTE0emJrRkxpaTByLVJwRDBSVi1uckU5cGxwOUFO?oc=5",
+          "publishedAt": "2026-08-17T07:00:00Z",
+          "publisher": "マイナビニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "e7c0338c09c1aefffbf5",
+          "title": "荏原製作所／半導体加工装置をマイナス６０度で冷却 – - 電気新聞ウェブサイト",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vTkx6VFFvejNOZG5QY2lBNmZ3SzgxSUVxRWxZeE1FeEdzR1RGOG9XbnRzd3ZabURLWl9ZckY1MmtsbDNmWkh2LXcwcXRCbDMxVVFMbHdLcw?oc=5",
+          "publishedAt": "2026-08-13T21:04:27Z",
+          "publisher": "電気新聞ウェブサイト",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 7,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E8%8D%8F%E5%8E%9F%E8%A3%BD%E4%BD%9C%E6%89%80%22+OR+%22Ebara%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "mks": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22MKS+Instruments%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "vat": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22VAT+Group%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "zeiss": {
+      "news": [
+        {
+          "id": "a6ca76a76d4ebfdb53c2",
+          "title": "ZEISS、韓国法人の代表にヤネ・ジェフーゼン氏 半導体SCMに精通 - 디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGNHNnNyLXYzZ0FXQW9EUC1qUE9sSHJjcHdWOTdCeDAxNHBtckJ1OUxiWENCZENud2k2SHh3THBEXzc3MEtVV0lDQ3IxVlZtY0JwQ1JTTV93M3Z2eVkyTkNIdk1HMnMwSVd5dkptQlJNTGF4RG81MzUtT0ZnZG1XVkdPa1Z6NVJ4RmMyNnptZWp3YnduSHA2VldtMl9ZSlUweHc?oc=5",
+          "publishedAt": "2026-09-03T07:00:00Z",
+          "publisher": "디지털투데이",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 1,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22ZEISS%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "horiba": {
+      "news": [
+        {
+          "id": "8c82a3607dd1a2339b4f",
+          "title": "〈Leader's Voice〉半導体装置部品、生産能力3倍に 堀場製作所 足立正之社長 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ScXA2VVdxRDEzZjBwZ3VKMUVaMnU3MERzSXRGekNCS0FuY3E0NENyQVlvbExRellvaVMtcU4xeW9RVkF6T2F0ak1VMWEtVnZyckt5QkRDLVpSMEFPZGJSaWNKdzU2ZFMySjB1MA?oc=5",
+          "publishedAt": "2026-10-01T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "46128ca5f2dcf3807452",
+          "title": "堀場製作所の足立正之社長「半導体部品の新工場、能力3倍に」 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxVjFQVVVTN0xvYTRDQlR0YkdHQV9rOExKNjFhZjhFNHFwSm5EMGhrRGxORm1jZGIzOVBpOFVwR29QOWpVTS1FUlVkeW5Kb3ZOVlc1YmNDZTB3aFpBamRkcm5ZQTV2Si1oLW5qeA?oc=5",
+          "publishedAt": "2026-09-15T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "374444bce230be440f17",
+          "title": "堀場製作所、12月期予想上振れ 半導体製造装置向け機器が伸張、足立社長「28年まで力強い需要」 - 京都新聞デジタル",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80aTJDMXlzSTdMbFg2RUNPRldCWTFUSGFyeUJLYTg3Q3BsV3lKbkdfS29nTUJURjBFdWFraUR1dGVzSEY3N2IxU0U1QjdKektqaUdpY3FudkJkZUU?oc=5",
+          "publishedAt": "2026-08-08T07:00:00Z",
+          "publisher": "京都新聞デジタル",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "d1e935fe9e0c987a4db4",
+          "title": "堀場製作所、中長期計画更新 売上高、純利益引き上げ 半導体関連で拡大見込む - 京都新聞デジタル",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rNFNJUUdjNUtmMDc2b052WEVsaEtBM1Y4WnVSOVctMWxUV3lpWDJXNkFLc1NhaEdMQWY0ODlPV0dkX0x4dnRtZi1RYkkzU0RXQkJtaWduWlc5akU?oc=5",
+          "publishedAt": "2026-08-08T07:00:00Z",
+          "publisher": "京都新聞デジタル",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "2a589e850a7d2e8df13b",
+          "title": "堀場製作所、熊本県の部品工場で生産再開 半導体製造装置向け - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xQUxpSlhNdGdDRDhId3JieVd0WGpJZEJMdjA1ZEdOc2ZBWXZqYVpZQlFUcWh4aFBFUG03cnZVT2t5NC1TbE9hNlRMWUJ6T2pXaFk3aU44OGI1WE95VUQ1aTlCUlZ3N2lqYzNoVg?oc=5",
+          "publishedAt": "2026-07-31T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "2f090e10e9e947762b23",
+          "title": "堀場製作所、熊本・阿蘇工場を操業再開 半導体関連製品の中核 大きな被害なしを確認 - 産経ニュース",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRVzNwOWtlbXhndHNVb0xwZWNvbjh4UkxSanBQNnJxX1NBRTExQzhvQ19FNE9lRlVTajB0WUlQOXFoZFVZTDgydUU4cGZXVTdPaGR2UUxId2IwdmJLSHpWVmdVaGN2V29HWlJheU9HaHQ0cXRxOXc?oc=5",
+          "publishedAt": "2026-07-30T07:00:00Z",
+          "publisher": "産経ニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "699be64702ce06aaea3d",
+          "title": "業績好調の堀場製作所、なぜ車・半導体分野でトップシェアなのか？ - JBpress",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWMGNwVHB1OHZaajVDcDR6cWZjMTI1Z1k1U01LRGlucTNINUh1ZHBkb2Z1N3VWRnZrRmlaNjJydzVUSDRhSHk3Wkw0ZDNuSUhSQWNRQmZn?oc=5",
+          "publishedAt": "2026-07-29T07:00:00Z",
+          "publisher": "JBpress",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "aec58bfb37d239efba40",
+          "title": "堀場製作所、熊本県西原村の工場「大きな人的、物的被害ない」 半導体製品でシェア首位 - ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10UUxGZGU0dlBjR1hTakRNVThjdG9hZ0dXNUlsaVJnb1pNNkI0dERlZk9zRUpSR25XSnhlOWpxWHBzcjJqZWotcGxKVFh2TDhWaGNUTkdENHNhQ01ESDEwMlN0bkNnUEZtTXc?oc=5",
+          "publishedAt": "2026-07-28T07:00:00Z",
+          "publisher": "ITmedia",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "f9d88a034a02ed3e5d6b",
+          "title": "堀場製作所、熊本県西原村の工場「大きな人的、物的被害ない」 半導体製品でシェア首位（写真・画像 1/1） - 産経ニュース",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFRJVE5HczVpMmVHc2dFSTA0SGtUNHByZERib0hDM2pMQnlveVhnZkw3Wk1DQVZ2VzBrVGJNdWFqTU52SWMtdFN6ZFgzT3pBYndtTmsxTEhGVTl3VW5xdWF3UFNzbkZrQy1NdUtKS2FzekptRm12WW1BSFNWTDVRbWtid2FEZ1ZueFZzSnA1djFaaHloMkcyY080cXpRR09VR3c?oc=5",
+          "publishedAt": "2026-07-28T07:00:00Z",
+          "publisher": "産経ニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 9,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E5%A0%80%E5%A0%B4%E8%A3%BD%E4%BD%9C%E6%89%80%22+OR+%22HORIBA%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "thk": {
+      "news": [
+        {
+          "id": "a881673097630cff9aa3",
+          "title": "【THK】直線運動の絶対王者の正体〜AI・先端半導体の超微細化と高タクト化を支える「LMガイドの要塞」を牛耳る、メカニカル・コアの真実〜｜Semiconductor Geek - note",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hb2p5U05HQlFOUjVnSEJjdWhzWS1HZEd0LTNhcnNOMllReVp4MnFCQnhKcExQcVNkYVhNZkVEVnpXQ1Q2SjFyQ3VyNVhLdE9XWHBXT3JvM1FiZnNuR2c?oc=5",
+          "publishedAt": "2026-09-01T07:00:00Z",
+          "publisher": "note",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "92f87fca470501541786",
+          "title": "[THK] The True Identity of the Absolute King of Linear Motion: The Truth About the Mechanical Core Controlling the 'LM Guide Fortress' That Supports the Ultra-Miniaturization and High-Tact Time of AI and Advanced Semiconductors｜Semiconductor Geek - note",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rRW91V3JvMEEwTFdIU2ozMGxrQ1VTN1NTMXpSRHM4V09lYzlTQXJxamxKVkJFNFV5MWZZRWJPRGZjX0dyME1DS0xMNElMMzhEanpuQ3Z3UDhjNWdIU0tYVThtenR6dw?oc=5",
+          "publishedAt": "2026-09-01T07:00:00Z",
+          "publisher": "note",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "ff97d92ebb754ac3b726",
+          "title": "THK【6481】株価快走、年初来8割高 PBR「1倍割れ」から「3倍」に AI・半導体の追い風と構造改革で躍進、好調は続くのか？ - Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOThsbGFVVkxUbmMxbXR1NUwwbENYR0pocDVfQkJtdEZjOFRpNk5lQU9MT2tDZW14UVIxTFJtZUtFZ3drODJ4RmsxNmphSTRrdWgzdmM1UlZsbGlKb3NkdzN6QTl6VzRhVDBKazA5WXpsTm5qQWxIQXJyaTE0QkQzQUR6bklibU5kemZjVERn?oc=5",
+          "publishedAt": "2026-08-24T08:48:40Z",
+          "publisher": "Yahoo!ニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "9a10c4a8548e69230188",
+          "title": "THK【6481】株価快走、年初来8割高 PBR「1倍割れ」から「3倍」に AI・半導体の追い風と構造改革で躍進、好調は続くのか？ - Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WLWRFVzJqaFY1U0tabmlzdkh6MXQ3Z20tWXdjTGcySDJGSUZxMG15Q1d5ZXg0WWdhTTRTV0ZYbXBDVy1RYTlNWmlHTjRNRzk5WXU2ZUFrQk8yTzBBcXQwVnZRU09OekVMYTgySXRNcTg4WGxPYmJOYURHaGcyc0k?oc=5",
+          "publishedAt": "2026-08-24T07:00:00Z",
+          "publisher": "Yahoo!ニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "54b20d042a685aa4e68c",
+          "title": "THK【6481】株価快走、年初来8割高 PBR「1倍割れ」から「3倍」に AI・半導体の追い風と構造改革で躍進、好調は続くのか？ - ｄメニューニュース",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2clRpTTBQbjd3QXdHejlXU3hwcDRQdVFBbmd1WjFKQlNMTHVzN2JKMFlBckItVGstR2NlMlUweGxGaS0tM09xT3FOYkRUWmdKWFVJRWkxcHF5bjF1bTI5czk5c3NjWHhRdU56R0Qtd1paeFM2MXRHVGJR0gF_QVVfeXFMUGxKMFpzWnhUQWtoY0VPVGxLTF9sMFVlN1IzRXYtMFZubS1GMHZVc1NSQjBMTTVQdlZac2J3UWVCVDJuQVlZWWZaWUtyanFoeGVnN0xNaW5nUXpwRmZWR0djcUJpVEcwN0VBY0IxekVUUUM2ZTNzcHgzaGZTNEF2RQ?oc=5",
+          "publishedAt": "2026-08-23T22:53:24Z",
+          "publisher": "ｄメニューニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "cab58982872ee2f940f5",
+          "title": "THK、26年12月期上期決算、売上高32.4%増の1510億円 半導体需要好調で通期上方修正 - オートメーション新聞WEB",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sTzJUQ25fRUtrNjlra2FwaEhwSDZGZ29tcWdXUEtaazJjbVNlQzViZ0RKR3FfRE1wRklFNEp6Z3pSRjZtZnRfZDg2ZE5nNVZta00yQXo5bWtzdw?oc=5",
+          "publishedAt": "2026-08-14T07:00:00Z",
+          "publisher": "オートメーション新聞WEB",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 6,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22THK%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "ngk": {
+      "news": [
+        {
+          "id": "9eb77be9da0714cdfe7c",
+          "title": "【NGK(旧日本ガイシ)】セラミックスの絶対王者の正体〜AIサーバー冷却と半導体製造装置の裏側を支配する「隠れインフラ」の全貌〜｜Semiconductor Geek - note",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02VjljelRvOHg0LVluUVhNNFZCQmt6ZVdYZUFUS0hrSHpIMjRmaW1DTkozRkU4eXhaWHlVUFVXcjVMN25vZnRsS0dsV1VIakk0bF9KeHNqVHUyUms0eHc?oc=5",
+          "publishedAt": "2026-07-25T07:00:00Z",
+          "publisher": "note",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 1,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E6%9C%AC%E3%82%AC%E3%82%A4%E3%82%B7%22+OR+%22NGK+Insulators%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "mjc": {
+      "news": [
+        {
+          "id": "2fadd28e61ad625ec98b",
+          "title": "日本マイクロニクス、メモリ向けプローブカードの売上高が過去最高を更新 生成AI市場拡大を背景に旺盛な需要続く - みんかぶ",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1BU3JCSzJfYmxSNEtuX0E4eEV3MTBDdkFNY0xuUGJzMU1nZERScjF2YmxoU0pZRjA2NjR5d0JEaVdZS3l6ZlE?oc=5",
+          "publishedAt": "2026-08-14T07:00:00Z",
+          "publisher": "みんかぶ",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "6d04089c273c5be7bba0",
+          "title": "日本マイクロニクス（6871）、メモリ向けプローブカードの売上高が過去最高を更新 生成AI市場拡大を背景に旺盛な需要続く - ログミーFinance",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9obXhTZW9aQUYwXzUxYkdKaVBfUkpka0pDcThrZHlYQjA3X0d6VUN0R3NCYTAyQVVTY1pEckxDcWtaWElHbHJYX29RbUVkemNBWXc?oc=5",
+          "publishedAt": "2026-08-13T07:00:00Z",
+          "publisher": "ログミーFinance",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 2,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E6%9C%AC%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%22+OR+%22Micronics+Japan%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "yamai": {
+      "news": [
+        {
+          "id": "3a29feab222e7ed6b633",
+          "title": "山一電機、フィリピンに第4工場建設…半導体テストソケットやコネクタなど生産へ - レスポンス（Response.jp）",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94eWFsLXdkN1h3Ml8wUXBGaFN2Yy1mRDk2MVZoejVDcXMwTmpJN25KVU1WQjc2bl8tVW5yLUFZOGtqYmZ6ZkVJU19qTUI2NTRySlRuVjZiUTFXbnBYdzRr?oc=5",
+          "publishedAt": "2026-09-25T07:00:00Z",
+          "publisher": "レスポンス（Response.jp）",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "1dd9c1646454ed0b76e6",
+          "title": "山一電機、フィリピンに第4工場建設…半導体テストソケットやコネクタなど生産へ 1枚目の写真・画像 - レスポンス（Response.jp）",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TOFhsYkJZbEdDZnJseVRGRHNIc0ZFOGJhSDcxMVhYWVB4VTE5QVg2NHlGeFhkTHo5Q3dwNG0tWlJxbW5OTDJWODN4SHhqaVRNZTVzVldyMUdHeURYXzdtcmE2SU0zMmpqR085MFlCYw?oc=5",
+          "publishedAt": "2026-09-25T07:00:00Z",
+          "publisher": "レスポンス（Response.jp）",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "265b52120d1b5f3ea5e6",
+          "title": "山一電機は続伸、半導体テストソケットなどの組み立てを行うフィリピン第４工場建設 - 株探",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPZktselNORUVMaEkyX0lJd3hHbE9XYy1YTThLajlDR0ZSNFI0ek9lODdWdjhsWWc2WlRwbjVZeC1pZnZIdXJoaFJkelFLTjlDaU5LSE1GNzdHLUZNWXJ0RA?oc=5",
+          "publishedAt": "2026-09-24T07:00:00Z",
+          "publisher": "株探",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "9e59c551f0c68f51fecc",
+          "title": "山一電機は続伸、半導体テストソケットなどの組み立てを行うフィリピン第４工場建設 - ライブドアニュース",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UNFhOTTlTTHR4aHViQ2NQY2ZRVXJvVEFKR1FQaEJVZU84NmFCX3hSOTBqZkZZOGZKNXdGMV9YdzdWVjc4MExiTHp6ZjhNZ2JPakxPc3FNTHBUN3hMWEpZ?oc=5",
+          "publishedAt": "2026-09-24T07:00:00Z",
+          "publisher": "ライブドアニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 4,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E5%B1%B1%E4%B8%80%E9%9B%BB%E6%A9%9F%22+OR+%22Yamaichi+Electronics%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "jsr": {
+      "news": [
+        {
+          "id": "aa5aa12bc0505ab395a5",
+          "title": "信越化学、JSR…AI半導体の製造に日本企業が不可欠であり続ける理由 - JBpress",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LRUFCM0hhRVJzYURTR0NSYlAyYk9HMmVHaVQtVkNvclRUNjlkMm94dW1fQllEUEs2czlwWk1HbUZoMEppZW5DcmVxV1U1bVRHeW8tMkJ3?oc=5",
+          "publishedAt": "2026-09-17T07:00:00Z",
+          "publisher": "JBpress",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 1,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22JSR%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "disco": {
+      "news": [
+        {
+          "id": "0347b15b1a9ae3f78f61",
+          "title": "半導体業界の年収、AI特需受け5年で25%増 ディスコは倍増1880万円 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jemJqVVY0bUR4MTRJU1cxSDRhVXNvUFlHVFhGcHFOVHJ0TWhiMFBqbW1vZDVNZnJGUEt0TEN6UTVNM2VfUVhfTl9kaG12RHdrQTM5OWNUX0FTd2Z5eVNwdzhzWm1FaFI5cUJLVQ?oc=5",
+          "publishedAt": "2026-10-06T17:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "c29009b6a57319fdad82",
+          "title": "日本の半導体株「リバウンド」鮮明、ディスコ出荷額が60％増で過去最高 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wV1UxVjhpRmVPR3d4VEFoZkRvcHplbXpvV0JxeFVJb24wREtEb3daaXdEMWdzT1RldjZsTThaZHFycGlsVjlTZmY0SFdFMTRtaFNLRVJIdEM2X29SeFRHSG5Sa1lsSzF4UlFycDFLM0k?oc=5",
+          "publishedAt": "2026-10-06T09:40:00Z",
+          "publisher": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "33231b42cc6060ca44ba",
+          "title": "【半導体株】キオクシア純利益48倍、一方ディスコは好決算でも株価12％急落。「期待値の罠」とは Reform Uk (aQMsfg6mgZ) - Unisba Media",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWQtMVZnTkJJaUx2V0lLazd3djhYVXpaLWdNVHRRcmdEY0tBM0JSNE5lSzE3Rndkb0NvMmIxalowb0FGaG56ZnF2dmNPLVNTSF9meF9ETVNTbmV2aHdCV2NIaVp0bE0wdEVlLVZNRVdGM2RfaXdKZG01ZW9WRi1SN25B?oc=5",
+          "publishedAt": "2026-10-05T12:26:32Z",
+          "publisher": "Unisba Media",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "b74942ad70f61e6ea4fd",
+          "title": "【半導体関連株】ディスコ/ASMLホールディング/スーパー・マイクロ・コンピューター【決算レポート】（今中 能夫）【楽天証券 トウシル】 Lumix L10 (PJpH5OU8EI) - Unisba Media",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLW5YT2JYTDNNX19KY2llNjZ4V2dhcldYdFF1MW9qWGRXbmxtSm9JeHBrY3ZFOXlfa1JWMlIxekJlMU1uSUVycE0wQlhMOTctYklmUHVWR1RlODJtczJBM3VSZGdzYUVPcGxPTmNIcVFYVjNaVnV0T01XcThiQ1YzWnZ3?oc=5",
+          "publishedAt": "2026-10-01T01:34:22Z",
+          "publisher": "Unisba Media",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "42f8f2f04f73807663d4",
+          "title": "アドテスト、ディスコなど半導体製造装置大手が高い、米半導体株高に追随し日経平均上昇を牽引◇ (2026年9月28日掲載) - ライブドアニュース",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13UEV4RVFHUGlaRThyLVJkV2JhY3Z2ZUJ5ZlFMdHU4aVlxTk5iYU9Xa3FkVFA1dWRjR3lIWmxJMUZjNTQySW5nZXE5TXAxLUNmVk5ZSlVuUEtxaE5SQUE?oc=5",
+          "publishedAt": "2026-09-28T00:30:11Z",
+          "publisher": "ライブドアニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "5d82648d5f7bf798bf3a",
+          "title": "【50歳推定年収2000万円超え】半導体製造装置大手・ディスコの独特な報酬制度 部門・個人の収支を「社内通貨」で管理して賞与の一部にも反映 - マネーポストWEB",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9EQV9WWFFjNWRrNy02b2d0aXgxN1BCQnpRc3Vhai1kdzYtdnlOckV2SXR0YVB3bnZrUTA5MGh4ZGtROHdIWWdv?oc=5",
+          "publishedAt": "2026-08-28T07:00:00Z",
+          "publisher": "マネーポストWEB",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "d4ddd742f070139b159d",
+          "title": "半導体供給網を守れ BCP優等生のディスコ、3次取引先まで情報把握 - 日経ビジネス電子版",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ReHN1QUp4VEVnLXp4WXZwY2F3eHpMZnk2MWV4ekJYeWVZNXRrcWR4UVJNWHZRM3lJRE9oeDZiTENZdlI1OGR1X2xJVERNbU12M294UmY5T2R2NnR3RmJuVXltdnUxU3JGbXNuaQ?oc=5",
+          "publishedAt": "2026-08-03T07:00:00Z",
+          "publisher": "日経ビジネス電子版",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "882988bc646aef2fa100",
+          "title": "【過去最高益予想でも大幅安】半導体製造装置大手・ディスコ、決算発表後の株価下落を生んだ“市場予想との乖離” AI需要拡大に伴う増益予想は本物か？その先行きを決算から読み解く - マネーポストWEB",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iOW8xOVZjci1OZUNWNG1xekx6SFRhWk9zbk8tOGdRM1FmcGRpTUI5U1o5bnM2QV9MX2p3MjBCNTVXTUYwSEhz?oc=5",
+          "publishedAt": "2026-07-31T07:00:00Z",
+          "publisher": "マネーポストWEB",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "d31efeed25ebfc25a7a2",
+          "title": "ディスコ株価が急落している理由：6万円台から急落した半導体銘柄の今後を分析 - EBC Financial Group",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OT2RfdURfZjZuM1ZfZGxuTTBjbEd4SDZIVl80YjZiUjFVcDM1bVRKLWIwRERkanpZZERWMzZ2SS1IMVdqb1lfLW02SVR2U014S1E?oc=5",
+          "publishedAt": "2026-07-28T07:00:00Z",
+          "publisher": "EBC Financial Group",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "855fb6fc0f986146b1aa",
+          "title": "ディスコはなぜ営業利益42％増でも12％急落したのか？AI半導体市場の「期待値の罠」：東証プライム社長必読記事 - オルタナティブ・ブログ",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92VmVBT3B2Qjc0Sk9zZzJ4OXJDVFh6TE9wdXI0UEdKa2VaTVdwSFF2OUNUVVhxUXNkRXBqbk5pOFIwOC13bm82YzIxakxYU2dTdmFvM2dYUnRTV2lOVlExNnpFRG0?oc=5",
+          "publishedAt": "2026-07-27T07:00:00Z",
+          "publisher": "オルタナティブ・ブログ",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "2cb787635bdcab349364",
+          "title": "ディスコ急落、キオクシアも売り浴びる 半導体株に逆風、レバレッジETF規制前倒しも影響 - BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9INWhtcmtNTVdrUFFqM0hoRUlaalRwMDBBNnNNREtUODVVWkxpRnpoX3VMSmJWOFlfQ1VBMnN0S3pkY1k0QkFsTDM5YkdpU2h2MG5JTV9aOUVYLW00R0F4RXhvci1lSUltVXdiMnJjaTdSRmVs?oc=5",
+          "publishedAt": "2026-07-24T07:00:00Z",
+          "publisher": "BigGo ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "ef3c0d75ddde775d637e",
+          "title": "ディスコ急落、KOA急伸 半導体関連で明暗、ソフトバンクGも反落 - BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IUUV4bGYzVU9maFpudkVpWGRuZGZlUmJWV19XeWhoODVBblNMZ0Z6WkRmMzA4MnBJenN0aThqV00xbktlUHNYM3I4eXJIWDZhRW1jRndrNFM1TENZOGRRSU4ta3hoWW9pS2ZiMTJDV0ZNV0JU?oc=5",
+          "publishedAt": "2026-07-24T07:00:00Z",
+          "publisher": "BigGo ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [
+        {
+          "id": "6c101162d2b74f91f3e3",
+          "title": "第87期 有価証券報告書（2025年度）",
+          "url": "https://www.disco.co.jp/jp/ir/library/doc/fs/fs87.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        },
+        {
+          "id": "77ebd6490a21cfe60d9d",
+          "title": "決算短信（2026年度1Q）",
+          "url": "https://www.disco.co.jp/jp/ir/library/doc/fr/fr20260723.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        },
+        {
+          "id": "72eb9f6746a547e09138",
+          "title": "決算短信補足情報（2026年度1Q）",
+          "url": "https://www.disco.co.jp/jp/ir/library/doc/fr/fr20260723.xlsx",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        },
+        {
+          "id": "11146d5138960c3d45f3",
+          "title": "決算説明会資料（2026年度1Q）",
+          "url": "https://www.disco.co.jp/jp/ir/library/doc/film/20260723.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        }
+      ],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 12,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%22+OR+%22DISCO+Corporation%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 4,
+          "sourceUrl": "https://www.disco.co.jp/jp/ir/"
+        }
+      }
+    },
+    "tok": {
+      "news": [
+        {
+          "id": "c479f70b9e6e8e513423",
+          "title": "東京応化工業、郡山工場の半導体フォトレジスト新製造棟が竣工 - 電波新聞デジタル",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wUWpuTERNUmxMZWJ6UW9pUnFyd29vM0dVYVJucVFpbHJJQktzX0xBU3ZlYmZiS2tmZTRIVkVILUhwM3FJQ3J1MmZ1R293d3RWYUE?oc=5",
+          "publishedAt": "2026-10-09T06:05:51Z",
+          "publisher": "電波新聞デジタル",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "4f1d7f09dc2f3673ba71",
+          "title": "半導体材料大手「東京応化工業」の新製造棟完成 郡山、11月稼働予定 - 47NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZdGljdmpkRnk4UWQ1MlNSLVVxUzFuc2ZkSzk2eEVVS1l3ODlfRUNKb3RyYUJKd0ZxODNGZ2Roa1lYLWFBWFR4TDdjNA?oc=5",
+          "publishedAt": "2026-10-08T22:30:00Z",
+          "publisher": "47NEWS",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "b0b797c1a98f3b2f5db8",
+          "title": "東京応化工業、半導体需要拡大見据え郡山増強 - LOGISTICS TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43VV9NSHA4X3h0UlQxbFhOTWx0MUQzbG5yZDFINjB3YllBczJoTUdRalZZalg5SmhSQnpIOUNfTlpZQk5zQjZQVGJR?oc=5",
+          "publishedAt": "2026-10-08T09:08:33Z",
+          "publisher": "LOGISTICS TODAY",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "afd0a5a3c4333c5ff61c",
+          "title": "東京応化工業、約２３０億円投じた世界最大級の半導体用フォトレジスト新製造棟が竣工、１１月稼働へ - https://kabu-ir.com/",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kQXRrd1YwTFF2TWl3LVpqTDdWb3p4dDN6Qm1KSGxmX19XdlVRMmlmWk52U0NtdTR2VWxiNnJyWWVzOFlXVWZ5d0llNXFvaFh4RHpjdg?oc=5",
+          "publishedAt": "2026-10-08T07:09:01Z",
+          "publisher": "https://kabu-ir.com/",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "17fbba001d331057b09f",
+          "title": "【半導体】東京応化工業、郡山工場新製造棟竣工 - www.ctiweb.co.jp",
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOUmljSWVFaHkyeE52b0UxNmduZ2VLN0NmUkZwN0I4aFhRY2czZ3pSbW9KQi1QTjRVSGh0elg4WTg3eFRNZHRPd0x6c2xrZzliNktFT2lhUTctQlpSMXFUWEREdXdsTU50VW5ycWZPcG9sNDkyMDNFN1RPNFlaYWgycG5NZmp1ZmdYRkFHWDZCZERpam8zdnI3Ym05RGZuS0M0OE53YXFhSk15VENKU1E2LU5zOXM4cy14VDhEa3NlUlhMMWtKT2NYZDVGdXVicDFLbjJlbk50WVlLMkJxMnE3ZnFBNzVOeFVmckp5aWdLQ0piUFRDeXpCRnR5cDRQTlU1ZnNsblVSQ2xROVV0Tm5INHRUTG1Ba24xX1R6aXFhdFhXSFMwVTIwSXZQdGJodVNhSWcwUjVSMjVnLWFzWXVzWmNSZnFFWkxpQmJtQ3pFUWJZRlJxTEE?oc=5",
+          "publishedAt": "2026-10-08T06:23:28Z",
+          "publisher": "www.ctiweb.co.jp",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "ff181322ff254dee5d3d",
+          "title": "東京応化工業、半導体材料の増強前倒し レジストなど日韓で検討 - 化学工業日報 電子版",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vSmpxSzRfRVFlNEtoSWhjUnVBU0txSEVibWZkQ2hQV2ctWkR3b0ljSzlGcldMVWpHS24xTGp0OGp1YUhpeUJ3ZXNXal9pY2k3ODR3?oc=5",
+          "publishedAt": "2026-10-07T20:04:18Z",
+          "publisher": "化学工業日報 電子版",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "b0041ceb0e0fa0de56f6",
+          "title": "東京応化工業、韓国に半導体向け高純度化学薬品工場を新設 約120億円を投資 | TECH+（テックプラス） - マイナビニュース",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlYkw3ZjZoeUhyTWJZN2lXVkFfcDV4MEthUGRsNFp0OUxacWM5N3BFem8wdWV0UmY5TlllRlkxODc4SWtCNTBDT0hPeFNONkx4bV9FSnJ1Zm5TSnZOeUpmR0dqdDRMdzRu?oc=5",
+          "publishedAt": "2026-09-16T07:00:00Z",
+          "publisher": "マイナビニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "f39dc0b4dc3c546760c3",
+          "title": "東京応化工業の高瀬執行役員「AI需要拡大、半導体材料は後工程含め成長へ」 - 日経ヴェリタス - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NTmdMN2drZDBkQmJhUlVLUGh6aGdycGpac0tzQTBZMGJ1MWxoTjhkOGhaaDdQYkRIMk9Sb20zUXRjUkVHRlZwRXhNTjRMSTViSHRVV2JiZElkWElrcHhhY0Fhcmp4cHNvTVNMMERRS2Y0Z0k5dUp2Y2QyU29lUQ?oc=5",
+          "publishedAt": "2026-09-16T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "06d1a4dbd3d8981b149d",
+          "title": "東京応化工業、半導体製造向け薬品の韓国工場竣工 27年上期稼働 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pSXk1YTh2MTJSQ1dxemItVEVVMU1xbUtwdDZZbUJxSEloSWpvZzhsRHE4MzJVdFdQRkxTUzVhUUpyejdERG5QemY4NFFaUlBvSkFjcVFoZ293M1E3OU1kdWhoRGFyd2ZMZm0yUw?oc=5",
+          "publishedAt": "2026-09-15T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "e5f05ed64c8f604e372a",
+          "title": "［読売３３３ 企業に聞く］半導体進化 材料で支える…東京応化工業 執行役員総務本部長・本間裕一氏 - 読売新聞",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PSjZvRUpiWWZGXzh5dDFqQjN5V1o2UGdYYmdxZUw4R2F2WHByUW1ZS2ZuTTVEd3pyYmR5cll4S3N6bjV5andRcDBJLXJodktFVjZSWElqazN4RzMxUFBfRQ?oc=5",
+          "publishedAt": "2026-08-22T07:00:00Z",
+          "publisher": "読売新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "5b7f68b94cf4d4f60e35",
+          "title": "【東京応化工業 FY2026 Q2（中間期） 決算説明会】 EUVレジスト65%増、AI需要で中間最高益 中期目標を1年前倒し達成へ - BigGo ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tZzlNd3ZmczVOUVVNOTVPZnVxSklVY3ZscGszaUVhVmJKUVdYNEVZUWk4VVZxcUpyR1c1RFJHVS1ERFExSHlpckEza3Ryd0xnVF9sMVYyUVhEa2pRdDhF?oc=5",
+          "publishedAt": "2026-08-06T07:00:00Z",
+          "publisher": "BigGo ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "90e37f2b7eff02dd7109",
+          "title": "半導体材料特集 東京応化工業、先端領域でのシェア拡大へ - 化学工業日報 電子版",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83X0pKV2cxOFlLTDZCTzZMeE5wRVJxWGY3MURaVzZGaHlFNENfRGNHc1QwTnVOOUd2azlqb0NOV3ZfdGZOb0pBUjFqUnNyTHdHRk5R?oc=5",
+          "publishedAt": "2026-07-21T07:00:00Z",
+          "publisher": "化学工業日報 電子版",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 12,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%9D%B1%E4%BA%AC%E5%BF%9C%E5%8C%96%E5%B7%A5%E6%A5%AD%22+OR+%22Tokyo+Ohka+Kogyo%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "fujifilm": {
+      "news": [
+        {
+          "id": "0c9e8984692f1b9ae154",
+          "title": "富士フイルム、米４拠点で半導体材料を増強 研磨剤・洗浄薬液など - 化学工業日報 電子版",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFaWdPMUdJVkI4WG5BT1NURjU4TUFwTmJuTUxKNHdKWXk4bl9XU0h3NXdwWDhkSWdqTkpFZV9aNzlWU1k0NVAzYTJyVmZQMmdENnU0?oc=5",
+          "publishedAt": "2026-09-25T07:00:00Z",
+          "publisher": "化学工業日報 電子版",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "eeac2246f01181a41697",
+          "title": "富士フイルム、インドに初の半導体材料工場建設へ：130億円を段階的に投資 - EE Times Japan",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rXzBHUmFYWGpjVmdLVDJISnlGWS0xdTNJeHJ0YlRoSmp6dkRVdkJpekp4NDJhdVpMbk9FTS1WT2JudTcyQWd1NGpTQ0lnRXc5ZElnckIzRUlMeTBmd3BvNUNPcDF0LWhEaEszUEpuNA?oc=5",
+          "publishedAt": "2026-09-24T07:00:00Z",
+          "publisher": "EE Times Japan",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "89844f9a0df235702df7",
+          "title": "インドが狙う半導体大国、自国産支援2兆円 富士フイルムは工場新設 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uOEprV3NYdEJ5dllmZ0k2bGozQUt2YW4tV1BCRm9CVW5uVm9IUGFJV2hhM0paT2tmLUdVTWN4SHF1VnRnMjR1VEhyc2dmWU5hbzBfdExucUJJSlkwQ09vSWQ1UVpuQnl1SmFlaA?oc=5",
+          "publishedAt": "2026-09-18T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "56c091229a2467d2c511",
+          "title": "富士フイルムがインドに半導体材料工場を新設へ、タタの前工程工場向け 約130億円を段階的に投資 | TECH+（テックプラス） - マイナビニュース",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLRlBFNU0wLTE3WnpFbGNKYU94eHp0RENMNVgzODlVbW9BOTlvWXUxdEJQa01lTUdVQ1VPR05Qb01vMFdwajlTY1R1dHVMRXVPamhzSi1mc3JYaG1qUjBKQU00TURQb0ZG?oc=5",
+          "publishedAt": "2026-09-18T07:00:00Z",
+          "publisher": "マイナビニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "84c80ab15c2c6d9d7b0d",
+          "title": "富士フイルム、インド半導体材料工場に130億円投資 タタ系と協業で - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yUGpyOHZhNVF5Q3kxdm40bDgwWlA5a0R5MUZnVE5CMXpON1N6c2gxaDdWN1NsYklFRGN1WjhFRzlwZFBKTGhPazU3aFBOOU5sdjVfZGoxR0praWFhTG56YnlrZFJUeS0zbWx2QQ?oc=5",
+          "publishedAt": "2026-09-17T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "bcdc4ce86bea4137ac57",
+          "title": "富士フイルム、SEMICON India 2026に過去最大規模で出展…CMPスラリーなど先端材料を展示 - レスポンス（Response.jp）",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sUXR1TFdUWUQxb2pNRGg4aW9iQnhnYmVFNDZxYUVDamdyeDZ1a1ZnQzZnTHpjdnNZMUdtRkNzSDNhcUl6SlBuRFJENjFZc2xBOGp5OUJpYWNmTFYxdFBF?oc=5",
+          "publishedAt": "2026-09-17T07:00:00Z",
+          "publisher": "レスポンス（Response.jp）",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "c52e0ba2802fcd2f13a2",
+          "title": "富士フイルム、半導体材料工場の新計画 台湾で年内に用地取得へ - 化学工業日報 電子版",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CSDc1U0VRWkphTWpSZGRuOW9pOG1EcjlJS3R0N0JacERYdk8yVFJxa2VrenZnYU8zNkpwVmlUa3JJNzN0aU50RndhMHJaQ1p2cFNv?oc=5",
+          "publishedAt": "2026-09-16T07:00:00Z",
+          "publisher": "化学工業日報 電子版",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "3947081ea0b97a4ceb0b",
+          "title": "富士フイルム\"隠れ半導体銘柄\"脱皮へ総力戦､半導体材料の売上高倍増計画は｢後工程｣｢インド｣が切り札 - 東洋経済オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40ODBlVmFQLUc5aTk4b3ZISUdkYk1vR0VZSXpvenJRWXc2ZlVLajY4eHVESVVWVnV5ZV85NU85NjR3ZmZ2UU1ydHlVU3ZJNGlqLUZzSjZQME13UnRGcG5B?oc=5",
+          "publishedAt": "2026-09-09T07:00:00Z",
+          "publisher": "東洋経済オンライン",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "16f50178a7a7cb8c36be",
+          "title": "富士フイルム、圧力変化の測定システム 半導体製造の不具合検出 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DSnZZTnd5WFRrcG9Wbl96OW9rSXFMWWM5aEFRSjFVSFhocWNIUFFTUTVuRGxQUlUxUWJpUEJkV0FYd3lFVlBxMjlLLXVVd2JJTVlENXJvc0g3cEF3S0pJSXVRSURoYmdhQy05cA?oc=5",
+          "publishedAt": "2026-09-07T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "520d9f00d81021e243f9",
+          "title": "富士フイルム、半導体ウェハ研磨時の圧力変化を可視化する面圧センサシステムを発売 | TECH+（テックプラス） - マイナビニュース",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FUVE0aDlXTWdvb1RpNmFzdkhWNmpXdkhqTngxV2g0UHN6d2JfZ29oTllDNi05TU1JZTdmeWoyWGNsOGNLWWFmR29nbFh3VXV6RUlGUEdDNjlTRXJETEpIVmJ3WE9RcnUx?oc=5",
+          "publishedAt": "2026-09-07T07:00:00Z",
+          "publisher": "マイナビニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "456167acbf66c4ddd86d",
+          "title": "富士フイルム、半導体研磨剤の開発2倍速 複合機の知見生かす - 日経クロステック（xTECH）",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84ckI5WTd0My1UUGJwRHdzYXJmNXdwRXNNQjVtakhveWJzTUJTQkJjdjd5OU90b2FCeTU1WGFRYVFhZWdYLWIzaVNzTGVOVUFFbUlWaVRuc1JQcUJjbVM4WUlxa3J6R1E?oc=5",
+          "publishedAt": "2026-09-02T07:00:00Z",
+          "publisher": "日経クロステック（xTECH）",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "9800fa6903d250e6cb29",
+          "title": "〈富士フイルムHDの大決断〉ついに看板事業｢旧富士ゼロックス｣を分離､成長柱にバイオCDMOと半導体材料を掲げる勝算 - 東洋経済オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95WXFlbU1lVmNEUjl5R0d4eDR1eEhuYzcxOUwyODhaTDRRZ1d3SHZuMWY2aTdPTzF4THpGYXVqbEVjWlVpMmhtSlpRTDdoa09ZNDEyM2FySDBqX1dvaXFF?oc=5",
+          "publishedAt": "2026-09-02T07:00:00Z",
+          "publisher": "東洋経済オンライン",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 44,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E5%AF%8C%E5%A3%AB%E3%83%95%E3%82%A4%E3%83%AB%E3%83%A0%22+OR+%22Fujifilm%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "merck": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22Merck%22+OR+%22Merck+KGaA%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "nippongas": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E6%9C%AC%E9%85%B8%E7%B4%A0%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%22+OR+%22Nippon+Sanso%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "airliquide": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22Air+Liquide%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "sumco": {
+      "news": [
+        {
+          "id": "43f4c78e809ff784877e",
+          "title": "下期に勝つ株：半導体関連＆金融の注目日本株10銘柄――SUMCO、三井住友FG 天海源一郎 - 週刊エコノミスト Online",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ocklhMzlqejM2WDNHZ2RSQW9Eb0NSdnBrYmRZc0d2Rm85eERES2IxeFExN2Y0QnZXM3g2czJRV1VkYjFxdUJtRUt5SWdqcUdIMVJWNElnSm5yTndIbHJQRDRseEkyYW12V2FlZEhHcHZPUTN3UnJSU1FkdUk5Tlk?oc=5",
+          "publishedAt": "2026-09-04T07:00:00Z",
+          "publisher": "週刊エコノミスト Online",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "93ac5908ac6ea9a60b40",
+          "title": "【開催報告】AWS Summit Japan 2026 レポート：SUMCO が挑む、Amazon Redshift × 生成 AI による半導体ウェーハ製造 DX - Amazon Web Services (AWS)",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdmpZbmZjVFRKNU5DVTVuYnJmOFRNU0tCcGZsMTR6SFlOWWFvS081NXNkYkoyYUF5LWEtR1hSQkVmZXduMGxXYXBpc20wLXhEclpVVlNBb0FnR1UwMEd5VmR5c1F5ZFItTFp5X2lfMVdReEQyclBDUzc2bTI4VEUzQjhXc1hjdk1FQm95OGVyTjBQd2c?oc=5",
+          "publishedAt": "2026-08-18T07:00:00Z",
+          "publisher": "Amazon Web Services (AWS)",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "96740bfc406ffc611f81",
+          "title": "【SUMCO】シリコンウェハの絶対王者の正体〜AI半導体のすべての土台「超高純度ウエハ」を牛耳る、川上の要塞〜 - note",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zeDZrU1VQQUFLYWJaNWJuMWRRUkNBekcyUjFyT1ZpR2dQWnFQVHBZYWp5YkhRQU10Ql83T21iZXJfSl90czdvZGhZWGZXRm9ZeHFxbWRoZXd3VkQzVGc?oc=5",
+          "publishedAt": "2026-08-18T07:00:00Z",
+          "publisher": "note",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 3,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22SUMCO%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "sourceUrl": "https://www.sumcosi.com/ir/"
+        }
+      }
+    },
+    "stella": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%82%B9%E3%83%86%E3%83%A9%E3%82%B1%E3%83%9F%E3%83%95%E3%82%A1%22+OR+%22Stella+Chemifa%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "entegris": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 0,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22Entegris%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "sumitomo": {
+      "news": [
+        {
+          "id": "d49f8875494c01e275a3",
+          "title": "住友ベークライト、中国と星で半導体材料増産 - LOGISTICS TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3TWtSX2JUN3FxUjNBZ3BwcW9MbmwwTHVaOHFZWWNiSHl6aHUtUm9VbXhXNnRxblMzZEhRYXBXTHJSRGd6blYwTUJR?oc=5",
+          "publishedAt": "2026-10-09T23:08:04Z",
+          "publisher": "LOGISTICS TODAY",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "34959f9302ceb7576bca",
+          "title": "住友ベークライト、中国・シンガポールで先端半導体封止材を増産、顆粒材の生産能力約３倍へ - https://kabu-ir.com/",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ybkJUYUktSlBqRkpUa2x0Vy1OVllXM2dHMVVoYjZlaFhTSDZ4VVVHTVEtcE5XWVR5RWN1bEhIVWI1QmtJYTFodFM1dnF1NzREMmF1ZQ?oc=5",
+          "publishedAt": "2026-10-09T06:00:00Z",
+          "publisher": "https://kabu-ir.com/",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "5936fbc37f558609a13f",
+          "title": "住友ベークライト－反発 中国およびシンガポールで先端半導体向け封止材の生産能力増強 - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wOHd3YmlSUGVBV1FEQ0loOVRDZUcyM2Z3VGxDRVpBU1JZNnlLVGg0cUxLU19kdEk3MHVnSzdqYTVOTnY5eGM2cU5NcGJIWkxxRm1Kb3ltX0h2aDZEb1hxZm84Rms5VmI5NjNOSkt1bi0?oc=5",
+          "publishedAt": "2026-10-09T01:05:00Z",
+          "publisher": "TradingView",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "adac46c6df56947f66f2",
+          "title": "住友ベークライト、中国とシンガポールで半導体封止材を増産 - ニュースメディアVOIX",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEdS0tQkR1UjZGZ05QU1J1ZHNDamZlZmxjSlhfN3VoSGFJNnRiUDZpaWdzUjNIcEY2TC1JaHZkc0l5U2tubGF4QnNDZUp5bzB6bExV?oc=5",
+          "publishedAt": "2026-10-09T00:32:01Z",
+          "publisher": "ニュースメディアVOIX",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "bcae35e19b41b2b58ebb",
+          "title": "住友ベークライト、100億円で封止材増産 中国などで先端半導体向け - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xZUVySDRIRFpobFdvWmRkRzZCbXd4V0NMU3poejhhbnIxRDhxWWc3SnFNQzE3UjJZbnk1b2lxeTE2TEtjUWJ4azY3VjVVYW45ajVsLVREME5xZWVOVlFGeFRzN045aXNPdk5sbg?oc=5",
+          "publishedAt": "2026-10-08T06:28:06Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "8a34441d5b9819a1d0ff",
+          "title": "住友ベークライト（4203）の追い風は「GPUの周辺」にあった——4〜6月営業益65％増から読む、AIを支える封止材の稼ぐ力 - note",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83eHd5U1JLRElBdGlxanNYX2laQ3BnWUxXMWJLeVdheXRpYS1iNlppbThWZ2JDb2JqTVUwaWxNZ3RRRlBkMlVzbUM0QjljV1VZQlFYcUQzMkFVV0k?oc=5",
+          "publishedAt": "2026-09-10T07:00:00Z",
+          "publisher": "note",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "e6100df54d448f086436",
+          "title": "シンガポール特集 住友ベークライト・シンガポール、ＤＣ・車載で封止材需要増 - 化学工業日報 電子版",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlcWd2eU81aGtZb1BMX0dxUVlUaDNCRUZHVFBITDVlUFR4WU80N3FrS3lwT1FEOEhHZzhjTFQzcGlfNzNTbjZ3dWxGeFFETVYwSW4w?oc=5",
+          "publishedAt": "2026-08-31T07:00:00Z",
+          "publisher": "化学工業日報 電子版",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "3f7b95f9b0af897036e1",
+          "title": "住友ベークライト株が最高値接近 世界シェア4割の半導体材料好調 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LMDVtZ09OVlFGZlF6cXJlcXZMNW1ob2pHTERETi1nY3RvRkkwaW54bEVzcVg2MW1DaVdubzBYSktnbjhqWkpOZ1pWRFNrVTdJdnFZQjRINkxUUEhqZ2ZxQ1RYUWtKNi02S1NBYg?oc=5",
+          "publishedAt": "2026-08-15T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "b758b7d9e83e601a203e",
+          "title": "住友ベークライト株が最高値接近 世界シェア4割の半導体材料好調、中国に照準 - 日経ヴェリタス - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zbDJNUXVLR1h5OTdWcXVzV0dKM0xYN29UNDFidU95cFpFblRfeXpMcG5FR0lHSTRTZXBpYXI3cTQ4NTM5TTd6OXNJM3E3VWg4NTdYQTdSZEtVZ3RiamJUOXk0RGJaMlZqb09KNUJoQkZjOE42VkFUSDh3MDUwZw?oc=5",
+          "publishedAt": "2026-08-10T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "5e4746c2e7aedef8c13f",
+          "title": "インタビュー／住友ベークライト取締役常務執行役員・平井俊也氏 半導体材に大規模投資 - 日刊工業新聞",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yTmpxY3VuN0NBbjY5MUwyWmNtWjBEcDUyWkxLUlVuVzN1UlRPakY2Q1I5ZUUwYXpLRWgyNTAwRlRfRkdzRFRvSlNvbTdodC1xbm5MSlNKTW4?oc=5",
+          "publishedAt": "2026-07-30T07:00:00Z",
+          "publisher": "日刊工業新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "c8f960302d09b73a0dbf",
+          "title": "住友ベークライト－東海東京が目標株価を引き上げ 半導体封止材の進化に注目 - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtOXdXOHBmT0RBeWFkLWRIb1l6ZndQb1JVMFZ5VGc1czFrSWVWZ0dERDBtd0ZBOEt6aG52azIyeEpCMkhUVnV2ejBFZzY2aGJ5WmdoVmZSYw?oc=5",
+          "publishedAt": "2026-07-23T07:00:00Z",
+          "publisher": "Moomoo",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "8886b3674f5f45168107",
+          "title": "半導体材料特集 住友ベークライト、京セラの放熱技術加え盤石 - 化学工業日報 電子版",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtVkVNakZOb3JVX043TTZJWGpUelJDd1dvY1ZsOEdfTU5tbFNtbXJzam5XS18teVd4MDdaTkYwUEp3bTEyRnJLUWtzaTJiRTFhTVhn?oc=5",
+          "publishedAt": "2026-07-21T07:00:00Z",
+          "publisher": "化学工業日報 電子版",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 12,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E4%BD%8F%E5%8F%8B%E3%83%99%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88%22+OR+%22Sumitomo+Bakelite%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "nitto": {
+      "news": [
+        {
+          "id": "fb9acac856d870b0df1b",
+          "title": "〈Leader's Voice〉半導体、技術変化を好機に 日東電工 赤木達哉社長 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0RkVDSW1iTzhGU2xrdjZqb1l6MU1HeDhfLWx0YXRvVEwxVFVwNC02MXhpXzJ5Sk82TEszRldGZ3dtSFd3OXZoVWpELTMwSUhBX1M1N1lsVU9IaXBoRWhjYjdUVGlXazlEcWdQYQ?oc=5",
+          "publishedAt": "2026-09-15T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "dbac65a606210a86d69b",
+          "title": "日東電工、大阪府の研究開発拠点に新棟 半導体分野など向け - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YN1lzZldpT0JhdDItZFNfdmhJQjJZWEFTRGVMRVV2RmFhMU84cmVHemVFM2k5SkplaWt0dkdGLXNPWXJ2enlldC1DUV9GUnVnMFRpekI1V0thSm16SFpoZUFqYUJXblJKT2dpYw?oc=5",
+          "publishedAt": "2026-09-08T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "f62cf8fcb56a739a980c",
+          "title": "半導体工場の排水を再利用 日東電工、寿命2倍の分離膜 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nc0xXQWp5VjNMN2tURy1ZWFJIQWh0T0dacENSblZnYWNXTkVITktBaXdTUnQ3dWxRelQ5WXg5T3draUJiXzd6OXBkb3dDWVRNcjJERDZmdlBqMWxVUmkzS0ItVkJ3Y2ZmQk85MA?oc=5",
+          "publishedAt": "2026-09-07T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "4e2a5e5e8ed02ac1d558",
+          "title": "日東電工、半導体製造などで発生する排水の処理・再利用向け耐汚染RO膜を発売 | TECH+（テックプラス） - マイナビニュース",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxeXlNa2d4NC1hM1dQN2dZQWFXangtN241QzlpRU9rOXdyRVlPSjBqOTl2cDh2NmhkWm9CR0t4ZHBEelEtQzFJMmNnOExPWWUtMm1JaVp0dlFHYXVQQ2R4X3VqeVAyQXhT?oc=5",
+          "publishedAt": "2026-09-07T07:00:00Z",
+          "publisher": "マイナビニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "7169a21e558670b7f398",
+          "title": "日東電工、技術横展開で半導体分野進出 - 化学工業日報 電子版",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1peHJnbmk1bHNmNVhOTmdHMkRhcVFRb2IwXzh2NUk3RkxFRC1xazRoRnBrcEVRN1FEMGxacUQteVlMa2F2VWlxVUFXQTZfZWs0TUE0?oc=5",
+          "publishedAt": "2026-09-02T07:00:00Z",
+          "publisher": "化学工業日報 電子版",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "e73022639ec24425c582",
+          "title": "日東電工の赤木達哉社長、半導体「技術変化を好機に」 関連投資6倍 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Qc3VFSjVBal9hTmRMNkpjZExjWHF0ZEFEdkxjaUxOX2R2SFNVdUR0YWlHYTBYQzZIZkszU3FyQjdlUDZJdjFkM3MxRjAxcHBrbzdJeUM2SlcwQWlLemktQ3FlOUkyQkNQZ0pEbg?oc=5",
+          "publishedAt": "2026-08-21T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "47975a6b729f4285caca",
+          "title": "〈ニッチすぎる…〉日東電工が誇る世界で戦う\"ニッチエース5製品\"の実力､スマホから半導体､医薬品で放つ存在感 - 東洋経済オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sZFNEVlFkd0NBQ3BZdUtEcVRUMkV6eW1fVWQ0Nlo5RW5ib0lWMVE2SlRSTHNaUXQ1Zjlkczh3Vk9vUk5oYWdXV2FMdTlIcnFuSFZNRFVoSHd5Yms5Um9j?oc=5",
+          "publishedAt": "2026-07-31T07:00:00Z",
+          "publisher": "東洋経済オンライン",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "2e2a7e5322497bf70407",
+          "title": "画像 | 〈ニッチすぎる…〉日東電工が誇る世界で戦う\"ニッチエース5製品\"の実力､スマホから半導体､医薬品で放つ存在感 - 東洋経済オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rbWw0TThqZGxaRG9ST3BHOGp3TVBvNFVxQV9VUWdRanIzV3FJUkNsWUJGQm41MUhwd19QMGJfMnVuU2RHT1loa2pJRzBWYkFVa0pfMGNDNEp6QTJFUVE?oc=5",
+          "publishedAt": "2026-07-31T07:00:00Z",
+          "publisher": "東洋経済オンライン",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "25f7c898ed38bb6caa8c",
+          "title": "日東電工が試される｢脱･スマホ依存｣､半導体領域に舵を切るグローバルニッチトップという生き方 - 東洋経済オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yWFFqcDJSYmMwQnVYRlhaZ3VnUThqR2IydklPZ3hWTHMxeWxnSWhWN2RkMkRQenU2Y3lTZlhvQzBHQkNvTzN6dk1Ma0VRZ3NweGNKNjJpWFloOUxaZEVv?oc=5",
+          "publishedAt": "2026-07-29T07:00:00Z",
+          "publisher": "東洋経済オンライン",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "78f7ad4234049c45d492",
+          "title": "日東電工、半導体製造の溶剤を膜で回収 再利用促進でナフサ高に対抗 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oeWM5NXBMYk1pbDFUd09hRGpvTzdXVnM5UWZObXRJZFpQNVNNMHFlS1ZUWktKRmJOZGVLcGVNRm4yREQzQ0FRWjluTXJfRjZMQlJTalNaajFISExWRFExTFVwdWduVVNhcGZ2aQ?oc=5",
+          "publishedAt": "2026-07-27T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 10,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E6%9D%B1%E9%9B%BB%E5%B7%A5%22+OR+%22Nitto+Denko%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "tanaka": {
+      "news": [
+        {
+          "id": "7e579f0a79b1119f4913",
+          "title": "半導体材料特集 田中貴金属工業、高機能貴金属材を装置に - 化学工業日報 電子版",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1NGdaRWtMcGphelpjelB0NWR4elJLV0FEUnBGUzhNMjBCZXJTdEw5RDluYnhPMVpvdF9CaWY0aGd6SEwydmJTOWpCUzNHQUk4REhB?oc=5",
+          "publishedAt": "2026-07-21T07:00:00Z",
+          "publisher": "化学工業日報 電子版",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 1,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E7%94%B0%E4%B8%AD%E8%B2%B4%E9%87%91%E5%B1%9E%22+OR+%22Tanaka+Precious+Metals%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "unconfigured"
+        }
+      }
+    },
+    "resonac": {
+      "news": [
+        {
+          "id": "4886011de13c5495c3b2",
+          "title": "レゾナック、統合3年。半導体集中戦略の裏で進んだ“脱JTC”。髙橋社長が語る「世界で戦える企業」の条件 - Business Insider Japan",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tM2xUZXh4aXhnUGVQVk02NmgzVzdEVWd3R0JjQ0J2WGh4NkFtMGplSnBzS2JmcGgzb1lvNGZpek1QXzFuUHBkMW9KYkdYM1VQOVNqT1UtWjNyWFZxRXZ0VlhQcTBGaE1EYmYzbnMwVWJzTndlSWVr?oc=5",
+          "publishedAt": "2026-10-05T08:05:00Z",
+          "publisher": "Business Insider Japan",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "63f612935975322dc934",
+          "title": "レゾナック、統合3年。半導体集中戦略の裏で進んだ“脱JTC”。髙橋社長が語る「世界で戦える企業」の条件 - Business Insider Japan",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRERZWHVnSDdQS0FpQzJHOEZqOVRnZkNUTHZsMDFQek00RUJJd0hVNkNaZU12N0pNRWlQX2tpcUoySXByWXdhOE1LSGNrTGFaekJBZlVfQ3NMYzhnQ2JBUGEyUDd4T0JuQzRCelUwM0J3bWhMQ2xQS0ZCTEdFYVpybw?oc=5",
+          "publishedAt": "2026-10-05T08:05:00Z",
+          "publisher": "Business Insider Japan",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "f1aaab644a7dd9d28eb9",
+          "title": "｢石油化学事業は独立した形が最適｣､半導体材料への集中急ぐレゾナックCFOが語るクラサス｢Pスピンオフ｣の狙い - 東洋経済オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00bUs0NkQ0NWFrWHlhUjZnajYxdFV2cVc2YkkzUGVFMFJ1ODR5Q0dxU0RuXzRleE1ubWNuelNHVTZzS2JXWkhWd015QmJjdkVIS2N4VHlIQ2VGWHM?oc=5",
+          "publishedAt": "2026-10-04T21:00:00Z",
+          "publisher": "東洋経済オンライン",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "64151dafd386334e3e67",
+          "title": "｢石油化学事業は独立した形が最適｣､半導体材料への集中急ぐレゾナックCFOが語るクラサス｢Pスピンオフ｣の狙いの写真一覧 - 東洋経済オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJTXU5V3MzYkdNTUU5NGh0ZFdSS2gxQ21lQ2I0VWkwRWlBdlBSWUhteGwyYkYyVTc4SG8xU1JkbnByZHhKVEFIbWdYdVBUSG1WeUY5SmV4Yw?oc=5",
+          "publishedAt": "2026-10-04T21:00:00Z",
+          "publisher": "東洋経済オンライン",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "b1b79c71b1083eaeb872",
+          "title": "全社利益のほぼ全てを叩き出す！ レゾナックが「AI半導体材料」で高収益企業へ急変貌した理由に見る「今後の注視点」 - Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2VtSUxLX0NuYzc1MFBFWU0wV0c0cm5ybUQ4ZG5SZFBvejBQNjFfMHRER1hhemRKdl83TEV2dUU2Wk1Lem81QjVjVEJMNkcxVzlaejJKeS1NRkc4Si1oSzY2dVhNUTN1ZDlEd0xrcDQ1RUNhV2g2Z0x5NnBkd19sdHV4Mi0zWmlxZDJlUjVn?oc=5",
+          "publishedAt": "2026-10-02T09:33:04Z",
+          "publisher": "Yahoo!ニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "8bdc3e3e3e1dde1dfb2c",
+          "title": "全社利益のほぼ全てを叩き出す！ レゾナックが「AI半導体材料」で高収益企業へ急変貌した理由に見る「今後の注視点」 - Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05LWVfNmhaR3VMX0NsemNJeXRnd00xWHlQa2hFbGNyMmtJLTNSeGdvZFlIa0ZmVFYwQVNtQ1JlbS1peXhuWUhpOVNMVmRJTkhrZDF0eHRsTUtSdTdnVkp1M0tjbHVFakdMVzhfa21mOXVNcTU4b2c0TmsyT2QzTWc?oc=5",
+          "publishedAt": "2026-10-02T07:00:00Z",
+          "publisher": "Yahoo!ニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "c21ac69f64a99d999238",
+          "title": "レゾナックＨＤ－岩井コスモが目標株価引き上げ 半導体後工程材料が好調 - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwX3hXWGJEWWpNTG44bldkb3ZQQ2ZMcDQ1dnQybTdaeU1SbXNPN09sSUxOZzRPd2pjMkcyUGFVaUFZUFVMZkFxSzJWQ0Y3Tk9kN2FXeEY2Y1lJSnZUOEVnMGVzS0F0LW9pUkFISVpjSS0?oc=5",
+          "publishedAt": "2026-10-01T00:15:00Z",
+          "publisher": "TradingView",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "524217f909198701255d",
+          "title": "全社利益のほぼ全てを叩き出す！ レゾナックが「AI半導体材料」で高収益企業へ急変貌した理由に見る「今後の注視点」 - 千葉テレビ放送株式会社",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaTWlPbGdjd19yM2htREVrdjRIX1ptcGNRcjNZQ0hGREVSU21HU1UtTHlTZnY5c3JEZ0d6bFhRNlJKYkh1Z2h3RlA3Rlhub3hIVUJmLWptMmVUeDB3UkxV?oc=5",
+          "publishedAt": "2026-09-30T10:13:19Z",
+          "publisher": "千葉テレビ放送株式会社",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "8f0729d7b62d31b198e9",
+          "title": "全社利益のほぼ全てを叩き出す！ レゾナックが「AI半導体材料」で高収益企業へ急変貌した理由に見る「今後の注視点」(1/5) - Finasee",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vdExwbmRHQTN6cEJBTUtXeEgzOXJjWndlbU14bnJxZzhxQ2xsTGdXZVduOWctbWRwLTFsRWFMRHlETFVpanY5ckZIc05NMDVJZXJv?oc=5",
+          "publishedAt": "2026-09-30T10:00:00Z",
+          "publisher": "Finasee",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "e2f4b95358dd17d0376f",
+          "title": "全社利益のほぼ全てを叩き出す！ レゾナックが「AI半導体材料」で高収益企業へ急変貌した理由に見る「今後の注視点」 - ｄメニューニュース",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa0pHRU9kQ19UZG1qOGlyTlZuSlFBdHpEMG92aUxqMFhsbHNUVjkwM1ZGZW55RUFHR2FHbmgyY0dPWGJWSGtocy1NSFdXdXRJVllsYzdHVU1BLVJXWV9wa1lCWU80VUE5M3ZFRThzSHc4VE10bFRQcVRFUmd2anlVekRkY9IBf0FVX3lxTE1QcWNLUU5jNHFmSFdoSmZRRGZKNXA2NS05RVVqOE0wdm4zRW9rTnNDVkJDQmNQa1ptQzJIRGY1VUxEaGlTWE1mRXVLd2ZIal9Wamc0RTNiLUZNTHZOTWRsX2J1dk9PN2dDcnp5eTZER2hBRU55Sk4tWlVSVTl6MlE?oc=5",
+          "publishedAt": "2026-09-30T07:00:00Z",
+          "publisher": "ｄメニューニュース",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "23433e55ed4ee053223f",
+          "title": "〈ビジネスTODAY〉半導体チップ採取量4倍 レゾナックが基板開発 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkc2cxVXNGUkRyYVFJU2dtNVM2Q0E5MEQtNGdfVmJjWUNMUW5ZZGU3eWFaZ0dBSlRGWVl5VURDWXBTcjJLenlNQkI1eFZvVDAyamI5TmswTjFfSWZTVWlTT0pJYzY5b1cxdGJzNA?oc=5",
+          "publishedAt": "2026-09-29T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "56d00fb085cd3869803d",
+          "title": "レゾナック、半導体チップ採取量4倍の基板開発 省エネでAIに照準 - 日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LcVlTQ0pza0FKMmhUM0F5N090bW9tamJWYXAxZ1UxOXo0UGtvSE83bzFzRHRUMkVYQ0RUZGc0cG9GNHctai0wbDV1VE5PRkRfUHFxdlVmQllKbUlZaGRQQUhOZ21HcXFyZmtfag?oc=5",
+          "publishedAt": "2026-09-28T07:00:00Z",
+          "publisher": "日本経済新聞",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [
+        {
+          "id": "eada837d73c66ade3455",
+          "title": "決算短信",
+          "url": "https://www.resonac.com/sites/default/files/2026-08/tanshin2026q2.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        },
+        {
+          "id": "73416159bd6485c9d35c",
+          "title": "決算説明資料",
+          "url": "https://www.resonac.com/sites/default/files/2026-08/shiryo2026q2_1.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        },
+        {
+          "id": "20883627c6f83867058b",
+          "title": "有価証券報告書/半期報告書",
+          "url": "https://www.resonac.com/sites/default/files/2026-08/半期報告書_20260807.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        }
+      ],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 42,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%AC%E3%82%BE%E3%83%8A%E3%83%83%E3%82%AF%22+OR+%22Resonac%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 3,
+          "sourceUrl": "https://www.resonac.com/jp/ir"
+        }
+      }
+    },
+    "shinetsu": {
+      "news": [
+        {
+          "id": "0db627bace6b86462d23",
+          "title": "信越化学工業、27年3月期純利益11%増見通し AI需要で半導体材料好調 - 日経CNBC online",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94YlVkMks3dTRtOUtnSzVxZjJ3QTFWTlFMM1pWcm9YRVNEVTltZTltemVJdjU0ZkJ3NVhSUDZkODFVUE44d3E1aGJuTk5RNGFWMDJqQQ?oc=5",
+          "publishedAt": "2026-07-27T07:00:00Z",
+          "publisher": "日経CNBC online",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "f29aae4608541c391470",
+          "title": "信越化学工業の決算結果を分析、半導体シリコンと電子材料の成長力は続くのか - EBC Financial Group",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qRWNDb0gyelZvenZPZzZtQUpSa2RJeHdkREpOMHVaVlE2NG9VQXdsallGS3RXcGR1eVlMOC1zZXhIeEFJeVEyS3F2T1N6eWZ1THc?oc=5",
+          "publishedAt": "2026-07-24T07:00:00Z",
+          "publisher": "EBC Financial Group",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "254695226cb80f2ebb4f",
+          "title": "信越化学工業､増収増益予想 AI需要で半導体材料が好調 27年3月期 - 信濃毎日新聞デジタル",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96RUlaUDV3V0duS25ZcHp5TWM3Q3RsOW1mVUlkYXZYYU0weG9tTGpoMEJtZW5rUlQ3dGpPR1FNLVB4S3ZKYzBDOTFvb2ctT1RMeFRscFEzVzBZNnVUSC03UHJQNGlSWkJLVmluUGZKeUg?oc=5",
+          "publishedAt": "2026-07-24T07:00:00Z",
+          "publisher": "信濃毎日新聞デジタル",
+          "kind": "news",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        }
+      ],
+      "ir": [
+        {
+          "id": "526aa8787f230e6e671e",
+          "title": "2027年3月期第1四半期 決算短信 (954 KB) pdf",
+          "url": "https://www.shinetsu.co.jp/wp-content/uploads/2026/07/20260724_con_J.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        },
+        {
+          "id": "4ab3554fd1e46a546619",
+          "title": "2027年3月期第1四半期 決算説明電話会議要旨（Q&A） (490 KB) pdf",
+          "url": "https://www.shinetsu.co.jp/wp-content/uploads/2026/07/20260724_summary_J.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        },
+        {
+          "id": "98547b06a5a173bebed9",
+          "title": "2026.09.15 IR コミットメント型自己株式取得（FCSR）における事後調整のお知らせ pdf",
+          "url": "https://www.shinetsu.co.jp/wp-content/uploads/2026/09/20260915J2.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        },
+        {
+          "id": "c92afd28a91353507212",
+          "title": "2026.09.15 IR 創立100周年記念配当の実施 及び 配当予想の修正に関するお知らせ pdf",
+          "url": "https://www.shinetsu.co.jp/wp-content/uploads/2026/09/20260915J1.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        },
+        {
+          "id": "3e2f3de1ac285c1754c1",
+          "title": "2026.07.30 IR コミットメント型自己株式取得（FCSR）による自己株式取得のための第三者割当による第27回および第28回新株予約権の発行条件の決定に関するお知らせ pdf",
+          "url": "https://www.shinetsu.co.jp/wp-content/uploads/2026/07/20260730J2-2.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        },
+        {
+          "id": "ec4d65615ad13288f21f",
+          "title": "2026.07.30 IR 自己株式立会外買付取引（ToSTNeT-3）による取得結果および自己株式の取得終了に関するお知らせ pdf",
+          "url": "https://www.shinetsu.co.jp/wp-content/uploads/2026/07/20260730J1-2.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        },
+        {
+          "id": "ad0648b21ea6ef3af020",
+          "title": "2026.07.29 IR 自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ pdf",
+          "url": "https://www.shinetsu.co.jp/wp-content/uploads/2026/07/20260729J-1.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        },
+        {
+          "id": "057bac7e2645c3f9661d",
+          "title": "2026.07.24 IR 自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ（コミットメント型自己株式取得（FCSR）による自己株式取得） pdf",
+          "url": "https://www.shinetsu.co.jp/wp-content/uploads/2026/07/20260724J2.pdf",
+          "publishedAt": null,
+          "publisher": "企業公式IR",
+          "kind": "ir",
+          "retrievedAt": "2026-10-10T15:17:40Z",
+          "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
+        }
+      ],
+      "sources": {
+        "news": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 3,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E4%BF%A1%E8%B6%8A%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%22+OR+%22Shin-Etsu+Chemical%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "ok",
+          "lastAttemptAt": "2026-10-10T15:17:40Z",
+          "lastSuccessAt": "2026-10-10T15:17:40Z",
+          "matchedCount": 8,
+          "sourceUrl": "https://www.shinetsu.co.jp/jp/ir/"
         }
       }
     }
   },
   "summary": {
-    "companiesAttempted": 2,
-    "newsSucceeded": 0,
-    "newsFailed": 2,
-    "irSucceeded": 0,
+    "companiesAttempted": 42,
+    "newsSucceeded": 42,
+    "newsFailed": 0,
+    "irSucceeded": 7,
     "irPartial": 0,
-    "irFailed": 2
+    "irFailed": 1
   }
 }
