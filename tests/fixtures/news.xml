@@ -1,0 +1,10 @@
+<?xml version="1.0"?><rss version="2.0"><channel><title>TEST FIXTURE ONLY</title>
+<item><title>Tokyo Electron expands semiconductor equipment capacity - Example Test</title><link>https://news.google.com/rss/articles/test-a</link><pubDate>Fri, 09 Oct 2026 03:00:00 GMT</pubDate><source>Example Test</source></item>
+<item><title>Tokyo Electron expands semiconductor equipment capacity - Example Test</title><link>https://news.google.com/rss/articles/test-a?utm_source=test</link><pubDate>Fri, 09 Oct 2026 03:00:00 GMT</pubDate><source>Example Test</source></item>
+<item><title>Another company announces semiconductor equipment</title><link>https://example.test/unrelated</link><pubDate>Fri, 09 Oct 2026 03:00:00 GMT</pubDate></item>
+<item><title>Tokyo Electron sponsors sports</title><link>https://example.test/sports</link><pubDate>Fri, 09 Oct 2026 03:00:00 GMT</pubDate></item>
+<item><title>Tokyo Electron semiconductor equipment</title><link>javascript:alert(1)</link><pubDate>Fri, 09 Oct 2026 03:00:00 GMT</pubDate></item>
+<item><title>Tokyo Electron semiconductor equipment in 2020</title><link>https://example.test/old</link><pubDate>Fri, 09 Oct 2020 03:00:00 GMT</pubDate></item>
+<item><title>Tokyo Electron semiconductor equipment undated</title><link>https://example.test/undated</link></item>
+<item><title>Tokyo Electron semiconductor equipment future</title><link>https://example.test/future</link><pubDate>Fri, 09 Oct 2030 03:00:00 GMT</pubDate></item>
+</channel></rss>

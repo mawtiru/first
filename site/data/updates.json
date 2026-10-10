@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "lastAttemptAt": "2026-10-10T12:10:09Z",
+  "lastSuccessAt": null,
+  "companies": {
+    "tel": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "error",
+          "lastAttemptAt": "2026-10-10T12:10:09Z",
+          "error": "接続拒否（403）",
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%22+OR+%22Tokyo+Electron%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "error",
+          "lastAttemptAt": "2026-10-10T12:10:09Z",
+          "error": "接続拒否（403）",
+          "sourceUrl": "https://www.tel.com/ir/"
+        }
+      }
+    },
+    "asml": {
+      "news": [],
+      "ir": [],
+      "sources": {
+        "news": {
+          "state": "error",
+          "lastAttemptAt": "2026-10-10T12:10:09Z",
+          "error": "接続拒否（403）",
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22ASML%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
+        },
+        "ir": {
+          "state": "error",
+          "lastAttemptAt": "2026-10-10T12:10:09Z",
+          "error": "接続拒否（403）",
+          "sourceUrl": "https://www.asml.com/en/investors"
+        }
+      }
+    }
+  },
+  "summary": {
+    "companiesAttempted": 2,
+    "newsSucceeded": 0,
+    "newsFailed": 2,
+    "irSucceeded": 0,
+    "irPartial": 0,
+    "irFailed": 2
+  }
+}
