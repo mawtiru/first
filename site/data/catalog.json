@@ -2114,6 +2114,221 @@
       },
       "marketCapSource": null,
       "facilities": []
+    },
+    {
+      "id": "rorze",
+      "name": "ローツェ",
+      "aliases": [
+        "ローツェ",
+        "RORZE"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "ウェーハ搬送ロボット・EFEM・ロードポート・ウェーハハンドリング",
+      "stageIds": [
+        "wafer",
+        "lithography",
+        "deposition",
+        "etch",
+        "clean",
+        "inspection"
+      ],
+      "website": "https://www.rorze.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体製造装置や製造ライン向けのウェーハ搬送ロボット、ロードポート、EFEM等を扱う。製造工程間でウェーハを清浄かつ精密に移動させるハンドリング技術を提供する。",
+        "industryPosition": "半導体装置の搬送・自動化を担うサプライヤー。ウェーハを処理するプロセス装置とは役割が異なり、装置への投入・取り出しや工程間のハンドリングを支える。",
+        "strengths": [
+          "ウェーハ搬送ロボット",
+          "EFEM",
+          "ロードポート",
+          "ウェーハハンドリング"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.rorze.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6323.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は上場企業全体の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "rorze",
+        "ticker": "6323.T"
+      },
+      "facilities": [
+        {
+          "name": "RORZE ROBOTECH拠点",
+          "location": "ベトナム・ハイフォン",
+          "function": "ウェーハ搬送機器関連。現在の生産品目・機能は要確認",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.rorze.com/",
+          "verifiedAt": null
+        }
+      ]
+    },
+    {
+      "id": "sinfonia",
+      "name": "シンフォニアテクノロジー",
+      "aliases": [
+        "シンフォニアテクノロジー",
+        "SINFONIA TECHNOLOGY",
+        "シンフォニア"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "ロードポート・EFEM・ウェーハ搬送機器・クリーン搬送システム",
+      "stageIds": [
+        "wafer",
+        "lithography",
+        "deposition",
+        "etch",
+        "clean",
+        "inspection"
+      ],
+      "website": "https://www.sinfo-t.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体向けのロードポートやEFEM等のクリーン搬送システムを扱う。半導体以外にも電磁応用、モーション制御、航空宇宙等の事業を持つ。",
+        "industryPosition": "半導体製造装置とウェーハ容器をつなぐクリーン搬送・自動化を担う企業。全社業績には半導体以外の事業が含まれるため、部門別の評価が必要。",
+        "strengths": [
+          "ロードポート",
+          "EFEM",
+          "ウェーハ搬送機器",
+          "クリーン搬送システム"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.sinfo-t.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6507.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は上場企業全体の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "sinfonia-technology",
+        "ticker": "6507.T"
+      },
+      "facilities": [
+        {
+          "name": "豊橋製作所",
+          "location": "日本・愛知県豊橋市",
+          "function": "クリーン搬送機器等の関連拠点。現在の半導体向け生産品目は要確認",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.sinfo-t.jp/",
+          "verifiedAt": null
+        }
+      ]
+    },
+    {
+      "id": "ferrotec",
+      "name": "フェローテック",
+      "aliases": [
+        "フェローテック",
+        "Ferrotec",
+        "フェローテックホールディングス"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "石英製品・セラミックス・シリコン部材・真空シール・半導体装置部品",
+      "stageIds": [
+        "wafer",
+        "deposition",
+        "etch",
+        "clean"
+      ],
+      "website": "https://www.ferrotec.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体製造装置向けの石英、セラミックス、シリコン加工部材や真空関連製品をグループで扱う。電子デバイス関連などの事業も持つ。",
+        "industryPosition": "プロセス装置内部の材料・部品と真空系を支える企業グループ。装置用部材の純度、耐熱性、耐薬品性や供給体制が重要。時価総額の対象は登録した上場企業全体であり、特定の製造子会社や半導体部門だけではない。",
+        "strengths": [
+          "石英製品",
+          "セラミックス",
+          "シリコン部材",
+          "真空シール",
+          "半導体装置部品"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.ferrotec.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6890.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は上場企業全体の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "ferrotec",
+        "ticker": "6890.T"
+      },
+      "facilities": []
+    },
+    {
+      "id": "tatsumo",
+      "name": "タツモ",
+      "aliases": [
+        "タツモ",
+        "TATSUMO"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "塗布・現像装置・洗浄装置・接合関連装置・ウェーハ搬送機器",
+      "stageIds": [
+        "lithography",
+        "clean",
+        "packaging"
+      ],
+      "website": "https://www.tatsumo.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体向けの塗布、洗浄、接合関連の装置と搬送機器等を扱う。装置のプロセス機能とウェーハハンドリングの双方に関わる。",
+        "industryPosition": "プロセス装置と搬送技術を扱う装置メーカー。表示上は装置メーカーに分類し、塗布・現像、洗浄、接合の工程に配置する。",
+        "strengths": [
+          "塗布",
+          "現像装置",
+          "洗浄装置",
+          "接合関連装置",
+          "ウェーハ搬送機器"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.tatsumo.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6266.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は上場企業全体の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "tatsumo",
+        "ticker": "6266.T"
+      },
+      "facilities": []
     }
   ]
 }
