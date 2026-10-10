@@ -6,3 +6,5 @@ test('検索は企業・製品・別名に対応しカテゴリーを尊重',()=
 test('比較は当該企業を含む確認済み製品市場だけ',()=>{const data=[{status:'unverified',rows:[{companyId:'tel'}]},{status:'verified',rows:[{companyId:'other'}]},{status:'verified',rows:[{companyId:'tel'}]}];assert.equal(comparableMarkets(data,'tel').length,1)});
 test('外部テキスト・リンクは安全に扱う',()=>{assert.equal(escape('<script>'),'&lt;script&gt;');assert.equal(safeUrl('javascript:alert(1)'),false);assert.equal(safeUrl('https://user:password@example.test'),false);assert.equal(safeUrl('https://example.test'),true)});
 test('日時は日本時間で表示',()=>{assert.match(formatDate('2026-10-09T22:00:00Z'),/2026\/10\/10/);assert.match(formatDate('2026-10-09T22:00:00Z'),/7:00/);assert.equal(formatDate(null),'未実施')});
+import {formatMarketCap,mapSearchUrl} from '../site/lib.js';
+test('時価総額の単位・未取得と地図検索URL',()=>{assert.equal(formatMarketCap({value:1.23e12,currency:'USD'}),'約1.23兆米ドル');assert.equal(formatMarketCap({value:3.5e9,currency:'USD'}),'約35億米ドル');assert.equal(formatMarketCap(null),'未取得');assert.equal(formatMarketCap({value:-1,currency:'USD'}),'未取得');const url=new URL(mapSearchUrl({name:'工場 A',location:'日本・宮城県'}));assert.equal(url.searchParams.get('query'),'工場 A 日本・宮城県')});

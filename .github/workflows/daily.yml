@@ -42,6 +42,19 @@ jobs:
         run: |
           echo '::warning::All news feeds failed. Prior articles are retained; inspect per-company status.'
           echo 'News collection failed. Last successful articles are retained.' >> "$GITHUB_STEP_SUMMARY"
+      - name: Report data coverage
+        run: |
+          python3 - <<'PYREPORT'
+          import json, os
+          from pathlib import Path
+          summary = json.loads(Path('site/data/updates.json').read_text()).get('summary', {})
+          if summary.get('marketCapFailed', 0):
+              print(f"::warning::{summary['marketCapFailed']} market-cap pages failed. Previous values are retained or marked unavailable.")
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as report:
+              report.write('\n## Data collection coverage\n\n')
+              for key, value in summary.items():
+                  report.write(f'- {key}: {value}\n')
+          PYREPORT
       - name: Save data snapshot
         run: |
           git add site/data/updates.json

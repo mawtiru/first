@@ -17,6 +17,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from marketcap import collect_marketcap
 
 ROOT = Path(__file__).resolve().parents[1]
 UTC = timezone.utc
@@ -227,6 +228,7 @@ def collect_company(company, previous, config, now, fetcher=fetch):
                 output['sources']['ir']['error'] = detail_error
         except Exception as exc:
             output['sources']['ir'] = {**output['sources'].get('ir', {}), 'state': 'error', 'lastAttemptAt': attempted, 'error': error_code(exc), 'sourceUrl': ir_url}
+    output['marketCap'] = collect_marketcap(company, output.get('marketCap'), config, now, fetcher, timestamp, error_code)
     return output
 
 
@@ -249,10 +251,12 @@ def run(catalog, previous, config, now, fetcher=fetch, limit=None):
             result['companies'][pending[task]] = task.result()
     result['lastAttemptAt'] = timestamp(now)
     statuses = [result['companies'][c['id']]['sources'] for c in selected]
-    success = any(s.get('news', {}).get('state') == 'ok' or s.get('ir', {}).get('state') in ('ok', 'partial') for s in statuses)
+    caps = [result['companies'][c['id']].get('marketCap', {}) for c in selected]
+    success = any(s.get('news', {}).get('state') == 'ok' or s.get('ir', {}).get('state') in ('ok', 'partial') for s in statuses) or any(c.get('state') == 'ok' for c in caps)
     if success:
         result['lastSuccessAt'] = timestamp(now)
     result['summary'] = {'companiesAttempted': len(selected), 'newsSucceeded': sum(s.get('news', {}).get('state') == 'ok' for s in statuses), 'newsFailed': sum(s.get('news', {}).get('state') == 'error' for s in statuses), 'irSucceeded': sum(s.get('ir', {}).get('state') == 'ok' for s in statuses), 'irPartial': sum(s.get('ir', {}).get('state') == 'partial' for s in statuses), 'irFailed': sum(s.get('ir', {}).get('state') == 'error' for s in statuses)}
+    result['summary'].update({'marketCapSucceeded':sum(c.get('state') == 'ok' for c in caps), 'marketCapFailed':sum(c.get('state') == 'error' for c in caps), 'marketCapNotListed':sum(c.get('state') == 'not_listed' for c in caps)})
     return result
 
 

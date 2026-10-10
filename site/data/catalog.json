@@ -66,7 +66,62 @@
       ],
       "website": "https://www.tel.com/",
       "irUrl": "https://www.tel.com/ir/",
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "成膜、エッチング、塗布現像、洗浄など複数の前工程装置を扱う。工程間のプロセス開発と装置の保守・改造も事業領域。",
+        "industryPosition": "複数の前工程にまたがるプロセス装置メーカー。装置の性能だけでなく、顧客の量産プロセスへの適合と稼働支援が競争軸。",
+        "strengths": [
+          "塗布現像",
+          "成膜",
+          "エッチング",
+          "洗浄装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.tel.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "8035.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "tokyo-electron",
+        "ticker": "8035.T"
+      },
+      "facilities": [
+        {
+          "name": "東京エレクトロン宮城",
+          "location": "日本・宮城県黒川郡大和町",
+          "function": "エッチング装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.tel.com/",
+          "verifiedAt": null
+        },
+        {
+          "name": "東京エレクトロン九州",
+          "location": "日本・熊本県合志市",
+          "function": "塗布現像・洗浄装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.tel.com/",
+          "verifiedAt": null
+        },
+        {
+          "name": "山梨地区",
+          "location": "日本・山梨県韮崎市",
+          "function": "成膜・熱処理装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.tel.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "asml",
@@ -82,7 +137,51 @@
       ],
       "website": "https://www.asml.com/",
       "irUrl": "https://www.asml.com/en/investors",
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "EUV・DUV露光装置を中心に、計測、計算リソグラフィ、既設装置のサービスを扱う。露光装置は光源・光学系・精密ステージなどを組み合わせる。",
+        "industryPosition": "微細な回路パターンを形成する露光工程を担う。先端露光システムと周辺の計測・ソフトウェアを一体で提供する立場。",
+        "strengths": [
+          "EUV",
+          "DUV露光装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.asml.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "ASML",
+        "exchange": "NASDAQ / Euronext Amsterdam",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "asml",
+        "ticker": "ASML"
+      },
+      "facilities": [
+        {
+          "name": "Veldhoven拠点",
+          "location": "オランダ・フェルトホーフェン",
+          "function": "露光システムの開発・組立",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.asml.com/",
+          "verifiedAt": null
+        },
+        {
+          "name": "Wilton拠点",
+          "location": "米国・コネチカット州ウィルトン",
+          "function": "露光システムの精密機構・光学関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.asml.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "nikon",
@@ -99,7 +198,41 @@
       ],
       "website": "https://www.nikon.com/",
       "irUrl": "https://www.nikon.com/company/ir/",
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "光学・精密制御技術を基盤に半導体露光装置を提供する。半導体以外にも映像、ヘルスケア、産業計測などの事業を持つ。",
+        "industryPosition": "露光工程の装置メーカー。半導体専業ではないため、全社の規模と半導体関連事業の規模を分けて見る必要がある。",
+        "strengths": [
+          "半導体露光装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.nikon.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "7731.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "nikon",
+        "ticker": "7731.T"
+      },
+      "facilities": [
+        {
+          "name": "熊谷製作所",
+          "location": "日本・埼玉県熊谷市",
+          "function": "精機・露光装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.nikon.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "amat",
@@ -119,7 +252,53 @@
       ],
       "website": "https://www.appliedmaterials.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "成膜、材料改質、エッチング、CMP、検査などの装置とサービスを提供する。材料工学を複数の製造工程に展開する。",
+        "industryPosition": "複数工程に対応する総合プロセス装置メーカー。新材料や複雑なデバイス構造に対するプロセス統合が事業の軸。",
+        "strengths": [
+          "成膜",
+          "エッチング",
+          "CMP",
+          "検査装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.appliedmaterials.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "AMAT",
+        "exchange": "NASDAQ",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "applied-materials",
+        "ticker": "AMAT"
+      },
+      "facilities": [
+        {
+          "name": "Austin製造拠点",
+          "location": "米国・テキサス州オースティン",
+          "function": "半導体製造装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.appliedmaterials.com/",
+          "verifiedAt": null
+        },
+        {
+          "name": "Singapore製造拠点",
+          "location": "シンガポール",
+          "function": "半導体製造装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.appliedmaterials.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "lam",
@@ -137,7 +316,61 @@
       ],
       "website": "https://www.lamresearch.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "エッチング、成膜、洗浄などの前工程装置を提供し、既設装置の保守・部品・改造にも対応する。",
+        "industryPosition": "微細加工と立体構造形成に関わるプロセス装置メーカー。メモリーやロジックの構造変化に応じた装置開発が重要。",
+        "strengths": [
+          "エッチング",
+          "成膜",
+          "洗浄装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.lamresearch.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "LRCX",
+        "exchange": "NASDAQ",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "lam-research",
+        "ticker": "LRCX"
+      },
+      "facilities": [
+        {
+          "name": "Fremont拠点",
+          "location": "米国・カリフォルニア州フリーモント",
+          "function": "半導体製造装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.lamresearch.com/",
+          "verifiedAt": null
+        },
+        {
+          "name": "Tualatin拠点",
+          "location": "米国・オレゴン州テュアラティン",
+          "function": "成膜装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.lamresearch.com/",
+          "verifiedAt": null
+        },
+        {
+          "name": "Batu Kawan拠点",
+          "location": "マレーシア・ペナン州バトゥカワン",
+          "function": "半導体製造装置の製造・組立",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.lamresearch.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "screen",
@@ -156,7 +389,43 @@
       ],
       "website": "https://www.screen.co.jp/",
       "irUrl": "https://www.screen.co.jp/ir/",
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体向け洗浄装置を中心に、塗布現像、計測関連の装置を扱う。印刷・ディスプレー関連などの事業も持つ。",
+        "industryPosition": "ウェーハ表面の清浄化と工程品質を支える装置メーカー。グループ全体と半導体製造装置事業の業績を区別して見る。",
+        "strengths": [
+          "洗浄",
+          "塗布現像",
+          "計測装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.screen.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "7735.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "screen-holdings",
+        "ticker": "7735.T"
+      },
+      "facilities": [
+        {
+          "name": "彦根事業所",
+          "location": "日本・滋賀県彦根市",
+          "function": "半導体製造装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.screen.co.jp/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "kokusai",
@@ -172,7 +441,51 @@
       ],
       "website": "https://www.kokusai-electric.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "バッチ式成膜・熱処理装置と関連サービスを扱う。複数ウェーハをまとめて処理するプロセスに関わる。",
+        "industryPosition": "成膜・熱処理領域に重点を置く装置メーカー。膜の品質と量産時の処理効率が競争軸。",
+        "strengths": [
+          "バッチ式成膜",
+          "熱処理装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.kokusai-electric.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6525.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "kokusai-electric",
+        "ticker": "6525.T"
+      },
+      "facilities": [
+        {
+          "name": "富山事業所",
+          "location": "日本・富山県富山市",
+          "function": "成膜・熱処理装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.kokusai-electric.com/",
+          "verifiedAt": null
+        },
+        {
+          "name": "砺波事業所",
+          "location": "日本・富山県砺波市",
+          "function": "半導体製造装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.kokusai-electric.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "asm",
@@ -188,7 +501,42 @@
       ],
       "website": "https://www.asm.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "ALD、エピタキシャル成長などの成膜装置を扱う。原子層レベルの膜形成や材料制御に関わる。",
+        "industryPosition": "成膜領域に特化した装置メーカー。薄膜の均一性、材料選択、立体構造への成膜が技術上の焦点。",
+        "strengths": [
+          "ALD",
+          "エピタキシャル成長装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.asm.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "ASM.AS",
+        "exchange": "Euronext Amsterdam",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "asm-international",
+        "ticker": "ASM.AS"
+      },
+      "facilities": [
+        {
+          "name": "Singapore製造拠点",
+          "location": "シンガポール",
+          "function": "成膜装置の製造・組立",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.asm.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "kla",
@@ -204,7 +552,42 @@
       ],
       "website": "https://www.kla.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "ウェーハ、マスク、パッケージ等の欠陥検査・計測と、製造データの解析を扱う。",
+        "industryPosition": "製造歩留まりとプロセス管理を支える検査・計測メーカー。加工装置と異なり、欠陥の検出・原因把握を担う。",
+        "strengths": [
+          "欠陥検査",
+          "計測装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.kla.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "KLAC",
+        "exchange": "NASDAQ",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "kla",
+        "ticker": "KLAC"
+      },
+      "facilities": [
+        {
+          "name": "Milpitas拠点",
+          "location": "米国・カリフォルニア州ミルピタス",
+          "function": "検査・計測装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.kla.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "hitachi",
@@ -222,7 +605,39 @@
       ],
       "website": "https://www.hitachi-hightech.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "電子顕微鏡を基盤とした半導体計測・検査、エッチング装置などを扱う。分析機器など半導体以外の事業も持つ。",
+        "industryPosition": "電子線を利用する計測・検査を担う企業。日立製作所グループの企業であり、親会社の時価総額とは分けて扱う。",
+        "strengths": [
+          "電子線計測",
+          "検査",
+          "エッチング装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.hitachi-hightech.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "subsidiary",
+        "ticker": null,
+        "exchange": null,
+        "parent": "日立製作所",
+        "note": "独立上場なし。親会社の時価総額は当社の値として表示しない。"
+      },
+      "marketCapSource": null,
+      "facilities": [
+        {
+          "name": "那珂地区",
+          "location": "日本・茨城県ひたちなか市",
+          "function": "電子線計測・検査装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.hitachi-hightech.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "disco",
@@ -239,7 +654,52 @@
       ],
       "website": "https://www.disco.co.jp/",
       "irUrl": "https://www.disco.co.jp/jp/ir/",
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体ウェーハの切断、研削、研磨装置と加工ツールを扱う。装置と砥石などの消耗品を組み合わせて加工を支える。",
+        "industryPosition": "ウェーハ薄化・個片化工程を担う精密加工メーカー。薄いチップや難加工材料への対応が技術上の焦点。",
+        "strengths": [
+          "研削",
+          "研磨",
+          "ダイシング装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.disco.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6146.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "disco",
+        "ticker": "6146.T"
+      },
+      "facilities": [
+        {
+          "name": "呉工場",
+          "location": "日本・広島県呉市",
+          "function": "精密加工装置・ツール関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.disco.co.jp/",
+          "verifiedAt": null
+        },
+        {
+          "name": "桑畑工場",
+          "location": "日本・広島県呉市",
+          "function": "精密加工装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.disco.co.jp/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "accretech",
@@ -258,7 +718,43 @@
       ],
       "website": "https://www.accretech.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体向けのプロービング、研削、ダイシング装置と精密測定機器を扱う。",
+        "industryPosition": "ウェーハ検査と精密加工を担うメーカー。半導体製造装置と一般の精密測定事業を区別して見る。",
+        "strengths": [
+          "ウェーハ検査",
+          "研削",
+          "ダイシング装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.accretech.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "7729.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "tokyo-seimitsu",
+        "ticker": "7729.T"
+      },
+      "facilities": [
+        {
+          "name": "八王子工場",
+          "location": "日本・東京都八王子市",
+          "function": "半導体製造装置関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.accretech.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "besi",
@@ -275,7 +771,32 @@
       ],
       "website": "https://www.besi.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "ダイ接合などの半導体組立装置を扱う。高精度なチップ配置・接合や先端パッケージに関わる。",
+        "industryPosition": "後工程の接合装置メーカー。ハイブリッドボンディング等の高精度接合が重要な製品領域。",
+        "strengths": [
+          "ダイ接合",
+          "ハイブリッドボンディング装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.besi.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "BESI.AS",
+        "exchange": "Euronext Amsterdam",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "besi",
+        "ticker": "BESI.AS"
+      },
+      "facilities": []
     },
     {
       "id": "asmpt",
@@ -291,7 +812,32 @@
       ],
       "website": "https://www.asmpt.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体組立・接合装置と電子機器の表面実装装置を扱う。ワイヤボンディング、ダイ接合などに関わる。",
+        "industryPosition": "半導体後工程と電子機器実装をつなぐ装置メーカー。ASM Internationalとは別企業であり、業績を混同しない。",
+        "strengths": [
+          "ダイ接合",
+          "ワイヤボンディング装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.asmpt.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "0522.HK",
+        "exchange": "香港証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "asmpt",
+        "ticker": "0522.HK"
+      },
+      "facilities": []
     },
     {
       "id": "towa",
@@ -308,7 +854,42 @@
       ],
       "website": "https://www.towajapan.co.jp/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体の樹脂封止装置、金型などを扱う。パッケージのモールディング工程を支える。",
+        "industryPosition": "後工程の封止領域を担う装置・金型メーカー。パッケージの薄型化や大型化に応じた成形技術が重要。",
+        "strengths": [
+          "半導体封止",
+          "モールディング装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.towajapan.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6315.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "towa",
+        "ticker": "6315.T"
+      },
+      "facilities": [
+        {
+          "name": "京都東事業所",
+          "location": "日本・京都府京都市",
+          "function": "封止装置・金型関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.towajapan.co.jp/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "advantest",
@@ -325,7 +906,41 @@
       ],
       "website": "https://www.advantest.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体自動試験装置、関連インターフェースや試験支援製品を扱う。製造したチップの機能と性能を検証する。",
+        "industryPosition": "半導体テスト工程を担う装置メーカー。ロジック、メモリー等の試験要件に対応したテスターを提供する。",
+        "strengths": [
+          "半導体自動試験装置（ATE）"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.advantest.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6857.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "advantest",
+        "ticker": "6857.T"
+      },
+      "facilities": [
+        {
+          "name": "群馬R&Dセンタ・群馬地区",
+          "location": "日本・群馬県邑楽郡明和町",
+          "function": "半導体試験装置関連。生産機能の現行範囲は要確認",
+          "kind": "rd",
+          "status": "unverified",
+          "sourceUrl": "https://www.advantest.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "teradyne",
@@ -341,7 +956,31 @@
       ],
       "website": "https://www.teradyne.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体自動試験装置を中心に電子機器の試験関連製品を扱う。産業オートメーションなどの事業も持つ。",
+        "industryPosition": "半導体テスト装置メーカー。全社事業には半導体以外の領域も含まれるため、部門別の比較が必要。",
+        "strengths": [
+          "半導体自動試験装置（ATE）"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.teradyne.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "TER",
+        "exchange": "NASDAQ",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "teradyne",
+        "ticker": "TER"
+      },
+      "facilities": []
     },
     {
       "id": "pva",
@@ -357,7 +996,31 @@
       ],
       "website": "https://www.pvatepla.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "結晶成長、真空・熱処理、分析・検査関連のシステムを扱う。材料の製造と品質評価に関わる。",
+        "industryPosition": "半導体材料製造と評価装置を担う企業。ウェーハ製造の上流工程に位置する。",
+        "strengths": [
+          "結晶成長装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.pvatepla.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "TPE.DE",
+        "exchange": "フランクフルト証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "pva-tepla",
+        "ticker": "TPE.DE"
+      },
+      "facilities": []
     },
     {
       "id": "ebara",
@@ -376,7 +1039,42 @@
       ],
       "website": "https://www.ebara.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体向けドライ真空ポンプ、排ガス処理、CMP装置を扱う。ポンプ等の産業・インフラ関連事業も持つ。",
+        "industryPosition": "装置内部の真空系とCMP工程の双方に関わるメーカー。全社の時価総額には半導体以外の事業も含まれる。",
+        "strengths": [
+          "ドライ真空ポンプ",
+          "CMP装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.ebara.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6361.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "ebara",
+        "ticker": "6361.T"
+      },
+      "facilities": [
+        {
+          "name": "藤沢事業所",
+          "location": "日本・神奈川県藤沢市",
+          "function": "精密・電子関連製品",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.ebara.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "edwards",
@@ -394,7 +1092,28 @@
       ],
       "website": "https://www.edwardsvacuum.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体製造向け真空ポンプや排ガス処理システムを扱う。装置が必要とする真空環境と排ガス管理を支える。",
+        "industryPosition": "真空・排ガス処理を担うサプライヤー。Atlas Copcoグループの事業であり、独立した上場会社の時価総額はない。",
+        "strengths": [
+          "真空ポンプ",
+          "排ガス処理システム"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.edwardsvacuum.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "subsidiary",
+        "ticker": null,
+        "exchange": null,
+        "parent": "Atlas Copco",
+        "note": "独立上場なし。事業・ブランドの規模と親会社全体を区別する。"
+      },
+      "marketCapSource": null,
+      "facilities": []
     },
     {
       "id": "mks",
@@ -411,7 +1130,33 @@
       ],
       "website": "https://www.mks.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "圧力・流量制御、真空計測、RF電源などの製品を扱う。半導体装置のプロセス条件の制御に関わる。",
+        "industryPosition": "半導体装置向けコンポーネント・制御製品のサプライヤー。装置メーカーの設計に組み込まれる位置にある。",
+        "strengths": [
+          "流量制御",
+          "圧力制御",
+          "RF電源"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.mks.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "MKSI",
+        "exchange": "NASDAQ",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "mks-instruments",
+        "ticker": "MKSI"
+      },
+      "facilities": []
     },
     {
       "id": "horiba",
@@ -429,7 +1174,32 @@
       ],
       "website": "https://www.horiba.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "マスフローコントローラーなど半導体向け計測・制御製品を扱う。分析・計測を自動車、環境、科学等にも展開する。",
+        "industryPosition": "プロセスガス制御・分析を担うサプライヤー。半導体専業ではないため、事業部門別に評価する。",
+        "strengths": [
+          "マスフローコントローラー",
+          "分析機器"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.horiba.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6856.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "horiba",
+        "ticker": "6856.T"
+      },
+      "facilities": []
     },
     {
       "id": "vat",
@@ -446,7 +1216,41 @@
       ],
       "website": "https://www.vatgroup.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体製造装置などに使われる真空バルブを扱う。真空チャンバーの隔離・開閉・圧力制御に関わる。",
+        "industryPosition": "真空系の部品サプライヤー。装置の清浄度、密閉性、制御精度を支える。",
+        "strengths": [
+          "真空バルブ"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.vatgroup.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "VACN.SW",
+        "exchange": "SIX Swiss Exchange",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "vat-group",
+        "ticker": "VACN.SW"
+      },
+      "facilities": [
+        {
+          "name": "Haag拠点",
+          "location": "スイス・ハーグ",
+          "function": "真空バルブ製造",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.vatgroup.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "zeiss",
@@ -463,7 +1267,37 @@
       ],
       "website": "https://www.zeiss.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体露光向け光学系や製造・検査関連の技術を扱う。眼鏡レンズ、医療機器、顕微鏡等にも光学技術を展開する。",
+        "industryPosition": "露光システムの光学技術を担う企業グループ。上場するCarl Zeiss Meditecと半導体関連事業を混同しない。",
+        "strengths": [
+          "半導体製造向け光学系"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.zeiss.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "private",
+        "ticker": null,
+        "exchange": null,
+        "parent": null,
+        "note": "ZEISSグループは非上場。Carl Zeiss Meditecの株式価値を半導体事業の値として代用しない。"
+      },
+      "marketCapSource": null,
+      "facilities": [
+        {
+          "name": "Oberkochen拠点",
+          "location": "ドイツ・オーバーコッヘン",
+          "function": "半導体向け光学系関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.zeiss.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "thk",
@@ -482,7 +1316,32 @@
       ],
       "website": "https://www.thk.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "直動案内などの機械要素部品を扱う。半導体装置を含む産業機械の精密な移動・位置決めを支える。",
+        "industryPosition": "精密機構部品のサプライヤー。半導体装置以外の幅広い産業にも供給する。",
+        "strengths": [
+          "直動案内",
+          "精密位置決め部品"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.thk.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6481.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "thk",
+        "ticker": "6481.T"
+      },
+      "facilities": []
     },
     {
       "id": "ngk",
@@ -500,7 +1359,32 @@
       ],
       "website": "https://www.ngk-insulators.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体装置向けセラミックヒーターや静電チャックなどを扱う。電力、環境等の産業にもセラミック製品を展開する。",
+        "industryPosition": "プロセス装置内部の耐熱・電気特性を担う部品メーカー。半導体関連製品はグループの事業の一部。",
+        "strengths": [
+          "セラミックヒーター",
+          "静電チャック"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.ngk-insulators.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "5333.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "ngk-insulators",
+        "ticker": "5333.T"
+      },
+      "facilities": []
     },
     {
       "id": "mjc",
@@ -517,7 +1401,31 @@
       ],
       "website": "https://www.mjc.co.jp/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "ウェーハ段階の電気検査に用いるプローブカード等を扱う。微細な電極へ接触してテスターとチップを接続する。",
+        "industryPosition": "テスターとウェーハをつなぐ検査インターフェースのメーカー。接触精度や同時測定への対応が競争軸。",
+        "strengths": [
+          "プローブカード"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.mjc.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6871.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "micronics-japan",
+        "ticker": "6871.T"
+      },
+      "facilities": []
     },
     {
       "id": "yamai",
@@ -534,7 +1442,31 @@
       ],
       "website": "https://www.yamaichi.co.jp/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体試験用ソケットやコネクターを扱う。チップと試験装置を電気的・機械的に接続する。",
+        "industryPosition": "半導体テスト向けインターフェース部品のサプライヤー。高周波対応や耐久性などが重要な特性。",
+        "strengths": [
+          "ICテストソケット"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.yamaichi.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6941.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "yamaichi-electronics",
+        "ticker": "6941.T"
+      },
+      "facilities": []
     },
     {
       "id": "sumco",
@@ -550,7 +1482,50 @@
       ],
       "website": "https://www.sumcosi.com/",
       "irUrl": "https://www.sumcosi.com/ir/",
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体製造の基板となるシリコンウェーハを扱う。結晶育成、加工、表面処理などの製造工程に関わる。",
+        "industryPosition": "半導体サプライチェーン上流のウェーハメーカー。結晶品質と顧客の製造工程への適合が重要。",
+        "strengths": [
+          "シリコンウェーハ"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.sumcosi.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "3436.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "sumco",
+        "ticker": "3436.T"
+      },
+      "facilities": [
+        {
+          "name": "伊万里地区",
+          "location": "日本・佐賀県伊万里市",
+          "function": "シリコンウェーハ製造",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.sumcosi.com/",
+          "verifiedAt": null
+        },
+        {
+          "name": "久原地区",
+          "location": "日本・佐賀県伊万里市",
+          "function": "シリコンウェーハ製造",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.sumcosi.com/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "shinetsu",
@@ -568,7 +1543,42 @@
       ],
       "website": "https://www.shinetsu.co.jp/",
       "irUrl": "https://www.shinetsu.co.jp/jp/ir/",
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "シリコンウェーハ、フォトレジスト等の半導体材料を扱う。塩化ビニル、シリコーンなどにも事業を展開する。",
+        "industryPosition": "複数の半導体材料を担う総合化学メーカー。全社規模と半導体関連部門の規模を区別して比較する。",
+        "strengths": [
+          "シリコンウェーハ",
+          "フォトレジスト"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.shinetsu.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "4063.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "shin-etsu-chemical",
+        "ticker": "4063.T"
+      },
+      "facilities": [
+        {
+          "name": "信越半導体 白河工場",
+          "location": "日本・福島県西白河郡西郷村",
+          "function": "シリコンウェーハ製造",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.shinetsu.co.jp/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "jsr",
@@ -585,7 +1595,28 @@
       ],
       "website": "https://www.jsr.co.jp/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "フォトレジスト、CMP関連材料などの電子材料を扱う。ライフサイエンス関連の事業も持つ。",
+        "industryPosition": "露光・研磨関連の材料サプライヤー。2024年の非公開化により、上場時の時価総額を現在値として扱わない。",
+        "strengths": [
+          "フォトレジスト",
+          "CMP材料"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.jsr.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "private",
+        "ticker": null,
+        "exchange": null,
+        "parent": null,
+        "note": "2024年に非公開化。過去の上場時価総額を現在値として扱わない。"
+      },
+      "marketCapSource": null,
+      "facilities": []
     },
     {
       "id": "tok",
@@ -603,7 +1634,42 @@
       ],
       "website": "https://www.tok.co.jp/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "フォトレジストと高純度薬液などの半導体材料を扱う。微細パターン形成と関連プロセスを支える。",
+        "industryPosition": "リソグラフィ材料を担う化学メーカー。露光方式・製造工程に応じた材料設計が重要。",
+        "strengths": [
+          "フォトレジスト",
+          "高純度薬液"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.tok.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "4186.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "tokyo-ohka-kogyo",
+        "ticker": "4186.T"
+      },
+      "facilities": [
+        {
+          "name": "相模事業所",
+          "location": "日本・神奈川県高座郡寒川町",
+          "function": "電子材料製造関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.tok.co.jp/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "fujifilm",
@@ -621,7 +1687,33 @@
       ],
       "website": "https://www.fujifilm.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "フォトレジスト、洗浄薬液、CMPスラリー等の半導体材料を扱う。ヘルスケア、画像等にも事業を展開する。",
+        "industryPosition": "複数工程の材料を供給する企業グループ。半導体関連事業と全社の業績・評価を分けて見る。",
+        "strengths": [
+          "フォトレジスト",
+          "洗浄薬液",
+          "CMPスラリー"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.fujifilm.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "4901.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "fujifilm",
+        "ticker": "4901.T"
+      },
+      "facilities": []
     },
     {
       "id": "merck",
@@ -640,7 +1732,33 @@
       ],
       "website": "https://www.merckgroup.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "成膜前駆体、特殊ガス、リソグラフィ関連材料などを扱う。医薬品・ライフサイエンス等の事業も持つ。",
+        "industryPosition": "電子材料を担う総合企業。ドイツのMerck KGaAであり、米国のMerck & Co.とは別企業。",
+        "strengths": [
+          "成膜前駆体",
+          "特殊ガス",
+          "リソグラフィ材料"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.merckgroup.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "MRK.DE",
+        "exchange": "フランクフルト証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "merck-kgaa",
+        "ticker": "MRK.DE"
+      },
+      "facilities": []
     },
     {
       "id": "airliquide",
@@ -657,7 +1775,32 @@
       ],
       "website": "https://www.airliquide.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体向け高純度ガス・特殊ガスと供給関連サービスを扱う。一般産業・医療向けのガス事業も展開する。",
+        "industryPosition": "工場のガス供給インフラとプロセス材料を担う企業。半導体関連需要は全社事業の一部。",
+        "strengths": [
+          "半導体向け高純度",
+          "特殊ガス"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.airliquide.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "AI.PA",
+        "exchange": "Euronext Paris",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "air-liquide",
+        "ticker": "AI.PA"
+      },
+      "facilities": []
     },
     {
       "id": "nippongas",
@@ -675,7 +1818,31 @@
       ],
       "website": "https://www.nipponsanso-hd.co.jp/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体製造向けの特殊ガスと産業ガス関連事業をグループで展開する。ガス製造・供給体制を支える。",
+        "industryPosition": "製造工場のガス供給を担う企業グループ。半導体向け材料と一般産業向けの事業を区別して評価する。",
+        "strengths": [
+          "半導体製造向け特殊ガス"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.nipponsanso-hd.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "4091.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "nippon-sanso",
+        "ticker": "4091.T"
+      },
+      "facilities": []
     },
     {
       "id": "stella",
@@ -693,7 +1860,51 @@
       ],
       "website": "https://www.stella-chemifa.co.jp/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "高純度フッ酸などのフッ素化合物を扱う。半導体の洗浄・エッチング関連プロセスに使われる材料を提供する。",
+        "industryPosition": "高純度フッ素化学品を担う材料メーカー。純度、不純物管理、供給品質が重要な特性。",
+        "strengths": [
+          "高純度フッ酸",
+          "フッ素化合物"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.stella-chemifa.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "4109.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "stella-chemifa",
+        "ticker": "4109.T"
+      },
+      "facilities": [
+        {
+          "name": "三宝工場",
+          "location": "日本・大阪府堺市",
+          "function": "高純度フッ素化合物関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.stella-chemifa.co.jp/",
+          "verifiedAt": null
+        },
+        {
+          "name": "泉工場",
+          "location": "日本・大阪府泉大津市",
+          "function": "フッ素化合物関連",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.stella-chemifa.co.jp/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "entegris",
@@ -711,7 +1922,33 @@
       ],
       "website": "https://www.entegris.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "ろ過・高純度流体管理、材料搬送・保護、CMP関連材料などを扱う。工程中の汚染管理に関わる。",
+        "industryPosition": "半導体製造の材料品質と清浄度を支えるサプライヤー。材料そのものと管理・搬送技術の双方を扱う。",
+        "strengths": [
+          "ろ過",
+          "高純度流体管理",
+          "CMP材料"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.entegris.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "ENTG",
+        "exchange": "NASDAQ",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "entegris",
+        "ticker": "ENTG"
+      },
+      "facilities": []
     },
     {
       "id": "resonac",
@@ -729,7 +1966,33 @@
       ],
       "website": "https://www.resonac.com/",
       "irUrl": "https://www.resonac.com/jp/ir",
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体の封止材、接着・実装材料などを扱う。化学品・機能材料等の事業も持つ。",
+        "industryPosition": "半導体パッケージ材料を担う化学メーカー。先端パッケージでは複数材料と工程の組み合わせが重要。",
+        "strengths": [
+          "ダイシングテープ",
+          "封止材",
+          "実装材料"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.resonac.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "4004.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "resonac",
+        "ticker": "4004.T"
+      },
+      "facilities": []
     },
     {
       "id": "sumitomo",
@@ -746,7 +2009,31 @@
       ],
       "website": "https://www.sumibe.co.jp/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体封止用エポキシ樹脂等を扱う。電子材料以外にも樹脂・機能材料関連の製品を展開する。",
+        "industryPosition": "半導体の保護・封止を担う材料メーカー。耐熱性、成形性、信頼性が製品の評価軸。",
+        "strengths": [
+          "半導体封止用エポキシ樹脂"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.sumibe.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "4203.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "sumitomo-bakelite",
+        "ticker": "4203.T"
+      },
+      "facilities": []
     },
     {
       "id": "nitto",
@@ -763,7 +2050,32 @@
       ],
       "website": "https://www.nitto.com/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "ダイシング・バックグラインド用テープなどを扱う。粘着、フィルム、膜等の技術を複数産業に展開する。",
+        "industryPosition": "ウェーハ加工時の保持・保護を担う材料メーカー。半導体関連材料は全社事業の一部。",
+        "strengths": [
+          "ダイシング",
+          "バックグラインドテープ"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.nitto.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6988.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "nitto-denko",
+        "ticker": "6988.T"
+      },
+      "facilities": []
     },
     {
       "id": "tanaka",
@@ -780,7 +2092,28 @@
       ],
       "website": "https://www.tanaka.co.jp/",
       "irUrl": null,
-      "verificationStatus": "要確認"
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "ボンディングワイヤや接合材料等の貴金属製品を扱う。貴金属の精製・加工・回収にも関わる。",
+        "industryPosition": "半導体接合に使う貴金属材料を担う企業グループ。装置メーカーではなく接続・接合材料のサプライヤー。",
+        "strengths": [
+          "ボンディングワイヤ",
+          "接合材料"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.tanaka.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "private",
+        "ticker": null,
+        "exchange": null,
+        "parent": null,
+        "note": "非上場企業グループ。市場での株式時価総額は取得対象外。"
+      },
+      "marketCapSource": null,
+      "facilities": []
     }
   ]
 }

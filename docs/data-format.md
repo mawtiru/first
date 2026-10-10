@@ -72,3 +72,14 @@
 ```
 
 日時はISO 8601で、表示時に日本時間へ変換されます。確認済みだけが正式な適時開示欄に表示されます。
+
+## 企業概要と生産拠点
+
+`catalog.json` の企業レコードに `profile`、`listing`、`facilities`、`marketCapSource` を登録します。
+
+- `profile`：summary（事業説明）、industryPosition（業界内の役割）、strengths（技術分野）、informationStatus（reference / verified）、sourceUrl、verifiedAt、note。
+- `listing`：status（listed / private / subsidiary）、ticker、exchange、parent、note。親会社の銘柄を非上場子会社に登録しないでください。
+- `facilities`：name、location（国・都市）、function（生産機能）、kind（manufacturing_candidate / manufacturing / rd）、status（unverified / verified）、sourceUrl、verifiedAt。確認できた工場は kind を manufacturing にしてください。工場と本社・研究所を混同しないでください。地図は登録した名称と所在地を使う検索リンクであり、座標を検証したピンではありません。
+- `marketCapSource`：provider（companiesmarketcap）、slug（企業ページのURL部分）、ticker（取得元ページタイトルにある銘柄）。非上場企業はnullです。市場価値の数値は自動収集先である `updates.json` の companies[企業ID].marketCap に保存されます。
+
+確認済みに変更する場合は、対象事実を確認できる公式資料のURLと確認日を併記してください。一般の公式トップページへのリンクだけで確認済みとしないでください。
