@@ -4,47 +4,56 @@
     {
       "id": "wafer",
       "name": "ウェーハ製造",
-      "phase": "front"
+      "phase": "front",
+      "description": "シリコン結晶を育成し、切断・研磨して半導体製造の基板となるウェーハを作る工程。"
     },
     {
       "id": "lithography",
       "name": "露光・塗布現像",
-      "phase": "front"
+      "phase": "front",
+      "description": "フォトレジストを塗布し、露光・現像によって回路パターンを形成する工程。"
     },
     {
       "id": "deposition",
       "name": "成膜",
-      "phase": "front"
+      "phase": "front",
+      "description": "絶縁膜や導電膜などをウェーハ表面に形成する工程。CVD、PVD、ALDなどの技術を用いる。"
     },
     {
       "id": "etch",
       "name": "エッチング",
-      "phase": "front"
+      "phase": "front",
+      "description": "露光で形成したパターンに沿って材料を除去し、微細な構造を作る工程。"
     },
     {
       "id": "clean",
       "name": "洗浄・CMP",
-      "phase": "front"
+      "phase": "front",
+      "description": "汚染・残留物を取り除く洗浄と、化学機械研磨（CMP）による表面の平坦化を扱う。"
     },
     {
       "id": "inspection",
       "name": "計測・検査",
-      "phase": "front"
+      "phase": "front",
+      "description": "欠陥や寸法、膜厚などを検査・計測し、製造プロセスと歩留まりを管理する工程。"
     },
     {
       "id": "dicing",
       "name": "研削・ダイシング",
-      "phase": "back"
+      "phase": "back",
+      "description": "ウェーハを薄く研削・研磨し、ダイシングによってチップへ切り分ける工程。"
     },
     {
       "id": "packaging",
       "name": "接合・封止",
-      "phase": "back"
+      "phase": "back",
+      "description": "チップを接合・配線し、封止してパッケージを作る工程。先端パッケージの接合技術も含む。"
     },
     {
       "id": "test",
       "name": "最終検査",
-      "phase": "back"
+      "phase": "back",
+      "description": "チップやパッケージの電気的な機能・性能を確認し、製品としての品質を判定する工程。"
     }
   ],
   "companies": [

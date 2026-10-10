@@ -7,3 +7,13 @@ export function comparableMarkets(markets,companyId){return markets.filter(m=>m.
 export function formatDate(value){if(!value)return '未実施';const d=new Date(value);if(Number.isNaN(d.getTime()))return '日時不明';return new Intl.DateTimeFormat('ja-JP',{timeZone:'Asia/Tokyo',dateStyle:'medium',timeStyle:'short'}).format(d)}
 export function formatMarketCap(record){if(!record||!Number.isFinite(record.value)||record.value<=0)return '未取得';const n=record.value;const [scale,unit]=n>=1e12?[1e12,'兆']:n>=1e8?[1e8,'億']:n>=1e4?[1e4,'万']:[1,''];const currency={USD:'米ドル',JPY:'円',EUR:'ユーロ'}[record.currency]||record.currency;return `約${(n/scale).toLocaleString('ja-JP',{maximumFractionDigits:2})}${unit}${currency}`}
 export function mapSearchUrl(facility){return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${facility.name} ${facility.location}`)}`}
+
+export function companiesForStage(companies,stageId){return companies.filter(c=>c.stageIds.includes(stageId))}
+export function parseRoute(hash){
+ const value=hash.replace(/^#/,'');
+ const [path,query]=value.split('?');
+ if(!path||path==='/')return {type:'home'};
+ const match=path.match(/^\/(stage|company)\/([^/]+)$/);
+ if(!match)return {type:'notFound'};
+ try{return {type:match[1],id:decodeURIComponent(match[2]),fromStage:new URLSearchParams(query||'').get('stage')}}catch{return {type:'notFound'}}
+}
