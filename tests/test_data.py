@@ -32,6 +32,17 @@ class DataTests(unittest.TestCase):
         self.assertEqual(companies['tatsumo']['category'], 'equipment')
         self.assertIn('packaging', companies['tatsumo']['stageIds'])
 
+    def test_probe_test_precedes_dicing_and_is_not_final_test(self):
+        stages = {s['id']: s for s in CATALOG['stages']}
+        stage_ids = [s['id'] for s in CATALOG['stages']]
+        self.assertEqual(stages['inspection']['phase'], 'front')
+        self.assertLess(stage_ids.index('inspection'), stage_ids.index('dicing'))
+        self.assertEqual(stages['test']['phase'], 'back')
+        for cid in ('mjc', 'jem'):
+            company = next(c for c in CATALOG['companies'] if c['id'] == cid)
+            self.assertIn('inspection', company['stageIds'])
+            self.assertNotIn('test', company['stageIds'])
+
     def market(self):
         return {'id':'test-market','status':'verified','product':'TEST ONLY','year':2025,'region':'世界','measure':'売上金額','definition':'TEST ONLY','sourceUrl':'https://example.test/report','verifiedAt':'2026-10-10','rows':[{'companyId':'asml','share':50},{'companyId':'nikon','share':30}]}
 

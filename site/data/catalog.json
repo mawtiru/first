@@ -33,9 +33,9 @@
     },
     {
       "id": "inspection",
-      "name": "計測・検査",
+      "name": "計測・プローブ検査",
       "phase": "front",
-      "description": "欠陥、寸法、膜厚などの検査・計測や、ウェーハ段階の電気検査を通じて、製造プロセスと歩留まりを管理する工程。"
+      "description": "工程内の計測・欠陥検査に加え、前工程を終えたウェーハの電気的な良否を判定するプローブテストを扱う。プローブテストはダイシング前に行う。"
     },
     {
       "id": "dicing",
@@ -53,7 +53,7 @@
       "id": "test",
       "name": "最終検査",
       "phase": "back",
-      "description": "チップやパッケージの電気的な機能・性能を確認するテスト領域。最終検査に加え、ウェーハ段階の電気検査を支える関連メーカーも掲載する。"
+      "description": "接合・封止などの後工程を終えた半導体パッケージの電気的な機能・性能を確認する最終検査。ウェーハ状態のプローブテストは前工程最後の検査に配置する。"
     }
   ],
   "companies": [
@@ -911,6 +911,7 @@
       "category": "equipment",
       "products": "半導体自動試験装置（ATE）",
       "stageIds": [
+        "inspection",
         "test"
       ],
       "website": "https://www.advantest.com/",
@@ -961,6 +962,7 @@
       "category": "equipment",
       "products": "半導体自動試験装置（ATE）",
       "stageIds": [
+        "inspection",
         "test"
       ],
       "website": "https://www.teradyne.com/",
@@ -1406,8 +1408,7 @@
       "category": "parts",
       "products": "プローブカード・半導体検査関連製品",
       "stageIds": [
-        "inspection",
-        "test"
+        "inspection"
       ],
       "website": "https://www.mjc.co.jp/",
       "irUrl": null,
@@ -1423,7 +1424,7 @@
         "informationStatus": "reference",
         "verifiedAt": null,
         "sourceUrl": "https://www.mjc.co.jp/",
-        "note": "初期編集情報。公式情報との最新照合は未実施。計測・検査とテスト領域に配置していますが、プローブカードの主用途はウェーハ段階の電気検査です。"
+        "note": "初期編集情報。公式情報との最新照合は未実施。プローブカードは前工程終了後・ダイシング前のウェーハ状態で行う電気検査に用い、後工程の最終パッケージ検査とは区別する。"
       },
       "listing": {
         "status": "listed",
@@ -2595,8 +2596,7 @@
       "website": "https://www.jem-net.co.jp/",
       "products": "プローブカード・カンチレバー型プローブカード・MEMS型プローブカード",
       "stageIds": [
-        "inspection",
-        "test"
+        "inspection"
       ],
       "country": "日本",
       "category": "parts",
@@ -2613,7 +2613,7 @@
         "informationStatus": "reference",
         "verifiedAt": null,
         "sourceUrl": "https://www.jem-net.co.jp/",
-        "note": "初期編集情報。公式情報との最新照合は未実施。工程分類は製品・インフラの役割を示し、特定企業への納入関係を示すものではありません。"
+        "note": "初期編集情報。公式情報との最新照合は未実施。プローブカードは前工程終了後・ダイシング前のウェーハ状態で行う電気検査に用い、後工程の最終パッケージ検査とは区別する。"
       },
       "listing": {
         "status": "listed",
