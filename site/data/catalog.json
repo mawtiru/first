@@ -2836,6 +2836,358 @@
           "sourceUrl": "https://www.hoya.com/"
         }
       ]
+    },
+    {
+      "id": "fuso-chemical",
+      "name": "扶桑化学工業",
+      "aliases": [
+        "扶桑化学工業",
+        "扶桑化学",
+        "Fuso Chemical"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "CMP研磨材向け超高純度コロイダルシリカ",
+      "stageIds": [
+        "clean"
+      ],
+      "website": "https://www.fusokk.co.jp/",
+      "irUrl": "https://www.fusokk.co.jp/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体ウェーハのCMP研磨に用いる超高純度コロイダルシリカを扱う。果実酸等のライフサイエンス製品も事業領域に含む。",
+        "industryPosition": "CMPスラリーの原料となるシリカ粒子を供給する材料メーカー。完成スラリーとシリカ原料は異なる製品市場として扱う。",
+        "strengths": [
+          "超高純度コロイダルシリカ",
+          "粒径・不純物の制御",
+          "CMP向け研磨粒子"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.fusokk.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。製品の供給主体や現在の拠点機能は確認が必要です。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "4368.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は半導体事業単独ではなく全社の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "fuso-chemical",
+        "ticker": "4368.T"
+      },
+      "facilities": [
+        {
+          "name": "京都事業所",
+          "location": "日本・京都府福知山市",
+          "function": "電子材料関連の製造拠点候補。最新の担当製品・稼働状況は要確認。",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "verifiedAt": null,
+          "sourceUrl": "https://www.fusokk.co.jp/"
+        }
+      ]
+    },
+    {
+      "id": "kanto-denka",
+      "name": "関東電化工業",
+      "aliases": [
+        "関東電化工業",
+        "関東電化",
+        "Kanto Denka"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "半導体向けフッ素系特殊ガス、エッチング・成膜・チャンバー洗浄用ガス",
+      "stageIds": [
+        "etch",
+        "deposition",
+        "clean"
+      ],
+      "website": "https://www.kantodenka.co.jp/",
+      "irUrl": "https://www.kantodenka.co.jp/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "フッ素系を中心に半導体製造用の特殊ガスを供給する。エッチング、成膜、装置チャンバーの洗浄などで使用され、電池材料等も扱う。",
+        "industryPosition": "半導体のプロセスガスを担う化学メーカー。洗浄への分類には装置内部のチャンバー洗浄を含み、ウェーハの湿式洗浄薬液とは区別する。",
+        "strengths": [
+          "フッ素化学",
+          "高純度特殊ガス",
+          "プロセスガス"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.kantodenka.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。製品の供給主体や現在の拠点機能は確認が必要です。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "4047.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は半導体事業単独ではなく全社の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "kanto-denka-kogyo",
+        "ticker": "4047.T"
+      },
+      "facilities": [
+        {
+          "name": "渋川工場",
+          "location": "日本・群馬県渋川市",
+          "function": "化学製品の製造拠点候補。半導体用ガスの担当品目は要確認。",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "verifiedAt": null,
+          "sourceUrl": "https://www.kantodenka.co.jp/"
+        },
+        {
+          "name": "水島工場",
+          "location": "日本・岡山県倉敷市",
+          "function": "化学製品の製造拠点候補。最新の担当製品は要確認。",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "verifiedAt": null,
+          "sourceUrl": "https://www.kantodenka.co.jp/"
+        }
+      ]
+    },
+    {
+      "id": "asahi-kasei",
+      "name": "旭化成",
+      "aliases": [
+        "旭化成",
+        "Asahi Kasei"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "半導体向け感光性ポリイミド・感光性絶縁材料",
+      "stageIds": [
+        "packaging"
+      ],
+      "website": "https://www.asahi-kasei.com/",
+      "irUrl": "https://www.asahi-kasei.com/jp/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体の保護膜・絶縁膜などに用いる感光性ポリイミド等の電子材料をグループで扱う。化学・住宅・ヘルスケアなどを含む多角的な企業グループ。",
+        "industryPosition": "先端パッケージの絶縁・保護材料に関わる総合化学グループ。材料の販売・製造主体は子会社等の場合があり、全社売上を半導体売上と同一視しない。",
+        "strengths": [
+          "感光性ポリイミド",
+          "絶縁・保護膜",
+          "高分子材料"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.asahi-kasei.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。製品の供給主体や現在の拠点機能は確認が必要です。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "3407.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は半導体事業単独ではなく全社の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "asahi-kasei",
+        "ticker": "3407.T"
+      },
+      "facilities": []
+    },
+    {
+      "id": "mitsubishi-chemical",
+      "name": "三菱ケミカル",
+      "aliases": [
+        "三菱ケミカル",
+        "Mitsubishi Chemical"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "半導体向けフォトレジスト用ポリマー・電子工業用高純度薬品",
+      "stageIds": [
+        "lithography",
+        "clean"
+      ],
+      "website": "https://www.m-chemical.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "フォトレジスト用ポリマーや電子工業向け高純度薬品などの半導体関連材料を扱う。機能材料、化学品等を幅広く展開する。",
+        "industryPosition": "露光用材料やプロセス薬品を支える総合化学メーカー。上場親会社の三菱ケミカルグループと事業会社の三菱ケミカルを区別して掲載する。",
+        "strengths": [
+          "フォトレジスト用ポリマー",
+          "電子工業用薬品",
+          "機能性化学材料"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.m-chemical.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。製品の供給主体や現在の拠点機能は確認が必要です。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "subsidiary",
+        "ticker": null,
+        "exchange": null,
+        "parent": "三菱ケミカルグループ",
+        "note": "親会社の時価総額を当社の時価総額として表示しません。"
+      },
+      "marketCapSource": null,
+      "facilities": []
+    },
+    {
+      "id": "mitsui-chemicals",
+      "name": "三井化学",
+      "aliases": [
+        "三井化学",
+        "Mitsui Chemicals"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "露光用ペリクル、ウェーハ加工用保護テープ、半導体パッケージ関連材料",
+      "stageIds": [
+        "lithography",
+        "dicing",
+        "packaging"
+      ],
+      "website": "https://jp.mitsuichemicals.com/",
+      "irUrl": "https://jp.mitsuichemicals.com/jp/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "フォトマスクを異物から保護するペリクル、ウェーハ加工時の保護テープ、半導体パッケージ関連材料などをグループで扱う。半導体以外にも幅広い材料事業を展開する。",
+        "industryPosition": "露光時のマスク保護からウェーハ薄化・加工、パッケージ材料までを支える化学グループ。ペリクルはフォトマスクやマスクブランクスとは異なる製品。",
+        "strengths": [
+          "ペリクル",
+          "ウェーハ保護テープ",
+          "パッケージ関連材料"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://jp.mitsuichemicals.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。製品の供給主体や現在の拠点機能は確認が必要です。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "4183.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は半導体事業単独ではなく全社の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "mitsui-chemicals",
+        "ticker": "4183.T"
+      },
+      "facilities": []
+    },
+    {
+      "id": "jx-advanced-metals",
+      "name": "JX金属",
+      "aliases": [
+        "JX金属",
+        "JX Advanced Metals",
+        "JX Nippon Mining & Metals"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "半導体用スパッタリングターゲット、半導体接続・リードフレーム向け銅合金材料",
+      "stageIds": [
+        "deposition",
+        "packaging"
+      ],
+      "website": "https://www.jx-nmm.com/",
+      "irUrl": "https://www.jx-nmm.com/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体の配線等の薄膜形成に用いるスパッタリングターゲットや電子部品向け銅合金材料を扱う。非鉄金属の精製・加工・資源循環に関わる事業も持つ。",
+        "industryPosition": "成膜工程の金属材料と半導体接続部材を支える非鉄金属メーカー。スパッタリング装置そのものとは区別する。旧親会社のENEOSと銘柄を混同しない。",
+        "strengths": [
+          "高純度金属",
+          "スパッタリングターゲット",
+          "銅合金・接続材料"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.jx-nmm.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。製品の供給主体や現在の拠点機能は確認が必要です。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "5016.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は半導体事業単独ではなく全社の値です。"
+      },
+      "marketCapSource": null,
+      "facilities": [
+        {
+          "name": "磯原工場",
+          "location": "日本・茨城県北茨城市",
+          "function": "スパッタリングターゲット等の電子材料製造拠点候補。最新の担当製品は要確認。",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "verifiedAt": null,
+          "sourceUrl": "https://www.jx-nmm.com/"
+        }
+      ]
+    },
+    {
+      "id": "adeka",
+      "name": "ADEKA",
+      "aliases": [
+        "ADEKA",
+        "アデカ"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "半導体向け高誘電率材料・ALD/CVD原料、フォトレジスト向け光酸発生剤",
+      "stageIds": [
+        "deposition",
+        "lithography"
+      ],
+      "website": "https://www.adeka.co.jp/",
+      "irUrl": "https://www.adeka.co.jp/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体の薄膜形成に用いる高誘電率材料・成膜原料と、フォトレジスト関連の光酸発生剤などを扱う。樹脂添加剤、食品素材等にも事業を展開する。",
+        "industryPosition": "先端半導体の成膜・露光を支える機能性化学材料メーカー。成膜原料と完成したレジストは別の製品市場として扱う。",
+        "strengths": [
+          "高誘電率材料",
+          "ALD・CVD原料",
+          "光酸発生剤"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.adeka.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。製品の供給主体や現在の拠点機能は確認が必要です。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "4401.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は半導体事業単独ではなく全社の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "adeka",
+        "ticker": "4401.T"
+      },
+      "facilities": [
+        {
+          "name": "鹿島工場",
+          "location": "日本・茨城県神栖市",
+          "function": "化学製品・電子材料関連の製造拠点候補。最新の担当製品は要確認。",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "verifiedAt": null,
+          "sourceUrl": "https://www.adeka.co.jp/"
+        }
+      ]
     }
   ],
   "infrastructure": [
