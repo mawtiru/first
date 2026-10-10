@@ -12,7 +12,7 @@ RESEARCH = json.loads((ROOT / 'site/data/research.json').read_text())
 class DataTests(unittest.TestCase):
     def test_catalog_is_ready(self):
         self.assertTrue(validate(CATALOG, RESEARCH))
-        self.assertEqual(len(CATALOG['companies']),55)
+        self.assertEqual(len(CATALOG['companies']),62)
         phases = [s['phase'] for s in CATALOG['stages']]
         self.assertEqual(phases, ['front']*6+['back']*3)
         for stage in CATALOG['stages']:
@@ -73,6 +73,26 @@ class DataTests(unittest.TestCase):
         self.assertIn('マスクブランクス', companies['hoya']['products'])
         self.assertIn('フォトマスク', companies['tekscend-photomask']['products'])
         self.assertIsNone(companies['tekscend-photomask']['marketCapSource'])
+
+    def test_chemical_materials_have_correct_roles_and_company_identity(self):
+        companies = {c['id']: c for c in CATALOG['companies']}
+        expected = {'fuso-chemical': ('4368.T', ['clean']),
+                    'kanto-denka': ('4047.T', ['etch', 'deposition', 'clean']),
+                    'asahi-kasei': ('3407.T', ['packaging']),
+                    'mitsubishi-chemical': (None, ['lithography', 'clean']),
+                    'mitsui-chemicals': ('4183.T', ['lithography', 'dicing', 'packaging']),
+                    'jx-advanced-metals': ('5016.T', ['deposition', 'packaging']),
+                    'adeka': ('4401.T', ['deposition', 'lithography'])}
+        for cid, (ticker, stages) in expected.items():
+            c = companies[cid]
+            self.assertEqual(c['listing']['ticker'], ticker)
+            self.assertEqual(c['stageIds'], stages)
+            self.assertEqual(c['category'], 'materials')
+            self.assertEqual(c['profile']['informationStatus'], 'reference')
+        subsidiary = companies['mitsubishi-chemical']
+        self.assertEqual(subsidiary['listing']['status'], 'subsidiary')
+        self.assertEqual(subsidiary['listing']['parent'], '三菱ケミカルグループ')
+        self.assertIsNone(subsidiary['marketCapSource'])
 
     def market(self):
         return {'id':'test-market','status':'verified','product':'TEST ONLY','year':2025,'region':'世界','measure':'売上金額','definition':'TEST ONLY','sourceUrl':'https://example.test/report','verifiedAt':'2026-10-10','rows':[{'companyId':'asml','share':50},{'companyId':'nikon','share':30}]}
