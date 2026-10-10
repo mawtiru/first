@@ -12,7 +12,7 @@ RESEARCH = json.loads((ROOT / 'site/data/research.json').read_text())
 class DataTests(unittest.TestCase):
     def test_catalog_is_ready(self):
         self.assertTrue(validate(CATALOG, RESEARCH))
-        self.assertEqual(len(CATALOG['companies']),46)
+        self.assertEqual(len(CATALOG['companies']),51)
         phases = [s['phase'] for s in CATALOG['stages']]
         self.assertEqual(phases, ['front']*6+['back']*3)
         for stage in CATALOG['stages']:
@@ -31,6 +31,30 @@ class DataTests(unittest.TestCase):
         self.assertEqual(companies['ferrotec']['category'], 'parts')
         self.assertEqual(companies['tatsumo']['category'], 'equipment')
         self.assertIn('packaging', companies['tatsumo']['stageIds'])
+
+    def test_probe_test_precedes_dicing_and_is_not_final_test(self):
+        stages = {s['id']: s for s in CATALOG['stages']}
+        stage_ids = [s['id'] for s in CATALOG['stages']]
+        self.assertEqual(stages['inspection']['phase'], 'front')
+        self.assertLess(stage_ids.index('inspection'), stage_ids.index('dicing'))
+        self.assertEqual(stages['test']['phase'], 'back')
+        for cid in ('mjc', 'jem'):
+            company = next(c for c in CATALOG['companies'] if c['id'] == cid)
+            self.assertIn('inspection', company['stageIds'])
+            self.assertNotIn('test', company['stageIds'])
+
+    def test_common_infrastructure_is_separate_from_process_sequence(self):
+        companies = {c['id']: c for c in CATALOG['companies']}
+        self.assertEqual({t['id'] for t in CATALOG['infrastructure']}, {'wafer-handling', 'water-treatment'})
+        for cid in ('rorze', 'sinfonia', 'daifuku', 'murata-machinery', 'nomura-micro', 'kurita'):
+            self.assertEqual(companies[cid]['stageIds'], [])
+            self.assertEqual(companies[cid]['infrastructureIds'], ['water-treatment' if cid in ('nomura-micro', 'kurita') else 'wafer-handling'])
+        self.assertIn('wafer-handling', companies['tatsumo']['infrastructureIds'])
+        self.assertIn('packaging', companies['tatsumo']['stageIds'])
+        data = copy.deepcopy(CATALOG)
+        data['companies'][0]['infrastructureIds'] = ['unknown']
+        with self.assertRaises(ValueError):
+            validate(data, RESEARCH)
 
     def market(self):
         return {'id':'test-market','status':'verified','product':'TEST ONLY','year':2025,'region':'世界','measure':'売上金額','definition':'TEST ONLY','sourceUrl':'https://example.test/report','verifiedAt':'2026-10-10','rows':[{'companyId':'asml','share':50},{'companyId':'nikon','share':30}]}

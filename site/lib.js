@@ -13,7 +13,9 @@ export function parseRoute(hash){
  const value=hash.replace(/^#/,'');
  const [path,query]=value.split('?');
  if(!path||path==='/')return {type:'home'};
- const match=path.match(/^\/(stage|company)\/([^/]+)$/);
+ const match=path.match(/^\/(stage|infrastructure|company)\/([^/]+)$/);
  if(!match)return {type:'notFound'};
- try{return {type:match[1],id:decodeURIComponent(match[2]),fromStage:new URLSearchParams(query||'').get('stage')}}catch{return {type:'notFound'}}
+ try{return {type:match[1],id:decodeURIComponent(match[2]),fromStage:new URLSearchParams(query||'').get('stage'),fromInfrastructure:new URLSearchParams(query||'').get('infrastructure')}}catch{return {type:'notFound'}}
 }
+
+export function companiesForInfrastructure(companies,id){return companies.filter(c=>(c.infrastructureIds||[]).includes(id))}
