@@ -2621,6 +2621,221 @@
           "verifiedAt": null
         }
       ]
+    },
+    {
+      "id": "lasertec",
+      "name": "レーザーテック",
+      "aliases": [
+        "レーザーテック",
+        "Lasertec"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "EUVマスク・マスクブランクス欠陥検査装置、ウェーハ検査・計測装置",
+      "stageIds": [
+        "lithography"
+      ],
+      "website": "https://www.lasertec.co.jp/",
+      "irUrl": "https://www.lasertec.co.jp/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体用フォトマスク、マスクブランクス、ウェーハの欠陥検査・計測装置を開発する。EUV光を用いるマスク検査など、微細化に伴う検査技術を扱う。",
+        "industryPosition": "露光工程を支えるマスク検査・計測のサプライヤー。本サイトでは露光の部品・コンポーネントに分類する。実際の製品はEUVマスク等の検査・計測装置であり、露光装置に組み込む部品そのものとは区別する。ウェーハの電気的なプローブ検査とは別の用途。",
+        "strengths": [
+          "EUVマスク検査",
+          "マスクブランクス欠陥検査",
+          "光学検査・計測"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.lasertec.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6920.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は上場企業全体の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "lasertec",
+        "ticker": "6920.T"
+      },
+      "facilities": [
+        {
+          "name": "横浜の本社・開発拠点",
+          "location": "日本・神奈川県横浜市港北区",
+          "function": "検査・計測装置の開発。製造工場とは区別して掲載。",
+          "kind": "rd",
+          "status": "unverified",
+          "verifiedAt": null,
+          "sourceUrl": "https://www.lasertec.co.jp/"
+        }
+      ]
+    },
+    {
+      "id": "shibaura-mechatronics",
+      "name": "芝浦メカトロニクス",
+      "aliases": [
+        "芝浦メカトロニクス",
+        "Shibaura Mechatronics"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "枚葉洗浄装置、スパッタリング装置、アッシング装置、先端パッケージ向け接合装置",
+      "stageIds": [
+        "clean",
+        "deposition",
+        "etch",
+        "packaging"
+      ],
+      "website": "https://www.shibaura.co.jp/",
+      "irUrl": "https://www.shibaura.co.jp/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "洗浄、成膜、レジスト除去などの前工程装置と、半導体チップの接合など後工程の装置を扱う。半導体製造装置のほか、ディスプレー等の製造装置にも事業を展開する。",
+        "industryPosition": "前工程と先端パッケージにまたがる装置メーカー。エッチングの分類は主にアッシングによるレジスト除去を指し、すべてのエッチング装置領域を意味しない。",
+        "strengths": [
+          "枚葉洗浄",
+          "スパッタリング",
+          "アッシング",
+          "先端パッケージ接合"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.shibaura.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6590.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は上場企業全体の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "shibaura-mechatronics",
+        "ticker": "6590.T"
+      },
+      "facilities": [
+        {
+          "name": "さがみ野事業所",
+          "location": "日本・神奈川県海老名市",
+          "function": "半導体等の製造装置に関連する拠点。最新の製品担当・製造機能は要確認。",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "verifiedAt": null,
+          "sourceUrl": "https://www.shibaura.co.jp/"
+        }
+      ]
+    },
+    {
+      "id": "tekscend-photomask",
+      "name": "テクセンドフォトマスク",
+      "aliases": [
+        "テクセンドフォトマスク",
+        "テクセンド",
+        "Tekscend Photomask",
+        "Toppan Photomask",
+        "トッパンフォトマスク"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "半導体露光用フォトマスク、EUV・DUV向けマスク",
+      "stageIds": [
+        "lithography"
+      ],
+      "website": "https://www.photomask.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体の回路パターンを露光装置でウェーハへ転写するためのフォトマスクを製造する。旧トッパンフォトマスクの名称も検索に対応する。",
+        "industryPosition": "回路パターンを形成済みのフォトマスクを供給するメーカー。HOYAが扱うマスクブランクスはパターン形成前の基材であり、同じ製品としてシェアを比較しない。",
+        "strengths": [
+          "半導体フォトマスク",
+          "EUV・DUV向けマスク",
+          "マスク製造技術"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.photomask.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "429A.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は上場企業全体の値です。"
+      },
+      "marketCapSource": null,
+      "facilities": [
+        {
+          "name": "朝霞の製造拠点",
+          "location": "日本・埼玉県朝霞市",
+          "function": "半導体フォトマスク製造。最新の拠点名称・担当製品は要確認。",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "verifiedAt": null,
+          "sourceUrl": "https://www.photomask.com/"
+        }
+      ]
+    },
+    {
+      "id": "hoya",
+      "name": "HOYA",
+      "aliases": [
+        "HOYA",
+        "ホーヤ"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "半導体用マスクブランクス（EUV・DUV）、フォトマスク関連材料",
+      "stageIds": [
+        "lithography"
+      ],
+      "website": "https://www.hoya.com/",
+      "irUrl": "https://www.hoya.com/investor/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体露光用マスクブランクスなどの情報技術関連製品と、眼鏡レンズ・医療関連などのライフケア製品を扱う。半導体関連製品は全社事業の一部。",
+        "industryPosition": "フォトマスクの基材となるマスクブランクスを供給する材料メーカー。露光装置メーカーやパターン形成済みフォトマスクのメーカーとは役割が異なる。全社時価総額は半導体事業単独の価値を示さない。",
+        "strengths": [
+          "EUVマスクブランクス",
+          "DUVマスクブランクス",
+          "精密光学・薄膜技術"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.hoya.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "7741.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は上場企業全体の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "hoya",
+        "ticker": "7741.T"
+      },
+      "facilities": [
+        {
+          "name": "長坂工場",
+          "location": "日本・山梨県北杜市",
+          "function": "マスクブランクス関連の製造拠点候補。最新の担当製品・稼働状況は要確認。",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "verifiedAt": null,
+          "sourceUrl": "https://www.hoya.com/"
+        }
+      ]
     }
   ],
   "infrastructure": [

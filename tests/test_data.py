@@ -12,7 +12,7 @@ RESEARCH = json.loads((ROOT / 'site/data/research.json').read_text())
 class DataTests(unittest.TestCase):
     def test_catalog_is_ready(self):
         self.assertTrue(validate(CATALOG, RESEARCH))
-        self.assertEqual(len(CATALOG['companies']),51)
+        self.assertEqual(len(CATALOG['companies']),55)
         phases = [s['phase'] for s in CATALOG['stages']]
         self.assertEqual(phases, ['front']*6+['back']*3)
         for stage in CATALOG['stages']:
@@ -55,6 +55,24 @@ class DataTests(unittest.TestCase):
         data['companies'][0]['infrastructureIds'] = ['unknown']
         with self.assertRaises(ValueError):
             validate(data, RESEARCH)
+
+    def test_added_mask_and_equipment_suppliers_have_distinct_roles(self):
+        companies = {c['id']: c for c in CATALOG['companies']}
+        expected = {'lasertec': ('6920.T', 'parts', ['lithography']),
+                    'shibaura-mechatronics': ('6590.T', 'equipment', ['clean', 'deposition', 'etch', 'packaging']),
+                    'tekscend-photomask': ('429A.T', 'materials', ['lithography']),
+                    'hoya': ('7741.T', 'materials', ['lithography'])}
+        for cid, (ticker, category, stages) in expected.items():
+            c = companies[cid]
+            self.assertEqual(c['listing']['ticker'], ticker)
+            self.assertEqual(c['category'], category)
+            self.assertEqual(c['stageIds'], stages)
+            self.assertEqual(c['profile']['informationStatus'], 'reference')
+            self.assertTrue(c['profile']['industryPosition'])
+        self.assertIn('Toppan Photomask', companies['tekscend-photomask']['aliases'])
+        self.assertIn('マスクブランクス', companies['hoya']['products'])
+        self.assertIn('フォトマスク', companies['tekscend-photomask']['products'])
+        self.assertIsNone(companies['tekscend-photomask']['marketCapSource'])
 
     def market(self):
         return {'id':'test-market','status':'verified','product':'TEST ONLY','year':2025,'region':'世界','measure':'売上金額','definition':'TEST ONLY','sourceUrl':'https://example.test/report','verifiedAt':'2026-10-10','rows':[{'companyId':'asml','share':50},{'companyId':'nikon','share':30}]}
