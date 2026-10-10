@@ -51,7 +51,7 @@ def validate(catalog, research):
                 require(profile.get('verifiedAt'), 'Verified profile needs confirmation date')
         listing = c.get('listing')
         if listing:
-            require(listing['status'] in ('listed', 'private', 'subsidiary'), 'Invalid listing status')
+            require(listing['status'] in ('listed', 'private', 'subsidiary', 'unknown'), 'Invalid listing status')
             if listing['status'] != 'listed':
                 require(not c.get('marketCapSource'), 'Do not fetch a parent market cap for an unlisted company')
                 require(not listing.get('ticker'), 'Unlisted company must not use a parent ticker')

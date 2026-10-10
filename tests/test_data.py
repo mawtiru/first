@@ -12,7 +12,7 @@ RESEARCH = json.loads((ROOT / 'site/data/research.json').read_text())
 class DataTests(unittest.TestCase):
     def test_catalog_is_ready(self):
         self.assertTrue(validate(CATALOG, RESEARCH))
-        self.assertEqual(len(CATALOG['companies']),62)
+        self.assertEqual(len(CATALOG['companies']),67)
         phases = [s['phase'] for s in CATALOG['stages']]
         self.assertEqual(phases, ['front']*6+['back']*3)
         for stage in CATALOG['stages']:
@@ -45,7 +45,7 @@ class DataTests(unittest.TestCase):
 
     def test_common_infrastructure_is_separate_from_process_sequence(self):
         companies = {c['id']: c for c in CATALOG['companies']}
-        self.assertEqual({t['id'] for t in CATALOG['infrastructure']}, {'wafer-handling', 'water-treatment'})
+        self.assertEqual({t['id'] for t in CATALOG['infrastructure']}, {'wafer-handling', 'water-treatment', 'electronics-assembly'})
         for cid in ('rorze', 'sinfonia', 'daifuku', 'murata-machinery', 'nomura-micro', 'kurita'):
             self.assertEqual(companies[cid]['stageIds'], [])
             self.assertEqual(companies[cid]['infrastructureIds'], ['water-treatment' if cid in ('nomura-micro', 'kurita') else 'wafer-handling'])
@@ -93,6 +93,31 @@ class DataTests(unittest.TestCase):
         self.assertEqual(subsidiary['listing']['status'], 'subsidiary')
         self.assertEqual(subsidiary['listing']['parent'], '三菱ケミカルグループ')
         self.assertIsNone(subsidiary['marketCapSource'])
+
+    def test_wafer_container_suppliers_are_independent_infrastructure(self):
+        companies = {c['id']: c for c in CATALOG['companies']}
+        for cid in ('shin-etsu-polymer', 'miraial', 'hirata'):
+            c = companies[cid]
+            self.assertEqual(c['category'], 'parts')
+            self.assertEqual(c['stageIds'], [])
+            self.assertEqual(c['infrastructureIds'], ['wafer-handling'])
+            self.assertTrue(c['profile']['strengths'])
+        self.assertNotEqual(companies['shin-etsu-polymer']['id'], companies['shinetsu']['id'])
+        self.assertEqual(companies['shin-etsu-polymer']['listing']['status'], 'unknown')
+        self.assertIsNone(companies['shin-etsu-polymer']['marketCapSource'])
+        self.assertEqual(companies['miraial']['listing']['ticker'], '4238.T')
+        self.assertEqual(companies['hirata']['listing']['ticker'], '6258.T')
+
+    def test_vacuum_equipment_and_board_assembly_are_distinct(self):
+        companies = {c['id']: c for c in CATALOG['companies']}
+        self.assertEqual(companies['ulvac']['stageIds'], ['deposition', 'etch'])
+        self.assertEqual(companies['ulvac']['listing']['ticker'], '6728.T')
+        fuji = companies['fuji']
+        self.assertEqual(fuji['stageIds'], [])
+        self.assertEqual(fuji['infrastructureIds'], ['electronics-assembly'])
+        self.assertEqual(fuji['listing']['ticker'], '6134.T')
+        self.assertIn('富士機械製造', fuji['aliases'])
+        self.assertIn('半導体パッケージ完成後', fuji['profile']['industryPosition'])
 
     def market(self):
         return {'id':'test-market','status':'verified','product':'TEST ONLY','year':2025,'region':'世界','measure':'売上金額','definition':'TEST ONLY','sourceUrl':'https://example.test/report','verifiedAt':'2026-10-10','rows':[{'companyId':'asml','share':50},{'companyId':'nikon','share':30}]}
