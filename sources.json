@@ -10,5 +10,9 @@
     "maxItems": 15
   },
   "timeoutSeconds": 15,
-  "retentionDays": 90
+  "retentionDays": 90,
+  "marketCap": {
+    "enabled": true,
+    "provider": "companiesmarketcap"
+  }
 }

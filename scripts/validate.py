@@ -36,6 +36,33 @@ def validate(catalog, research):
         require(set(c['stageIds']) <= stage_ids, 'Unknown stage reference')
         require(valid_url(c['website']), 'Invalid company URL')
         require(c.get('irUrl') is None or valid_url(c['irUrl']), 'Invalid IR URL')
+        profile = c.get('profile')
+        if profile:
+            require(profile.get('summary') and profile.get('industryPosition') and profile.get('strengths'), 'Incomplete company profile')
+            require(profile['informationStatus'] in ('reference', 'verified'), 'Invalid profile status')
+            require(valid_url(profile.get('sourceUrl')), 'Invalid profile confirmation URL')
+            if profile['informationStatus'] == 'verified':
+                require(profile.get('verifiedAt'), 'Verified profile needs confirmation date')
+        listing = c.get('listing')
+        if listing:
+            require(listing['status'] in ('listed', 'private', 'subsidiary'), 'Invalid listing status')
+            if listing['status'] != 'listed':
+                require(not c.get('marketCapSource'), 'Do not fetch a parent market cap for an unlisted company')
+                require(not listing.get('ticker'), 'Unlisted company must not use a parent ticker')
+        cap_source = c.get('marketCapSource')
+        if cap_source:
+            import re
+            require(cap_source['provider'] == 'companiesmarketcap', 'Unsupported market-cap provider')
+            require(re.fullmatch(r'[a-z0-9-]+', cap_source['slug']), 'Invalid market-cap slug')
+            require(cap_source.get('ticker') == listing.get('ticker'), 'Company and market-cap tickers differ')
+        for facility in c.get('facilities', []):
+            require(facility.get('name') and facility.get('location') and facility.get('function'), 'Incomplete facility')
+            require(facility['status'] in ('verified', 'unverified'), 'Invalid facility verification status')
+            require(facility['kind'] in ('manufacturing_candidate', 'manufacturing', 'rd'), 'Invalid facility type')
+            require(valid_url(facility.get('sourceUrl')), 'Invalid facility confirmation URL')
+            if facility['status'] == 'verified':
+                require(facility.get('verifiedAt'), 'Verified facility needs confirmation date')
+
     for cid, f in research['finance'].items():
         require(cid in ids, 'Unknown financial company ID')
         for key in ('period', 'segment', 'basis', 'unit', 'sourceUrl', 'verifiedAt'):
