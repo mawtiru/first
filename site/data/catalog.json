@@ -1,0 +1,786 @@
+{
+  "schemaVersion": 1,
+  "stages": [
+    {
+      "id": "wafer",
+      "name": "ウェーハ製造",
+      "phase": "front"
+    },
+    {
+      "id": "lithography",
+      "name": "露光・塗布現像",
+      "phase": "front"
+    },
+    {
+      "id": "deposition",
+      "name": "成膜",
+      "phase": "front"
+    },
+    {
+      "id": "etch",
+      "name": "エッチング",
+      "phase": "front"
+    },
+    {
+      "id": "clean",
+      "name": "洗浄・CMP",
+      "phase": "front"
+    },
+    {
+      "id": "inspection",
+      "name": "計測・検査",
+      "phase": "front"
+    },
+    {
+      "id": "dicing",
+      "name": "研削・ダイシング",
+      "phase": "back"
+    },
+    {
+      "id": "packaging",
+      "name": "接合・封止",
+      "phase": "back"
+    },
+    {
+      "id": "test",
+      "name": "最終検査",
+      "phase": "back"
+    }
+  ],
+  "companies": [
+    {
+      "id": "tel",
+      "name": "東京エレクトロン",
+      "aliases": [
+        "東京エレクトロン",
+        "Tokyo Electron"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "塗布現像・成膜・エッチング・洗浄装置",
+      "stageIds": [
+        "lithography",
+        "deposition",
+        "etch",
+        "clean"
+      ],
+      "website": "https://www.tel.com/",
+      "irUrl": "https://www.tel.com/ir/",
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "asml",
+      "name": "ASML",
+      "aliases": [
+        "ASML"
+      ],
+      "country": "オランダ",
+      "category": "equipment",
+      "products": "EUV・DUV露光装置",
+      "stageIds": [
+        "lithography"
+      ],
+      "website": "https://www.asml.com/",
+      "irUrl": "https://www.asml.com/en/investors",
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "nikon",
+      "name": "ニコン",
+      "aliases": [
+        "ニコン",
+        "Nikon"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "半導体露光装置",
+      "stageIds": [
+        "lithography"
+      ],
+      "website": "https://www.nikon.com/",
+      "irUrl": "https://www.nikon.com/company/ir/",
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "amat",
+      "name": "Applied Materials",
+      "aliases": [
+        "Applied Materials"
+      ],
+      "country": "米国",
+      "category": "equipment",
+      "products": "成膜・エッチング・CMP・検査装置",
+      "stageIds": [
+        "deposition",
+        "etch",
+        "clean",
+        "inspection",
+        "packaging"
+      ],
+      "website": "https://www.appliedmaterials.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "lam",
+      "name": "Lam Research",
+      "aliases": [
+        "Lam Research"
+      ],
+      "country": "米国",
+      "category": "equipment",
+      "products": "エッチング・成膜・洗浄装置",
+      "stageIds": [
+        "deposition",
+        "etch",
+        "clean"
+      ],
+      "website": "https://www.lamresearch.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "screen",
+      "name": "SCREEN",
+      "aliases": [
+        "SCREEN",
+        "SCREEN Holdings"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "洗浄・塗布現像・計測装置",
+      "stageIds": [
+        "clean",
+        "lithography",
+        "inspection"
+      ],
+      "website": "https://www.screen.co.jp/",
+      "irUrl": "https://www.screen.co.jp/ir/",
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "kokusai",
+      "name": "KOKUSAI ELECTRIC",
+      "aliases": [
+        "KOKUSAI ELECTRIC"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "バッチ式成膜・熱処理装置",
+      "stageIds": [
+        "deposition"
+      ],
+      "website": "https://www.kokusai-electric.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "asm",
+      "name": "ASM International",
+      "aliases": [
+        "ASM International"
+      ],
+      "country": "オランダ",
+      "category": "equipment",
+      "products": "ALD・エピタキシャル成長装置",
+      "stageIds": [
+        "deposition"
+      ],
+      "website": "https://www.asm.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "kla",
+      "name": "KLA",
+      "aliases": [
+        "KLA"
+      ],
+      "country": "米国",
+      "category": "equipment",
+      "products": "欠陥検査・計測装置",
+      "stageIds": [
+        "inspection"
+      ],
+      "website": "https://www.kla.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "hitachi",
+      "name": "日立ハイテク",
+      "aliases": [
+        "日立ハイテク",
+        "Hitachi High-Tech"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "電子線計測・検査・エッチング装置",
+      "stageIds": [
+        "inspection",
+        "etch"
+      ],
+      "website": "https://www.hitachi-hightech.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "disco",
+      "name": "ディスコ",
+      "aliases": [
+        "ディスコ",
+        "DISCO Corporation"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "研削・研磨・ダイシング装置",
+      "stageIds": [
+        "dicing"
+      ],
+      "website": "https://www.disco.co.jp/",
+      "irUrl": "https://www.disco.co.jp/jp/ir/",
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "accretech",
+      "name": "東京精密",
+      "aliases": [
+        "東京精密",
+        "ACCRETECH"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "ウェーハ検査・研削・ダイシング装置",
+      "stageIds": [
+        "dicing",
+        "inspection",
+        "test"
+      ],
+      "website": "https://www.accretech.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "besi",
+      "name": "Besi",
+      "aliases": [
+        "Besi",
+        "BE Semiconductor Industries"
+      ],
+      "country": "オランダ",
+      "category": "equipment",
+      "products": "ダイ接合・ハイブリッドボンディング装置",
+      "stageIds": [
+        "packaging"
+      ],
+      "website": "https://www.besi.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "asmpt",
+      "name": "ASMPT",
+      "aliases": [
+        "ASMPT"
+      ],
+      "country": "シンガポール",
+      "category": "equipment",
+      "products": "ダイ接合・ワイヤボンディング装置",
+      "stageIds": [
+        "packaging"
+      ],
+      "website": "https://www.asmpt.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "towa",
+      "name": "TOWA",
+      "aliases": [
+        "TOWA",
+        "TOWA Corporation"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "半導体封止・モールディング装置",
+      "stageIds": [
+        "packaging"
+      ],
+      "website": "https://www.towajapan.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "advantest",
+      "name": "アドバンテスト",
+      "aliases": [
+        "アドバンテスト",
+        "Advantest"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "半導体自動試験装置（ATE）",
+      "stageIds": [
+        "test"
+      ],
+      "website": "https://www.advantest.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "teradyne",
+      "name": "Teradyne",
+      "aliases": [
+        "Teradyne"
+      ],
+      "country": "米国",
+      "category": "equipment",
+      "products": "半導体自動試験装置（ATE）",
+      "stageIds": [
+        "test"
+      ],
+      "website": "https://www.teradyne.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "pva",
+      "name": "PVA TePla",
+      "aliases": [
+        "PVA TePla"
+      ],
+      "country": "ドイツ",
+      "category": "equipment",
+      "products": "結晶成長装置",
+      "stageIds": [
+        "wafer"
+      ],
+      "website": "https://www.pvatepla.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "ebara",
+      "name": "荏原製作所",
+      "aliases": [
+        "荏原製作所",
+        "Ebara"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "ドライ真空ポンプ・CMP装置",
+      "stageIds": [
+        "deposition",
+        "etch",
+        "clean"
+      ],
+      "website": "https://www.ebara.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "edwards",
+      "name": "Edwards",
+      "aliases": [
+        "Edwards",
+        "Edwards Vacuum"
+      ],
+      "country": "英国",
+      "category": "parts",
+      "products": "真空ポンプ・排ガス処理システム",
+      "stageIds": [
+        "deposition",
+        "etch"
+      ],
+      "website": "https://www.edwardsvacuum.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "mks",
+      "name": "MKS Instruments",
+      "aliases": [
+        "MKS Instruments"
+      ],
+      "country": "米国",
+      "category": "parts",
+      "products": "流量制御・圧力制御・RF電源",
+      "stageIds": [
+        "deposition",
+        "etch"
+      ],
+      "website": "https://www.mks.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "horiba",
+      "name": "堀場製作所",
+      "aliases": [
+        "堀場製作所",
+        "HORIBA"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "マスフローコントローラー・分析機器",
+      "stageIds": [
+        "deposition",
+        "etch"
+      ],
+      "website": "https://www.horiba.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "vat",
+      "name": "VAT Group",
+      "aliases": [
+        "VAT Group"
+      ],
+      "country": "スイス",
+      "category": "parts",
+      "products": "真空バルブ",
+      "stageIds": [
+        "deposition",
+        "etch"
+      ],
+      "website": "https://www.vatgroup.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "zeiss",
+      "name": "ZEISS",
+      "aliases": [
+        "ZEISS"
+      ],
+      "country": "ドイツ",
+      "category": "parts",
+      "products": "半導体製造向け光学系",
+      "stageIds": [
+        "lithography",
+        "inspection"
+      ],
+      "website": "https://www.zeiss.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "thk",
+      "name": "THK",
+      "aliases": [
+        "THK"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "直動案内・精密位置決め部品",
+      "stageIds": [
+        "lithography",
+        "inspection",
+        "dicing",
+        "packaging"
+      ],
+      "website": "https://www.thk.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "ngk",
+      "name": "日本ガイシ",
+      "aliases": [
+        "日本ガイシ",
+        "NGK Insulators"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "セラミックヒーター・静電チャック",
+      "stageIds": [
+        "deposition",
+        "etch"
+      ],
+      "website": "https://www.ngk-insulators.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "mjc",
+      "name": "日本マイクロニクス",
+      "aliases": [
+        "日本マイクロニクス",
+        "Micronics Japan"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "プローブカード",
+      "stageIds": [
+        "test"
+      ],
+      "website": "https://www.mjc.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "yamai",
+      "name": "山一電機",
+      "aliases": [
+        "山一電機",
+        "Yamaichi Electronics"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "ICテストソケット",
+      "stageIds": [
+        "test"
+      ],
+      "website": "https://www.yamaichi.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "sumco",
+      "name": "SUMCO",
+      "aliases": [
+        "SUMCO"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "シリコンウェーハ",
+      "stageIds": [
+        "wafer"
+      ],
+      "website": "https://www.sumcosi.com/",
+      "irUrl": "https://www.sumcosi.com/ir/",
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "shinetsu",
+      "name": "信越化学工業",
+      "aliases": [
+        "信越化学工業",
+        "Shin-Etsu Chemical"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "シリコンウェーハ・フォトレジスト",
+      "stageIds": [
+        "wafer",
+        "lithography"
+      ],
+      "website": "https://www.shinetsu.co.jp/",
+      "irUrl": "https://www.shinetsu.co.jp/jp/ir/",
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "jsr",
+      "name": "JSR",
+      "aliases": [
+        "JSR"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "フォトレジスト・CMP材料",
+      "stageIds": [
+        "lithography",
+        "clean"
+      ],
+      "website": "https://www.jsr.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "tok",
+      "name": "東京応化工業",
+      "aliases": [
+        "東京応化工業",
+        "Tokyo Ohka Kogyo"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "フォトレジスト・高純度薬液",
+      "stageIds": [
+        "lithography",
+        "clean"
+      ],
+      "website": "https://www.tok.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "fujifilm",
+      "name": "富士フイルム",
+      "aliases": [
+        "富士フイルム",
+        "Fujifilm"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "フォトレジスト・洗浄薬液・CMPスラリー",
+      "stageIds": [
+        "lithography",
+        "clean"
+      ],
+      "website": "https://www.fujifilm.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "merck",
+      "name": "Merck",
+      "aliases": [
+        "Merck",
+        "Merck KGaA"
+      ],
+      "country": "ドイツ",
+      "category": "materials",
+      "products": "成膜前駆体・特殊ガス・リソグラフィ材料",
+      "stageIds": [
+        "deposition",
+        "etch",
+        "lithography"
+      ],
+      "website": "https://www.merckgroup.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "airliquide",
+      "name": "Air Liquide",
+      "aliases": [
+        "Air Liquide"
+      ],
+      "country": "フランス",
+      "category": "materials",
+      "products": "半導体向け高純度・特殊ガス",
+      "stageIds": [
+        "deposition",
+        "etch"
+      ],
+      "website": "https://www.airliquide.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "nippongas",
+      "name": "日本酸素ホールディングス",
+      "aliases": [
+        "日本酸素ホールディングス",
+        "Nippon Sanso"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "半導体製造向け特殊ガス",
+      "stageIds": [
+        "deposition",
+        "etch"
+      ],
+      "website": "https://www.nipponsanso-hd.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "stella",
+      "name": "ステラケミファ",
+      "aliases": [
+        "ステラケミファ",
+        "Stella Chemifa"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "高純度フッ酸・フッ素化合物",
+      "stageIds": [
+        "clean",
+        "etch"
+      ],
+      "website": "https://www.stella-chemifa.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "entegris",
+      "name": "Entegris",
+      "aliases": [
+        "Entegris"
+      ],
+      "country": "米国",
+      "category": "materials",
+      "products": "ろ過・高純度流体管理・CMP材料",
+      "stageIds": [
+        "wafer",
+        "clean",
+        "deposition"
+      ],
+      "website": "https://www.entegris.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "resonac",
+      "name": "レゾナック",
+      "aliases": [
+        "レゾナック",
+        "Resonac"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "ダイシングテープ・封止材・実装材料",
+      "stageIds": [
+        "dicing",
+        "packaging"
+      ],
+      "website": "https://www.resonac.com/",
+      "irUrl": "https://www.resonac.com/jp/ir",
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "sumitomo",
+      "name": "住友ベークライト",
+      "aliases": [
+        "住友ベークライト",
+        "Sumitomo Bakelite"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "半導体封止用エポキシ樹脂",
+      "stageIds": [
+        "packaging"
+      ],
+      "website": "https://www.sumibe.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "nitto",
+      "name": "日東電工",
+      "aliases": [
+        "日東電工",
+        "Nitto Denko"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "ダイシング・バックグラインドテープ",
+      "stageIds": [
+        "dicing"
+      ],
+      "website": "https://www.nitto.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    },
+    {
+      "id": "tanaka",
+      "name": "田中貴金属",
+      "aliases": [
+        "田中貴金属",
+        "Tanaka Precious Metals"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "ボンディングワイヤ・接合材料",
+      "stageIds": [
+        "packaging"
+      ],
+      "website": "https://www.tanaka.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認"
+    }
+  ]
+}

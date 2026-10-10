@@ -1,0 +1,14 @@
+{
+  "news": {
+    "enabled": true,
+    "provider": "google-news-rss",
+    "windowDays": 90,
+    "maxItems": 12
+  },
+  "official": {
+    "enabled": true,
+    "maxItems": 15
+  },
+  "timeoutSeconds": 15,
+  "retentionDays": 90
+}

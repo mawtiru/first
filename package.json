@@ -1,0 +1,1 @@
+{"name":"semi-atlas","version":"2.0.0","private":true,"type":"module","scripts":{"start":"python3 -m http.server 3000 --directory site --bind 0.0.0.0","test":"python3 -m unittest discover -s tests -v && node --test tests/frontend.test.mjs","update":"python3 scripts/update.py","build":"python3 scripts/build.py","check":"python3 scripts/validate.py"}}

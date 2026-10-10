@@ -1,0 +1,8 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {percentage,matchingCompanies,comparableMarkets,escape,safeUrl,formatDate} from '../site/lib.js';
+test('構成比：非開示・未確認・ゼロ・赤字・100%超を区別',()=>{assert.equal(percentage(20,100,'verified'),'20.0%');assert.equal(percentage(null,null,'undisclosed'),'非開示');assert.equal(percentage(20,100,'unverified'),'未確認');assert.equal(percentage(0,100,'verified'),'0.0%');assert.match(percentage(2,0,'verified'),/算出不可/);assert.match(percentage(-1,10,'verified'),/赤字/);assert.equal(percentage(150,100,'verified'),'150.0%');assert.equal(percentage(null,100,'verified'),'数値未登録')});
+test('検索は企業・製品・別名に対応しカテゴリーを尊重',()=>{const data=[{name:'東京エレクトロン',aliases:['Tokyo Electron'],products:'成膜',country:'日本',category:'equipment'}];assert.equal(matchingCompanies(data,{query:'tokyo',category:'all'}).length,1);assert.equal(matchingCompanies(data,{query:'成膜',category:'materials'}).length,0)});
+test('比較は当該企業を含む確認済み製品市場だけ',()=>{const data=[{status:'unverified',rows:[{companyId:'tel'}]},{status:'verified',rows:[{companyId:'other'}]},{status:'verified',rows:[{companyId:'tel'}]}];assert.equal(comparableMarkets(data,'tel').length,1)});
+test('外部テキスト・リンクは安全に扱う',()=>{assert.equal(escape('<script>'),'&lt;script&gt;');assert.equal(safeUrl('javascript:alert(1)'),false);assert.equal(safeUrl('https://user:password@example.test'),false);assert.equal(safeUrl('https://example.test'),true)});
+test('日時は日本時間で表示',()=>{assert.match(formatDate('2026-10-09T22:00:00Z'),/2026\/10\/10/);assert.match(formatDate('2026-10-09T22:00:00Z'),/7:00/);assert.equal(formatDate(null),'未実施')});

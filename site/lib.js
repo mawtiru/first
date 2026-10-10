@@ -1,0 +1,7 @@
+export const labels={equipment:'装置メーカー',parts:'部品・コンポーネント',materials:'化学製品・材料'};
+export const escape=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+export function safeUrl(value){try{const u=new URL(value);return ['https:','http:'].includes(u.protocol)&&!u.username&&!u.password}catch{return false}}
+export function percentage(part,total,status){if(status==='undisclosed')return '非開示';if(status!=='verified')return '未確認';if(!Number.isFinite(part)||!Number.isFinite(total))return '数値未登録';if(total===0)return '算出不可（全社がゼロ）';if(part<0||total<0)return '赤字のため比率表示なし';return `${(part/total*100).toFixed(1)}%`}
+export function matchingCompanies(companies,filters){const q=filters.query.trim().toLowerCase();return companies.filter(c=>(filters.category==='all'||c.category===filters.category)&&[c.name,c.country,c.products,...c.aliases].join(' ').toLowerCase().includes(q))}
+export function comparableMarkets(markets,companyId){return markets.filter(m=>m.status==='verified'&&m.rows.some(r=>r.companyId===companyId))}
+export function formatDate(value){if(!value)return '未実施';const d=new Date(value);if(Number.isNaN(d.getTime()))return '日時不明';return new Intl.DateTimeFormat('ja-JP',{timeZone:'Asia/Tokyo',dateStyle:'medium',timeStyle:'short'}).format(d)}
