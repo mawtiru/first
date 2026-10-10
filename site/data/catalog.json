@@ -35,7 +35,7 @@
       "id": "inspection",
       "name": "計測・検査",
       "phase": "front",
-      "description": "欠陥や寸法、膜厚などを検査・計測し、製造プロセスと歩留まりを管理する工程。"
+      "description": "欠陥、寸法、膜厚などの検査・計測や、ウェーハ段階の電気検査を通じて、製造プロセスと歩留まりを管理する工程。"
     },
     {
       "id": "dicing",
@@ -53,7 +53,7 @@
       "id": "test",
       "name": "最終検査",
       "phase": "back",
-      "description": "チップやパッケージの電気的な機能・性能を確認し、製品としての品質を判定する工程。"
+      "description": "チップやパッケージの電気的な機能・性能を確認するテスト領域。最終検査に加え、ウェーハ段階の電気検査を支える関連メーカーも掲載する。"
     }
   ],
   "companies": [
@@ -1404,23 +1404,26 @@
       ],
       "country": "日本",
       "category": "parts",
-      "products": "プローブカード",
+      "products": "プローブカード・半導体検査関連製品",
       "stageIds": [
+        "inspection",
         "test"
       ],
       "website": "https://www.mjc.co.jp/",
       "irUrl": null,
       "verificationStatus": "要確認",
       "profile": {
-        "summary": "ウェーハ段階の電気検査に用いるプローブカード等を扱う。微細な電極へ接触してテスターとチップを接続する。",
-        "industryPosition": "テスターとウェーハをつなぐ検査インターフェースのメーカー。接触精度や同時測定への対応が競争軸。",
+        "summary": "ウェーハ段階の半導体電気検査に使うプローブカードと検査関連製品を扱う。微細な電極に接触し、テスターとチップを電気的につなぐ。",
+        "industryPosition": "半導体テスターとウェーハをつなぐ接触インターフェースのメーカー。主にウェーハ段階の電気検査を担い、接触精度、微細な電極や多数のチップの同時測定への対応が重要。テスター本体やパッケージ用テストソケットとは役割が異なる。",
         "strengths": [
-          "プローブカード"
+          "プローブカード",
+          "ウェーハ段階の電気検査",
+          "検査インターフェース"
         ],
         "informationStatus": "reference",
         "verifiedAt": null,
         "sourceUrl": "https://www.mjc.co.jp/",
-        "note": "初期編集情報。公式情報との最新照合は未実施。順位やシェアを示す記述ではありません。"
+        "note": "初期編集情報。公式情報との最新照合は未実施。計測・検査とテスト領域に配置していますが、プローブカードの主用途はウェーハ段階の電気検査です。"
       },
       "listing": {
         "status": "listed",
@@ -1434,7 +1437,17 @@
         "slug": "micronics-japan",
         "ticker": "6871.T"
       },
-      "facilities": []
+      "facilities": [
+        {
+          "name": "青森地区の製造関連拠点",
+          "location": "日本・青森県平川市",
+          "function": "プローブカード関連。現行の製造機能・生産品目は要確認",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.mjc.co.jp/",
+          "verifiedAt": null
+        }
+      ]
     },
     {
       "id": "yamai",
@@ -2449,6 +2462,179 @@
           "kind": "manufacturing_candidate",
           "status": "unverified",
           "sourceUrl": "https://www.muratec.jp/",
+          "verifiedAt": null
+        }
+      ]
+    },
+    {
+      "id": "nomura-micro",
+      "name": "野村マイクロ・サイエンス",
+      "aliases": [
+        "野村マイクロ・サイエンス",
+        "野村マイクロ",
+        "Nomura Micro Science",
+        "Nomura Micro Science Co"
+      ],
+      "website": "https://www.nomura-nms.co.jp/",
+      "products": "超純水製造装置・水処理システム・設備保守",
+      "stageIds": [
+        "wafer",
+        "lithography",
+        "deposition",
+        "etch",
+        "clean"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体などの製造に用いる超純水の製造装置・水処理システムと保守関連事業を扱う。微量な不純物の管理が必要な製造工場の水供給を支える。",
+        "industryPosition": "半導体工場の超純水インフラを担う設備メーカー。ウェーハを直接加工する装置ではなく、複数の製造工程に必要な水の品質と供給を支える。野村證券等の野村グループ企業とは区別して扱う。",
+        "strengths": [
+          "超純水製造装置",
+          "水処理システム",
+          "設備保守"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.nomura-nms.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。工程分類は製品・インフラの役割を示し、特定企業への納入関係を示すものではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6254.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は全社の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "nomura-micro-science",
+        "ticker": "6254.T"
+      },
+      "facilities": [
+        {
+          "name": "厚木地区の本社・製造関連拠点",
+          "location": "日本・神奈川県厚木市",
+          "function": "超純水・水処理設備関連。現行の生産機能・対象品目は要確認",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.nomura-nms.co.jp/",
+          "verifiedAt": null
+        }
+      ]
+    },
+    {
+      "id": "kurita",
+      "name": "栗田工業",
+      "aliases": [
+        "栗田工業",
+        "Kurita Water Industries"
+      ],
+      "website": "https://www.kurita-water.com/",
+      "products": "超純水供給・水処理装置・水処理薬品・排水処理・水再利用",
+      "stageIds": [
+        "wafer",
+        "lithography",
+        "deposition",
+        "etch",
+        "clean"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "超純水の製造・供給、水処理装置、水処理薬品や排水処理・水再利用などを扱う。半導体向けだけでなく、幅広い産業の水処理を支える。",
+        "industryPosition": "半導体工場の用水・排水を含む水インフラを担う企業。表示上は設備メーカーに分類するが、薬品・運転管理等のサービスも持つ。全社の時価総額や業績を半導体関連事業だけの値と扱わない。",
+        "strengths": [
+          "超純水供給",
+          "水処理装置",
+          "水処理薬品",
+          "排水処理",
+          "水再利用"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.kurita-water.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。工程分類は製品・インフラの役割を示し、特定企業への納入関係を示すものではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6370.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は全社の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "kurita-water-industries",
+        "ticker": "6370.T"
+      },
+      "facilities": [
+        {
+          "name": "Kurita Innovation Hub",
+          "location": "日本・東京都昭島市",
+          "function": "水処理・超純水関連の研究開発拠点。製造工場ではない",
+          "kind": "rd",
+          "status": "unverified",
+          "sourceUrl": "https://www.kurita-water.com/",
+          "verifiedAt": null
+        }
+      ]
+    },
+    {
+      "id": "jem",
+      "name": "日本電子材料",
+      "aliases": [
+        "日本電子材料",
+        "Japan Electronic Materials",
+        "Japan Electronic Materials Corporation"
+      ],
+      "website": "https://www.jem-net.co.jp/",
+      "products": "プローブカード・カンチレバー型プローブカード・MEMS型プローブカード",
+      "stageIds": [
+        "inspection",
+        "test"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "ウェーハ段階の半導体電気検査に使うプローブカードを扱う。微細な電極に接触し、半導体テスターとチップを電気的につなぐ。",
+        "industryPosition": "半導体検査の接触インターフェースを担う部品メーカー。テスター本体とは役割が異なり、主にウェーハ段階の電気検査を支える。電子顕微鏡等を扱う日本電子とは別企業。",
+        "strengths": [
+          "プローブカード",
+          "カンチレバー型プローブカード",
+          "MEMS型プローブカード"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.jem-net.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。工程分類は製品・インフラの役割を示し、特定企業への納入関係を示すものではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6855.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現在の上場状態は取得元で確認してください。時価総額は全社の値です。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "japan-electronic-materials",
+        "ticker": "6855.T"
+      },
+      "facilities": [
+        {
+          "name": "熊本地区の製造関連拠点",
+          "location": "日本・熊本県菊池市",
+          "function": "半導体検査用部品・プローブカード関連。現行の生産範囲は要確認",
+          "kind": "manufacturing_candidate",
+          "status": "unverified",
+          "sourceUrl": "https://www.jem-net.co.jp/",
           "verifiedAt": null
         }
       ]

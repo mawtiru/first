@@ -12,7 +12,7 @@ RESEARCH = json.loads((ROOT / 'site/data/research.json').read_text())
 class DataTests(unittest.TestCase):
     def test_catalog_is_ready(self):
         self.assertTrue(validate(CATALOG, RESEARCH))
-        self.assertEqual(len(CATALOG['companies']),48)
+        self.assertEqual(len(CATALOG['companies']),51)
         phases = [s['phase'] for s in CATALOG['stages']]
         self.assertEqual(phases, ['front']*6+['back']*3)
         for stage in CATALOG['stages']:
