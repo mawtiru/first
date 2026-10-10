@@ -83,3 +83,7 @@
 - `marketCapSource`：provider（companiesmarketcap）、slug（企業ページのURL部分）、ticker（取得元ページタイトルにある銘柄）。非上場企業はnullです。市場価値の数値は自動収集先である `updates.json` の companies[企業ID].marketCap に保存されます。
 
 確認済みに変更する場合は、対象事実を確認できる公式資料のURLと確認日を併記してください。一般の公式トップページへのリンクだけで確認済みとしないでください。
+
+### 共通設備・インフラ
+
+`catalog.infrastructure` は工程の順序を持たない独立項目です。企業の `infrastructureIds` から参照します。搬送・水処理専業の企業は `stageIds: []` とし、実際の工程装置も扱う企業は両方を指定できます。企業には少なくとも一つの工程または共通設備の所属が必要です。トップと `#/infrastructure/<id>` に表示し、企業詳細へのリンクは `?infrastructure=<id>` で戻り先を保持します。ニュース等の日次収集は所属に関わらず全企業が対象です。

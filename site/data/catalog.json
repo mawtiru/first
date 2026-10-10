@@ -2148,14 +2148,7 @@
       "country": "日本",
       "category": "parts",
       "products": "ウェーハ搬送ロボット・EFEM・ロードポート・ウェーハハンドリング",
-      "stageIds": [
-        "wafer",
-        "lithography",
-        "deposition",
-        "etch",
-        "clean",
-        "inspection"
-      ],
+      "stageIds": [],
       "website": "https://www.rorze.com/",
       "irUrl": null,
       "verificationStatus": "要確認",
@@ -2195,6 +2188,9 @@
           "sourceUrl": "https://www.rorze.com/",
           "verifiedAt": null
         }
+      ],
+      "infrastructureIds": [
+        "wafer-handling"
       ]
     },
     {
@@ -2208,14 +2204,7 @@
       "country": "日本",
       "category": "parts",
       "products": "ロードポート・EFEM・ウェーハ搬送機器・クリーン搬送システム",
-      "stageIds": [
-        "wafer",
-        "lithography",
-        "deposition",
-        "etch",
-        "clean",
-        "inspection"
-      ],
+      "stageIds": [],
       "website": "https://www.sinfo-t.jp/",
       "irUrl": null,
       "verificationStatus": "要確認",
@@ -2255,6 +2244,9 @@
           "sourceUrl": "https://www.sinfo-t.jp/",
           "verifiedAt": null
         }
+      ],
+      "infrastructureIds": [
+        "wafer-handling"
       ]
     },
     {
@@ -2351,7 +2343,10 @@
         "slug": "tatsumo",
         "ticker": "6266.T"
       },
-      "facilities": []
+      "facilities": [],
+      "infrastructureIds": [
+        "wafer-handling"
+      ]
     },
     {
       "id": "daifuku",
@@ -2377,13 +2372,7 @@
       },
       "country": "日本",
       "category": "equipment",
-      "stageIds": [
-        "lithography",
-        "deposition",
-        "etch",
-        "clean",
-        "inspection"
-      ],
+      "stageIds": [],
       "verificationStatus": "要確認",
       "profile": {
         "summary": "半導体工場向けのクリーンルーム搬送・保管システムを扱う。ウェーハを収めた容器等を装置間で運び、工場内の物流を自動化する。一般産業の物流、空港等の搬送関連事業も持つ。",
@@ -2409,6 +2398,9 @@
           "sourceUrl": "https://www.daifuku.com/",
           "verifiedAt": null
         }
+      ],
+      "infrastructureIds": [
+        "wafer-handling"
       ]
     },
     {
@@ -2432,13 +2424,7 @@
       "marketCapSource": null,
       "country": "日本",
       "category": "equipment",
-      "stageIds": [
-        "lithography",
-        "deposition",
-        "etch",
-        "clean",
-        "inspection"
-      ],
+      "stageIds": [],
       "verificationStatus": "要確認",
       "profile": {
         "summary": "半導体工場向けのクリーンルーム搬送・保管システム等を扱う。物流システム、工作機械、繊維機械等の事業も持つ。MURATECの名称で事業を展開する村田機械であり、電子部品メーカーの村田製作所とは別企業。",
@@ -2465,6 +2451,9 @@
           "sourceUrl": "https://www.muratec.jp/",
           "verifiedAt": null
         }
+      ],
+      "infrastructureIds": [
+        "wafer-handling"
       ]
     },
     {
@@ -2478,13 +2467,7 @@
       ],
       "website": "https://www.nomura-nms.co.jp/",
       "products": "超純水製造装置・水処理システム・設備保守",
-      "stageIds": [
-        "wafer",
-        "lithography",
-        "deposition",
-        "etch",
-        "clean"
-      ],
+      "stageIds": [],
       "country": "日本",
       "category": "equipment",
       "irUrl": null,
@@ -2524,6 +2507,9 @@
           "sourceUrl": "https://www.nomura-nms.co.jp/",
           "verifiedAt": null
         }
+      ],
+      "infrastructureIds": [
+        "water-treatment"
       ]
     },
     {
@@ -2535,13 +2521,7 @@
       ],
       "website": "https://www.kurita-water.com/",
       "products": "超純水供給・水処理装置・水処理薬品・排水処理・水再利用",
-      "stageIds": [
-        "wafer",
-        "lithography",
-        "deposition",
-        "etch",
-        "clean"
-      ],
+      "stageIds": [],
       "country": "日本",
       "category": "equipment",
       "irUrl": null,
@@ -2583,6 +2563,9 @@
           "sourceUrl": "https://www.kurita-water.com/",
           "verifiedAt": null
         }
+      ],
+      "infrastructureIds": [
+        "water-treatment"
       ]
     },
     {
@@ -2638,6 +2621,18 @@
           "verifiedAt": null
         }
       ]
+    }
+  ],
+  "infrastructure": [
+    {
+      "id": "wafer-handling",
+      "name": "ウェーハ搬送",
+      "description": "工程間・装置内のウェーハ搬送を支えるロボット、EFEM、ロードポート、工場内自動搬送システム。複数の工程に共通する設備としてまとめています。"
+    },
+    {
+      "id": "water-treatment",
+      "name": "超純水・水処理",
+      "description": "半導体工場全体を支える超純水の製造・供給、用水・排水処理、水処理薬品。個別の製造工程とは別のインフラとしてまとめています。"
     }
   ]
 }

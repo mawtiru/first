@@ -30,10 +30,16 @@ def validate(catalog, research):
     stage_ids = {s['id'] for s in catalog['stages']}
     require(len(ids) == len(companies), 'Duplicate company ID')
     require(len(stage_ids) == len(catalog['stages']), 'Duplicate stage ID')
+    infrastructure = catalog.get('infrastructure', [])
+    infrastructure_ids = {t['id'] for t in infrastructure}
+    require(len(infrastructure_ids) == len(infrastructure), 'Duplicate infrastructure ID')
+    for t in infrastructure:
+        require(t.get('name') and t.get('description'), 'Incomplete infrastructure topic')
     for c in companies:
-        require(c['name'] and c['aliases'] and c['stageIds'], f"Incomplete company: {c['id']}")
+        require(c['name'] and c['aliases'] and (c['stageIds'] or c.get('infrastructureIds')), f"Incomplete company: {c['id']}")
         require(c['category'] in ('equipment', 'parts', 'materials'), 'Invalid category')
         require(set(c['stageIds']) <= stage_ids, 'Unknown stage reference')
+        require(set(c.get('infrastructureIds', [])) <= infrastructure_ids, 'Unknown infrastructure reference')
         require(valid_url(c['website']), 'Invalid company URL')
         require(c.get('irUrl') is None or valid_url(c['irUrl']), 'Invalid IR URL')
         profile = c.get('profile')
