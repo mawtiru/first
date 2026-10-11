@@ -37,9 +37,13 @@ def validate(catalog, research):
         require(t.get('name') and t.get('description'), 'Incomplete infrastructure topic')
     for c in companies:
         require(c['name'] and c['aliases'] and (c['stageIds'] or c.get('infrastructureIds')), f"Incomplete company: {c['id']}")
-        require(c['category'] in ('equipment', 'parts', 'materials'), 'Invalid category')
+        require(c['category'] in ('equipment', 'parts', 'materials', 'services'), 'Invalid category')
         require(set(c['stageIds']) <= stage_ids, 'Unknown stage reference')
         require(set(c.get('infrastructureIds', [])) <= infrastructure_ids, 'Unknown infrastructure reference')
+        for field, refs in [('stageCategories', c['stageIds']), ('infrastructureCategories', c.get('infrastructureIds', []))]:
+            overrides = c.get(field, {})
+            require(set(overrides) <= set(refs), 'Category override outside company scope')
+            require(all(v in ('equipment', 'parts', 'materials', 'services') for v in overrides.values()), 'Invalid category override')
         require(valid_url(c['website']), 'Invalid company URL')
         require(c.get('irUrl') is None or valid_url(c['irUrl']), 'Invalid IR URL')
         profile = c.get('profile')
