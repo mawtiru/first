@@ -12,9 +12,9 @@ RESEARCH = json.loads((ROOT / 'site/data/research.json').read_text())
 class DataTests(unittest.TestCase):
     def test_catalog_is_ready(self):
         self.assertTrue(validate(CATALOG, RESEARCH))
-        self.assertEqual(len(CATALOG['companies']),67)
+        self.assertEqual(len(CATALOG['companies']),77)
         phases = [s['phase'] for s in CATALOG['stages']]
-        self.assertEqual(phases, ['front']*6+['back']*3)
+        self.assertEqual(phases, ['front']*7+['back']*3)
         for stage in CATALOG['stages']:
             self.assertTrue(any(c['category']=='equipment' and stage['id'] in c['stageIds'] for c in CATALOG['companies']))
 
@@ -45,7 +45,7 @@ class DataTests(unittest.TestCase):
 
     def test_common_infrastructure_is_separate_from_process_sequence(self):
         companies = {c['id']: c for c in CATALOG['companies']}
-        self.assertEqual({t['id'] for t in CATALOG['infrastructure']}, {'wafer-handling', 'water-treatment', 'electronics-assembly'})
+        self.assertEqual({t['id'] for t in CATALOG['infrastructure']}, {'wafer-handling', 'water-treatment', 'electronics-assembly', 'factory-support'})
         for cid in ('rorze', 'sinfonia', 'daifuku', 'murata-machinery', 'nomura-micro', 'kurita'):
             self.assertEqual(companies[cid]['stageIds'], [])
             self.assertEqual(companies[cid]['infrastructureIds'], ['water-treatment' if cid in ('nomura-micro', 'kurita') else 'wafer-handling'])
@@ -118,6 +118,20 @@ class DataTests(unittest.TestCase):
         self.assertEqual(fuji['listing']['ticker'], '6134.T')
         self.assertIn('富士機械製造', fuji['aliases'])
         self.assertIn('半導体パッケージ完成後', fuji['profile']['industryPosition'])
+
+    def test_industrial_suppliers_and_ngk_identity(self):
+        companies = {c['id']: c for c in CATALOG['companies']}
+        for cid in ('tocalo', 'japan-material', 'technoflex', 'nsk', 'niterra', 'rigaku-holdings', 'fig', 'daido-steel', 'marumae'):
+            self.assertTrue(companies[cid]['profile']['industryPosition'])
+        self.assertEqual(companies['ngk']['listing']['ticker'], '5333.T')
+        self.assertEqual(companies['niterra']['listing']['ticker'], '5334.T')
+        self.assertIn('NGK', companies['ngk']['aliases'])
+        self.assertEqual(companies['rigaku-holdings']['stageIds'], ['inspection'])
+        self.assertEqual(companies['sumitomo-heavy-industries']['stageIds'], ['ion-implantation'])
+        self.assertEqual(companies['sumitomo-heavy-industries']['listing']['ticker'], '6302.T')
+        for cid in ('japan-material', 'technoflex', 'nsk', 'fig', 'daido-steel'):
+            self.assertEqual(companies[cid]['stageIds'], [])
+            self.assertEqual(companies[cid]['infrastructureIds'], ['factory-support'])
 
     def market(self):
         return {'id':'test-market','status':'verified','product':'TEST ONLY','year':2025,'region':'世界','measure':'売上金額','definition':'TEST ONLY','sourceUrl':'https://example.test/report','verifiedAt':'2026-10-10','rows':[{'companyId':'asml','share':50},{'companyId':'nikon','share':30}]}
