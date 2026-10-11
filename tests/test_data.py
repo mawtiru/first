@@ -14,7 +14,7 @@ class DataTests(unittest.TestCase):
         self.assertTrue(validate(CATALOG, RESEARCH))
         self.assertEqual(len(CATALOG['companies']),77)
         phases = [s['phase'] for s in CATALOG['stages']]
-        self.assertEqual(phases, ['front']*7+['back']*3)
+        self.assertEqual(phases, ['front']*8+['back']*3)
         for stage in CATALOG['stages']:
             self.assertTrue(any(c['category']=='equipment' and stage['id'] in c['stageIds'] for c in CATALOG['companies']))
 
@@ -45,7 +45,7 @@ class DataTests(unittest.TestCase):
 
     def test_common_infrastructure_is_separate_from_process_sequence(self):
         companies = {c['id']: c for c in CATALOG['companies']}
-        self.assertEqual({t['id'] for t in CATALOG['infrastructure']}, {'wafer-handling', 'water-treatment', 'electronics-assembly', 'factory-support'})
+        self.assertEqual({t['id'] for t in CATALOG['infrastructure']}, {'wafer-handling', 'water-treatment', 'electronics-assembly', 'factory-support', 'vacuum-abatement', 'fluid-management'})
         for cid in ('rorze', 'sinfonia', 'daifuku', 'murata-machinery', 'nomura-micro', 'kurita'):
             self.assertEqual(companies[cid]['stageIds'], [])
             self.assertEqual(companies[cid]['infrastructureIds'], ['water-treatment' if cid in ('nomura-micro', 'kurita') else 'wafer-handling'])
@@ -129,7 +129,7 @@ class DataTests(unittest.TestCase):
         self.assertEqual(companies['rigaku-holdings']['stageIds'], ['inspection'])
         self.assertEqual(companies['sumitomo-heavy-industries']['stageIds'], ['ion-implantation'])
         self.assertEqual(companies['sumitomo-heavy-industries']['listing']['ticker'], '6302.T')
-        for cid in ('japan-material', 'technoflex', 'nsk', 'fig', 'daido-steel'):
+        for cid in ('nsk', 'fig', 'daido-steel'):
             self.assertEqual(companies[cid]['stageIds'], [])
             self.assertEqual(companies[cid]['infrastructureIds'], ['factory-support'])
 
@@ -141,6 +141,22 @@ class DataTests(unittest.TestCase):
         for cid in ('shin-etsu-polymer', 'miraial'):
             self.assertEqual(companies[cid]['category'], 'parts')
         self.assertEqual(companies['tatsumo']['stageIds'], ['lithography', 'clean', 'packaging'])
+
+    def test_audit_moves_and_override_validation(self):
+        companies = {c['id']: c for c in CATALOG['companies']}
+        self.assertEqual(companies['ebara']['stageIds'], ['clean'])
+        self.assertEqual(companies['ebara']['category'], 'equipment')
+        self.assertEqual(companies['edwards']['stageIds'], [])
+        self.assertNotIn('test', companies['accretech']['stageIds'])
+        self.assertEqual(companies['entegris']['infrastructureCategories']['wafer-handling'], 'parts')
+        self.assertEqual(companies['japan-material']['category'], 'services')
+        self.assertEqual(companies['tocalo']['category'], 'services')
+        self.assertIn('thermal', companies['kokusai']['stageIds'])
+        for overrides in ({'missing': 'parts'}, {'lithography': 'invalid'}):
+            catalog = copy.deepcopy(CATALOG)
+            catalog['companies'][0]['stageCategories'] = overrides
+            with self.assertRaises(ValueError):
+                validate(catalog, RESEARCH)
 
     def market(self):
         return {'id':'test-market','status':'verified','product':'TEST ONLY','year':2025,'region':'世界','measure':'売上金額','definition':'TEST ONLY','sourceUrl':'https://example.test/report','verifiedAt':'2026-10-10','rows':[{'companyId':'asml','share':50},{'companyId':'nikon','share':30}]}

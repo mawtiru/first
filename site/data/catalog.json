@@ -38,6 +38,12 @@
       "description": "汚染・残留物を取り除く洗浄と、化学機械研磨（CMP）による表面の平坦化を扱う。"
     },
     {
+      "id": "thermal",
+      "name": "熱処理",
+      "phase": "front",
+      "description": "酸化・拡散・アニールなど、温度と雰囲気を制御する処理。成膜・イオン注入等と組み合わせて繰り返す。工程表の順序は簡略化した分類です。"
+    },
+    {
       "id": "inspection",
       "name": "計測・プローブ検査",
       "phase": "front",
@@ -452,7 +458,8 @@
       "category": "equipment",
       "products": "バッチ式成膜・熱処理装置",
       "stageIds": [
-        "deposition"
+        "deposition",
+        "thermal"
       ],
       "website": "https://www.kokusai-electric.com/",
       "irUrl": null,
@@ -728,8 +735,7 @@
       "products": "ウェーハ検査・研削・ダイシング装置",
       "stageIds": [
         "dicing",
-        "inspection",
-        "test"
+        "inspection"
       ],
       "website": "https://www.accretech.com/",
       "irUrl": null,
@@ -1047,11 +1053,9 @@
         "Ebara"
       ],
       "country": "日本",
-      "category": "parts",
+      "category": "equipment",
       "products": "ドライ真空ポンプ・CMP装置",
       "stageIds": [
-        "deposition",
-        "etch",
         "clean"
       ],
       "website": "https://www.ebara.com/",
@@ -1059,7 +1063,7 @@
       "verificationStatus": "要確認",
       "profile": {
         "summary": "半導体向けドライ真空ポンプ、排ガス処理、CMP装置を扱う。ポンプ等の産業・インフラ関連事業も持つ。",
-        "industryPosition": "装置内部の真空系とCMP工程の双方に関わるメーカー。全社の時価総額には半導体以外の事業も含まれる。",
+        "industryPosition": "CMP装置を洗浄・CMPの装置メーカーとして、真空ポンプを真空・排ガス処理の装置メーカーとして掲載する。プロセス装置と工場・装置の支援設備を区別する。",
         "strengths": [
           "ドライ真空ポンプ",
           "CMP装置"
@@ -1091,7 +1095,13 @@
           "sourceUrl": "https://www.ebara.com/",
           "verifiedAt": null
         }
-      ]
+      ],
+      "infrastructureIds": [
+        "vacuum-abatement"
+      ],
+      "infrastructureCategories": {
+        "vacuum-abatement": "equipment"
+      }
     },
     {
       "id": "edwards",
@@ -1101,18 +1111,15 @@
         "Edwards Vacuum"
       ],
       "country": "英国",
-      "category": "parts",
+      "category": "equipment",
       "products": "真空ポンプ・排ガス処理システム",
-      "stageIds": [
-        "deposition",
-        "etch"
-      ],
+      "stageIds": [],
       "website": "https://www.edwardsvacuum.com/",
       "irUrl": null,
       "verificationStatus": "要確認",
       "profile": {
         "summary": "半導体製造向け真空ポンプや排ガス処理システムを扱う。装置が必要とする真空環境と排ガス管理を支える。",
-        "industryPosition": "真空・排ガス処理を担うサプライヤー。Atlas Copcoグループの事業であり、独立した上場会社の時価総額はない。",
+        "industryPosition": "真空・排ガス処理を担うサプライヤー。Atlas Copcoグループの事業であり、独立した上場会社の時価総額はない。 真空ポンプ・排ガス処理システムを完成した支援設備として分類。",
         "strengths": [
           "真空ポンプ",
           "排ガス処理システム"
@@ -1130,7 +1137,10 @@
         "note": "独立上場なし。事業・ブランドの規模と親会社全体を区別する。"
       },
       "marketCapSource": null,
-      "facilities": []
+      "facilities": [],
+      "infrastructureIds": [
+        "vacuum-abatement"
+      ]
     },
     {
       "id": "mks",
@@ -1173,7 +1183,10 @@
         "slug": "mks-instruments",
         "ticker": "MKSI"
       },
-      "facilities": []
+      "facilities": [],
+      "infrastructureIds": [
+        "fluid-management"
+      ]
     },
     {
       "id": "horiba",
@@ -1216,7 +1229,10 @@
         "slug": "horiba",
         "ticker": "6856.T"
       },
-      "facilities": []
+      "facilities": [],
+      "infrastructureIds": [
+        "fluid-management"
+      ]
     },
     {
       "id": "vat",
@@ -1267,6 +1283,9 @@
           "sourceUrl": "https://www.vatgroup.com/",
           "verifiedAt": null
         }
+      ],
+      "infrastructureIds": [
+        "vacuum-abatement"
       ]
     },
     {
@@ -1325,18 +1344,13 @@
       "country": "日本",
       "category": "parts",
       "products": "直動案内・精密位置決め部品",
-      "stageIds": [
-        "lithography",
-        "inspection",
-        "dicing",
-        "packaging"
-      ],
+      "stageIds": [],
       "website": "https://www.thk.com/",
       "irUrl": null,
       "verificationStatus": "要確認",
       "profile": {
         "summary": "直動案内などの機械要素部品を扱う。半導体装置を含む産業機械の精密な移動・位置決めを支える。",
-        "industryPosition": "精密機構部品のサプライヤー。半導体装置以外の幅広い産業にも供給する。",
+        "industryPosition": "精密機構部品のサプライヤー。半導体装置以外の幅広い産業にも供給する。 直動・位置決め部品は特定工程に限定せず共通部品へ。",
         "strengths": [
           "直動案内",
           "精密位置決め部品"
@@ -1358,7 +1372,10 @@
         "slug": "thk",
         "ticker": "6481.T"
       },
-      "facilities": []
+      "facilities": [],
+      "infrastructureIds": [
+        "factory-support"
+      ]
     },
     {
       "id": "ngk",
@@ -1946,18 +1963,16 @@
       ],
       "country": "米国",
       "category": "materials",
-      "products": "ろ過・高純度流体管理・CMP材料",
+      "products": "ウェーハ搬送・保管容器、フィルター・高純度流体管理部品、CMP材料",
       "stageIds": [
-        "wafer",
-        "clean",
-        "deposition"
+        "clean"
       ],
       "website": "https://www.entegris.com/",
       "irUrl": null,
       "verificationStatus": "要確認",
       "profile": {
         "summary": "ろ過・高純度流体管理、材料搬送・保護、CMP関連材料などを扱う。工程中の汚染管理に関わる。",
-        "industryPosition": "半導体製造の材料品質と清浄度を支えるサプライヤー。材料そのものと管理・搬送技術の双方を扱う。",
+        "industryPosition": "半導体製造の材料品質と清浄度を支えるサプライヤー。材料そのものと管理・搬送技術の双方を扱う。 容器・フィルター等とCMP材料を項目ごとに区別。",
         "strengths": [
           "ろ過",
           "高純度流体管理",
@@ -1980,7 +1995,15 @@
         "slug": "entegris",
         "ticker": "ENTG"
       },
-      "facilities": []
+      "facilities": [],
+      "infrastructureIds": [
+        "wafer-handling",
+        "fluid-management"
+      ],
+      "infrastructureCategories": {
+        "wafer-handling": "parts",
+        "fluid-management": "parts"
+      }
     },
     {
       "id": "resonac",
@@ -2270,7 +2293,6 @@
       "category": "parts",
       "products": "石英製品・セラミックス・シリコン部材・真空シール・半導体装置部品",
       "stageIds": [
-        "wafer",
         "deposition",
         "etch",
         "clean"
@@ -2280,7 +2302,7 @@
       "verificationStatus": "要確認",
       "profile": {
         "summary": "半導体製造装置向けの石英、セラミックス、シリコン加工部材や真空関連製品をグループで扱う。電子デバイス関連などの事業も持つ。",
-        "industryPosition": "プロセス装置内部の材料・部品と真空系を支える企業グループ。装置用部材の純度、耐熱性、耐薬品性や供給体制が重要。時価総額の対象は登録した上場企業全体であり、特定の製造子会社や半導体部門だけではない。",
+        "industryPosition": "プロセス装置内部の材料・部品と真空系を支える企業グループ。装置用部材の純度、耐熱性、耐薬品性や供給体制が重要。時価総額の対象は登録した上場企業全体であり、特定の製造子会社や半導体部門だけではない。 ウェーハ素材と装置用シリコン部材を区別し、ウェーハ製造の割当を削除。",
         "strengths": [
           "石英製品",
           "セラミックス",
@@ -2305,7 +2327,11 @@
         "slug": "ferrotec",
         "ticker": "6890.T"
       },
-      "facilities": []
+      "facilities": [],
+      "infrastructureIds": [
+        "factory-support",
+        "vacuum-abatement"
+      ]
     },
     {
       "id": "tatsumo",
@@ -2682,7 +2708,8 @@
           "verifiedAt": null,
           "sourceUrl": "https://www.lasertec.co.jp/"
         }
-      ]
+      ],
+      "classificationNote": "ユーザー指定により露光の部品として掲載。実製品はマスク・ウェーハ検査装置。一般的な装置分類とは異なる編集上の配置。"
     },
     {
       "id": "shibaura-mechatronics",
@@ -3356,7 +3383,9 @@
         "deposition",
         "etch"
       ],
-      "infrastructureIds": [],
+      "infrastructureIds": [
+        "vacuum-abatement"
+      ],
       "website": "https://www.ulvac.co.jp/",
       "irUrl": "https://www.ulvac.co.jp/ir/",
       "verificationStatus": "要確認",
@@ -3396,7 +3425,10 @@
           "verifiedAt": null,
           "sourceUrl": "https://www.ulvac.co.jp/"
         }
-      ]
+      ],
+      "infrastructureCategories": {
+        "vacuum-abatement": "equipment"
+      }
     },
     {
       "id": "fuji",
@@ -3458,7 +3490,7 @@
         "Tocalo"
       ],
       "country": "日本",
-      "category": "parts",
+      "category": "services",
       "products": "半導体製造装置部品への溶射・表面処理",
       "stageIds": [
         "deposition",
@@ -3470,7 +3502,7 @@
       "verificationStatus": "要確認",
       "profile": {
         "summary": "溶射等の表面処理により、半導体製造装置部品の耐食性・耐摩耗性などを高める。鉄鋼等の産業向けにも表面改質を行う。",
-        "industryPosition": "成膜・エッチング装置の部品表面を保護する加工サプライヤー。ウェーハへの成膜装置とは区別して、装置部品の表面処理を掲載する。",
+        "industryPosition": "成膜・エッチング装置の部品に耐食・耐摩耗性等を付与する表面処理サービス。装置完成品やウェーハへの成膜とは区別する。",
         "strengths": [
           "溶射",
           "耐プラズマ・耐食性",
@@ -3499,10 +3531,11 @@
         "Japan Material"
       ],
       "country": "日本",
-      "category": "parts",
+      "category": "services",
       "products": "半導体工場の特殊ガス供給管理・配管、ユーティリティ運用支援",
       "stageIds": [],
       "infrastructureIds": [
+        "fluid-management",
         "factory-support"
       ],
       "website": "https://www.j-material.jp/",
@@ -3510,7 +3543,7 @@
       "verificationStatus": "要確認",
       "profile": {
         "summary": "半導体工場向けの特殊ガス供給管理、供給設備・配管、工場ユーティリティの運用支援などをグループで行う。",
-        "industryPosition": "工場を支えるガス供給と運用サービスの企業グループ。ガスそのものを製造する化学メーカーとは役割を区別する。主分類は工場支援の部品・コンポーネントとする。",
+        "industryPosition": "特殊ガス供給管理・配管と工場ユーティリティ運用を支える企業グループ。サービスに主分類し、ガス製造会社や配管部品メーカーと区別する。",
         "strengths": [
           "特殊ガス供給管理",
           "供給設備・配管",
@@ -3543,14 +3576,14 @@
       "products": "フレキシブルチューブ・真空配管部材・継手",
       "stageIds": [],
       "infrastructureIds": [
-        "factory-support"
+        "fluid-management"
       ],
       "website": "https://www.technoflex.co.jp/",
       "irUrl": null,
       "verificationStatus": "要確認",
       "profile": {
         "summary": "金属製フレキシブルチューブ、継手などの配管製品を扱い、半導体製造装置や工場設備に関わる製品を供給する。",
-        "industryPosition": "ガス・真空等の配管接続を支える部材メーカー。装置や工場の複数工程に共通するため、工程順とは別に分類する。",
+        "industryPosition": "ガス・真空等の配管接続を支える部材メーカー。装置や工場の複数工程に共通するため、工程順とは別に分類する。 配管部品を流体管理へ。",
         "strengths": [
           "フレキシブルチューブ",
           "金属配管部材",
@@ -3884,6 +3917,16 @@
       "id": "factory-support",
       "name": "装置共通部品・工場支援",
       "description": "複数の工程で使うガス供給・配管、軸受・駆動部品、装置用金属材料、自動化設備など。特定の工程に限定できない部品・サービスを独立してまとめます。"
+    },
+    {
+      "id": "vacuum-abatement",
+      "name": "真空・排ガス処理",
+      "description": "真空ポンプ、真空バルブ、排ガス処理装置など、プロセス装置の真空環境と排気を支える設備・部品。"
+    },
+    {
+      "id": "fluid-management",
+      "name": "ガス・薬液供給・流体管理",
+      "description": "ガス供給管理、流量・圧力制御、配管、フィルターなど、ガスや薬液の清浄な供給と管理を支える設備・部品・サービス。"
     }
   ]
 }
