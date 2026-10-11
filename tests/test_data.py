@@ -26,8 +26,8 @@ class DataTests(unittest.TestCase):
             self.assertEqual(c['marketCapSource']['ticker'], ticker)
             self.assertTrue(c['profile']['summary'])
             self.assertTrue(c['aliases'])
-        self.assertEqual(companies['rorze']['category'], 'parts')
-        self.assertEqual(companies['sinfonia']['category'], 'parts')
+        self.assertEqual(companies['rorze']['category'], 'equipment')
+        self.assertEqual(companies['sinfonia']['category'], 'equipment')
         self.assertEqual(companies['ferrotec']['category'], 'parts')
         self.assertEqual(companies['tatsumo']['category'], 'equipment')
         self.assertIn('packaging', companies['tatsumo']['stageIds'])
@@ -96,7 +96,7 @@ class DataTests(unittest.TestCase):
 
     def test_wafer_container_suppliers_are_independent_infrastructure(self):
         companies = {c['id']: c for c in CATALOG['companies']}
-        for cid in ('shin-etsu-polymer', 'miraial', 'hirata'):
+        for cid in ('shin-etsu-polymer', 'miraial'):
             c = companies[cid]
             self.assertEqual(c['category'], 'parts')
             self.assertEqual(c['stageIds'], [])
@@ -132,6 +132,15 @@ class DataTests(unittest.TestCase):
         for cid in ('japan-material', 'technoflex', 'nsk', 'fig', 'daido-steel'):
             self.assertEqual(companies[cid]['stageIds'], [])
             self.assertEqual(companies[cid]['infrastructureIds'], ['factory-support'])
+
+    def test_handling_system_suppliers_are_equipment_and_containers_are_parts(self):
+        companies = {c['id']: c for c in CATALOG['companies']}
+        for cid in ('rorze', 'hirata', 'sinfonia', 'tatsumo'):
+            self.assertEqual(companies[cid]['category'], 'equipment')
+            self.assertIn('wafer-handling', companies[cid]['infrastructureIds'])
+        for cid in ('shin-etsu-polymer', 'miraial'):
+            self.assertEqual(companies[cid]['category'], 'parts')
+        self.assertEqual(companies['tatsumo']['stageIds'], ['lithography', 'clean', 'packaging'])
 
     def market(self):
         return {'id':'test-market','status':'verified','product':'TEST ONLY','year':2025,'region':'世界','measure':'売上金額','definition':'TEST ONLY','sourceUrl':'https://example.test/report','verifiedAt':'2026-10-10','rows':[{'companyId':'asml','share':50},{'companyId':'nikon','share':30}]}
