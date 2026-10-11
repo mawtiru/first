@@ -26,6 +26,12 @@
       "description": "露光で形成したパターンに沿って材料を除去し、微細な構造を作る工程。"
     },
     {
+      "id": "ion-implantation",
+      "name": "イオン注入",
+      "phase": "front",
+      "description": "ウェーハへ不純物イオンを注入して電気的特性を制御する工程。実際の製造では他の工程と組み合わせて繰り返し行う。"
+    },
+    {
       "id": "clean",
       "name": "洗浄・CMP",
       "phase": "front",
@@ -1359,7 +1365,9 @@
       "name": "日本ガイシ",
       "aliases": [
         "日本ガイシ",
-        "NGK Insulators"
+        "NGK Insulators",
+        "NGK",
+        "日本碍子"
       ],
       "country": "日本",
       "category": "parts",
@@ -1373,10 +1381,11 @@
       "verificationStatus": "要確認",
       "profile": {
         "summary": "半導体装置向けセラミックヒーターや静電チャックなどを扱う。電力、環境等の産業にもセラミック製品を展開する。",
-        "industryPosition": "プロセス装置内部の耐熱・電気特性を担う部品メーカー。半導体関連製品はグループの事業の一部。",
+        "industryPosition": "プロセス装置内部の耐熱・電気特性を担う部品メーカー。半導体関連製品はグループの事業の一部。 日本特殊陶業（Niterra、5334）とは別企業。",
         "strengths": [
           "セラミックヒーター",
-          "静電チャック"
+          "静電チャック",
+          "半導体装置向けセラミック技術"
         ],
         "informationStatus": "reference",
         "verifiedAt": null,
@@ -3440,6 +3449,419 @@
           "sourceUrl": "https://www.fuji.co.jp/"
         }
       ]
+    },
+    {
+      "id": "tocalo",
+      "name": "トーカロ",
+      "aliases": [
+        "トーカロ",
+        "Tocalo"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "半導体製造装置部品への溶射・表面処理",
+      "stageIds": [
+        "deposition",
+        "etch"
+      ],
+      "infrastructureIds": [],
+      "website": "https://www.tocalo.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "溶射等の表面処理により、半導体製造装置部品の耐食性・耐摩耗性などを高める。鉄鋼等の産業向けにも表面改質を行う。",
+        "industryPosition": "成膜・エッチング装置の部品表面を保護する加工サプライヤー。ウェーハへの成膜装置とは区別して、装置部品の表面処理を掲載する。",
+        "strengths": [
+          "溶射",
+          "耐プラズマ・耐食性",
+          "装置部品の表面改質"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.tocalo.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。現行の製品構成・供給主体・上場状態は要確認。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "3433.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現行状態は確認が必要です。時価総額は全社の値です。"
+      },
+      "marketCapSource": null,
+      "facilities": []
+    },
+    {
+      "id": "japan-material",
+      "name": "ジャパンマテリアル",
+      "aliases": [
+        "ジャパンマテリアル",
+        "Japan Material"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "半導体工場の特殊ガス供給管理・配管、ユーティリティ運用支援",
+      "stageIds": [],
+      "infrastructureIds": [
+        "factory-support"
+      ],
+      "website": "https://www.j-material.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体工場向けの特殊ガス供給管理、供給設備・配管、工場ユーティリティの運用支援などをグループで行う。",
+        "industryPosition": "工場を支えるガス供給と運用サービスの企業グループ。ガスそのものを製造する化学メーカーとは役割を区別する。主分類は工場支援の部品・コンポーネントとする。",
+        "strengths": [
+          "特殊ガス供給管理",
+          "供給設備・配管",
+          "工場運用支援"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.j-material.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。現行の製品構成・供給主体・上場状態は要確認。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6055.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現行状態は確認が必要です。時価総額は全社の値です。"
+      },
+      "marketCapSource": null,
+      "facilities": []
+    },
+    {
+      "id": "technoflex",
+      "name": "テクノフレックス",
+      "aliases": [
+        "テクノフレックス",
+        "Technoflex"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "フレキシブルチューブ・真空配管部材・継手",
+      "stageIds": [],
+      "infrastructureIds": [
+        "factory-support"
+      ],
+      "website": "https://www.technoflex.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "金属製フレキシブルチューブ、継手などの配管製品を扱い、半導体製造装置や工場設備に関わる製品を供給する。",
+        "industryPosition": "ガス・真空等の配管接続を支える部材メーカー。装置や工場の複数工程に共通するため、工程順とは別に分類する。",
+        "strengths": [
+          "フレキシブルチューブ",
+          "金属配管部材",
+          "継手"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.technoflex.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。現行の製品構成・供給主体・上場状態は要確認。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "3449.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現行状態は確認が必要です。時価総額は全社の値です。"
+      },
+      "marketCapSource": null,
+      "facilities": []
+    },
+    {
+      "id": "nsk",
+      "name": "日本精工",
+      "aliases": [
+        "日本精工",
+        "NSK"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "半導体製造設備向け軸受・ボールねじ・リニアガイド等の精密機械部品",
+      "stageIds": [],
+      "infrastructureIds": [
+        "factory-support"
+      ],
+      "website": "https://www.nsk.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "軸受や精密機械部品を供給し、半導体製造設備の駆動・位置決め等を支える。自動車・産業機械などにも事業を展開する。",
+        "industryPosition": "装置の動作・位置決めを担う機械部品メーカー。半導体専業ではなく、全社規模と半導体関連用途を区別する。",
+        "strengths": [
+          "軸受",
+          "ボールねじ",
+          "リニアガイド"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.nsk.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。現行の製品構成・供給主体・上場状態は要確認。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6471.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現行状態は確認が必要です。時価総額は全社の値です。"
+      },
+      "marketCapSource": null,
+      "facilities": []
+    },
+    {
+      "id": "niterra",
+      "name": "日本特殊陶業",
+      "aliases": [
+        "日本特殊陶業",
+        "Niterra",
+        "ニテラ",
+        "NGK Spark Plug"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "半導体製造装置向けセラミック部品・静電チャック",
+      "stageIds": [
+        "deposition",
+        "etch"
+      ],
+      "infrastructureIds": [],
+      "website": "https://www.ngkntk.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "セラミック技術を用いた半導体製造装置向け部品をグループで扱う。自動車向け点火・センサ等も主要事業に含む。英語名称Niterraでも検索できる。",
+        "industryPosition": "耐熱性・電気特性等が求められる装置内部のセラミック部品を支える。日本ガイシ（NGK、5333）とは別企業で、製品の製造・販売主体が子会社の場合もある。",
+        "strengths": [
+          "セラミック部品",
+          "静電チャック",
+          "材料・加工技術"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.ngkntk.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。現行の製品構成・供給主体・上場状態は要確認。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "5334.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現行状態は確認が必要です。時価総額は全社の値です。"
+      },
+      "marketCapSource": null,
+      "facilities": []
+    },
+    {
+      "id": "rigaku-holdings",
+      "name": "リガクホールディングス",
+      "aliases": [
+        "リガクホールディングス",
+        "リガク",
+        "Rigaku Holdings",
+        "Rigaku"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "半導体向けX線計測・分析装置、薄膜・材料評価装置",
+      "stageIds": [
+        "inspection"
+      ],
+      "infrastructureIds": [],
+      "website": "https://www.rigaku-holdings.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "X線等を用いる分析・計測装置の企業グループ。半導体の薄膜、結晶、材料などの評価に関わる計測技術を扱う。",
+        "industryPosition": "工程内・研究開発での物性・構造評価を支える装置グループ。電気的なプローブテストや最終機能検査とは用途を区別する。",
+        "strengths": [
+          "X線計測",
+          "薄膜・結晶評価",
+          "材料分析"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.rigaku-holdings.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。現行の製品構成・供給主体・上場状態は要確認。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "268A.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現行状態は確認が必要です。時価総額は全社の値です。"
+      },
+      "marketCapSource": null,
+      "facilities": []
+    },
+    {
+      "id": "fig",
+      "name": "FIG",
+      "aliases": [
+        "FIG",
+        "FIG株式会社",
+        "Future Innovation Group"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "グループの半導体関連製造装置・精密加工・生産自動化設備",
+      "stageIds": [],
+      "infrastructureIds": [
+        "factory-support"
+      ],
+      "website": "https://www.figinc.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "製造装置・精密加工と情報通信等の事業を持つ企業グループ。半導体関連の製造設備・自動化にも関わる。製品の供給主体はグループ会社ごとに確認が必要。",
+        "industryPosition": "装置・生産自動化に関わる企業グループとして掲載。具体的な工程・製品の現行対応は未確認のため、特定の半導体工程には割り当てず工場支援に分類する。",
+        "strengths": [
+          "製造装置",
+          "精密加工",
+          "生産自動化"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.figinc.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。現行の製品構成・供給主体・上場状態は要確認。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "4392.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現行状態は確認が必要です。時価総額は全社の値です。"
+      },
+      "marketCapSource": null,
+      "facilities": []
+    },
+    {
+      "id": "daido-steel",
+      "name": "大同特殊鋼",
+      "aliases": [
+        "大同特殊鋼",
+        "Daido Steel"
+      ],
+      "country": "日本",
+      "category": "materials",
+      "products": "半導体製造設備関連の特殊鋼・高機能金属材料",
+      "stageIds": [],
+      "infrastructureIds": [
+        "factory-support"
+      ],
+      "website": "https://www.daido.co.jp/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "特殊鋼や高機能金属材料を扱う。半導体製造設備関連を含む産業用途へ、耐食性・耐熱性等が求められる材料を提供する。",
+        "industryPosition": "装置の構成部品に使う金属材料側のサプライヤー。装置向けの材料とウェーハへ直接成膜するターゲット材料を混同せず、具体的な材種・用途は確認後に補充する。",
+        "strengths": [
+          "特殊鋼",
+          "高機能金属材料",
+          "耐食・耐熱材料"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.daido.co.jp/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。現行の製品構成・供給主体・上場状態は要確認。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "5471.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現行状態は確認が必要です。時価総額は全社の値です。"
+      },
+      "marketCapSource": null,
+      "facilities": []
+    },
+    {
+      "id": "marumae",
+      "name": "マルマエ",
+      "aliases": [
+        "マルマエ",
+        "Marumae"
+      ],
+      "country": "日本",
+      "category": "parts",
+      "products": "半導体製造装置向け真空部品・金属精密加工部品",
+      "stageIds": [
+        "deposition",
+        "etch"
+      ],
+      "infrastructureIds": [],
+      "website": "https://www.marumae.com/",
+      "irUrl": null,
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "半導体製造装置等に用いる金属部品の精密加工を行う。真空環境で使う装置部品などの製造に関わる。",
+        "industryPosition": "成膜・エッチング等の装置を構成する精密加工部品のサプライヤー。装置完成品のメーカーや装置部品への溶射加工会社とは役割を区別する。",
+        "strengths": [
+          "金属精密加工",
+          "真空部品",
+          "半導体製造装置部品"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.marumae.com/",
+        "note": "初期編集情報。公式情報との最新照合は未実施。現行の製品構成・供給主体・上場状態は要確認。順位やシェアを示す記述ではありません。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6264.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "銘柄・取引所は初期登録。現行状態は確認が必要です。時価総額は全社の値です。"
+      },
+      "marketCapSource": null,
+      "facilities": []
+    },
+    {
+      "id": "sumitomo-heavy-industries",
+      "name": "住友重機械工業",
+      "aliases": [
+        "住友重機械工業",
+        "Sumitomo Heavy Industries",
+        "住友重機械イオンテクノロジー",
+        "Sumitomo Heavy Industries Ion Technology"
+      ],
+      "country": "日本",
+      "category": "equipment",
+      "products": "グループの半導体向けイオン注入装置、関連技術",
+      "stageIds": [
+        "ion-implantation"
+      ],
+      "website": "https://www.shi.co.jp/",
+      "irUrl": "https://www.shi.co.jp/ir/",
+      "verificationStatus": "要確認",
+      "profile": {
+        "summary": "産業機械等を幅広く扱う企業グループ。半導体分野では住友重機械イオンテクノロジー等を通じ、ウェーハの電気的特性を制御するイオン注入装置を扱う。",
+        "industryPosition": "前工程のイオン注入を担う装置グループ。装置の供給主体であるグループ会社と上場親会社を区別し、全社時価総額や売上を半導体事業単独の数値として扱わない。",
+        "strengths": [
+          "イオン注入装置",
+          "イオンビーム技術",
+          "半導体プロセス装置"
+        ],
+        "informationStatus": "reference",
+        "verifiedAt": null,
+        "sourceUrl": "https://www.shi.co.jp/",
+        "note": "初期編集情報。最新の公式情報との照合は未実施。現行の製品構成・供給主体は要確認。"
+      },
+      "listing": {
+        "status": "listed",
+        "ticker": "6302.T",
+        "exchange": "東京証券取引所",
+        "parent": null,
+        "note": "上場親会社の銘柄情報。時価総額は企業グループ全体の値。現在の上場状態は要確認。"
+      },
+      "marketCapSource": {
+        "provider": "companiesmarketcap",
+        "slug": "sumitomo-heavy-industries",
+        "ticker": "6302.T"
+      },
+      "facilities": []
     }
   ],
   "infrastructure": [
@@ -3457,6 +3879,11 @@
       "id": "electronics-assembly",
       "name": "電子部品実装・基板組立（周辺領域）",
       "description": "半導体パッケージなどの電子部品をプリント基板へ搭載する実装・組立。半導体製造の接合・封止とは区別して、製造工程表の外に表示する周辺領域です。"
+    },
+    {
+      "id": "factory-support",
+      "name": "装置共通部品・工場支援",
+      "description": "複数の工程で使うガス供給・配管、軸受・駆動部品、装置用金属材料、自動化設備など。特定の工程に限定できない部品・サービスを独立してまとめます。"
     }
   ]
 }
