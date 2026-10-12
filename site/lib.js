@@ -14,7 +14,7 @@ export function parseRoute(hash){
  const [path,query]=value.split('?');
  if(!path||path==='/')return {type:'home'};
  if(path==='/manufacturers')return {type:'manufacturers'};
- const match=path.match(/^\/(stage|infrastructure|company)\/([^/]+)$/);
+ const match=path.match(/^\/(stage|infrastructure|company|manufacturer)\/([^/]+)$/);
  if(!match)return {type:'notFound'};
  try{return {type:match[1],id:decodeURIComponent(match[2]),fromStage:new URLSearchParams(query||'').get('stage'),fromInfrastructure:new URLSearchParams(query||'').get('infrastructure')}}catch{return {type:'notFound'}}
 }
@@ -23,4 +23,6 @@ export function companiesForInfrastructure(companies,id){return companies.filter
 
 export const manufacturerModels={foundry:"ファウンドリー（製造受託）",fabless:"ファブレス（設計）",idm:"IDM（設計・製造）",osat:"OSAT（組立・テスト受託）"};
 export function matchingManufacturers(companies,{query,model,type='all'}){const q=query.trim().toLowerCase();return companies.filter(c=>(model==='all'||c.model===model)&&(type==='all'||(c.types||[]).includes(type))&&[c.name,c.country,c.products,c.id].join(' ').toLowerCase().includes(q))}
-export const semiconductorTypes={logic:"ロジック",memory:"メモリ",power:"パワー",analog:"アナログ",rf:"通信・RF"};
+export const semiconductorTypes={logic:"ロジック",memory:"メモリ",power:"パワー",analog:"アナログ",rf:"通信・RF",sensor:"センサー"};
+
+export function manufacturingPartners(catalog,id){return (catalog.manufacturingRelationships||[]).filter(r=>r.customerId===id||r.foundryId===id).map(r=>({...r,partner:(catalog.manufacturers||[]).find(c=>c.id===(r.customerId===id?r.foundryId:r.customerId))}))}

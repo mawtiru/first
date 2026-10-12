@@ -1,4 +1,4 @@
-import {labels,escape as e,safeUrl,percentage,matchingCompanies,comparableMarkets,formatDate,formatMarketCap,mapSearchUrl,companiesForStage,companiesForInfrastructure,parseRoute,manufacturerModels,matchingManufacturers,semiconductorTypes} from './lib.js';
+import {labels,escape as e,safeUrl,percentage,matchingCompanies,comparableMarkets,formatDate,formatMarketCap,mapSearchUrl,companiesForStage,companiesForInfrastructure,parseRoute,manufacturerModels,matchingManufacturers,semiconductorTypes,manufacturingPartners} from './lib.js';
 const app=document.querySelector('#app');
 let catalog,research,updates;
 const filters={query:'',phase:'all',category:'all'};
@@ -89,7 +89,19 @@ function detail(id,fromStageId,fromInfrastructureId){const c=catalog.companies.f
 const manufacturerFilters={query:'',model:'all',type:'all'};
 function drawManufacturers(){
  const companies=matchingManufacturers(catalog.manufacturers||[],manufacturerFilters);
- document.querySelector('#manufacturer-results').innerHTML=`<p class="note" role="status">${companies.length}社表示</p><div class="company-grid">${companies.map(c=>`<article class="panel manufacturer-card"><h2>${e(c.name)}</h2><span class="tag">${e(c.country)}</span><span class="tag">${e(manufacturerModels[c.model])}</span><div>${(c.types||[]).map(t=>`<span class="tag">${e(semiconductorTypes[t])}</span>`).join('')}</div><p>${e(c.products)}</p>${sourceLink(c.website,'企業公式サイト')}</article>`).join('')||'<p class="empty">条件に一致する企業がありません。</p>'}</div>`;
+ document.querySelector('#manufacturer-results').innerHTML=`<p class="note" role="status">${companies.length}社表示</p><div class="company-grid">${companies.map(c=>`<article class="panel manufacturer-card"><h2><a href="#/manufacturer/${encodeURIComponent(c.id)}">${e(c.name)} ↗</a></h2><span class="tag">${e(c.country)}</span><span class="tag">${e(manufacturerModels[c.model])}</span><div>${(c.types||[]).map(t=>`<span class="tag">${e(semiconductorTypes[t])}</span>`).join('')}</div><p>${e(c.products)}</p>${sourceLink(c.website,'企業公式サイト')}</article>`).join('')||'<p class="empty">条件に一致する企業がありません。</p>'}</div>`;
+}
+function manufacturingPanel(c){
+ if(!['foundry','fabless'].includes(c.model))return '';
+ const partners=manufacturingPartners(catalog,c.id);
+ return `<section class="panel"><h2>${c.model==='foundry'?'受託元（製造を委託する顧客）':'製造委託先（ファウンドリー）'}</h2>${partners.length?partners.map(r=>`<article class="article"><h3><a href="#/manufacturer/${encodeURIComponent(r.partner.id)}">${e(r.partner.name)} ↗</a></h3><span class="tag">${r.status==='verified'?'出典確認済み':'取引関係の確認待ち'}</span><p class="note">${e(r.note)}${r.verifiedAt?' ／ 確認日：'+e(r.verifiedAt):''}</p>${sourceLink(r.sourceUrl,r.status==='verified'?'関係の出典':'公式資料の確認先')}</article>`).join(''):'<p class="empty">出典を確認できる取引先は未登録です。未登録は取引がないことを意味しません。</p>'}<p class="note">全顧客・全委託先の一覧ではありません。未確認の候補は確定した取引関係として扱いません。</p></section>`;
+}
+function manufacturerDetail(id){
+ const c=(catalog.manufacturers||[]).find(c=>c.id===id);if(!c){notFound('メーカーが見つかりません');return}
+ const u=updates.companies[c.id]||{};
+ const profile={...c.profile,strengths:c.types.map(t=>semiconductorTypes[t])};
+ document.title=`${c.name} | SEMI ATLAS`;
+ app.innerHTML=`<a class="back-link" href="#/manufacturers">← 半導体メーカー一覧へ戻る</a><article class="detail"><section class="detail-head"><div class="eyebrow">SEMICONDUCTOR COMPANY PROFILE</div><h1>${e(c.name)}</h1><span class="tag">${e(c.country)}</span><span class="tag">${e(manufacturerModels[c.model])}</span>${c.types.map(t=>`<span class="tag">${e(semiconductorTypes[t])}</span>`).join('')}<p>${sourceLink(c.website,'企業公式サイト')} ${c.irUrl?sourceLink(c.irUrl,'公式IR'):''}</p></section>${profilePanel({...c,profile})}${manufacturingPanel(c)}${marketCapPanel(c,u)}${facilitiesPanel(c)}${financePanel(c)}${sharesPanel(c)}<section class="panel"><h2>適時開示</h2>${articleList((research.disclosures[c.id]||[]).filter(x=>x.status==='verified'))}</section><section class="panel"><h2>公式IR資料・更新情報</h2>${statusText(u.sources?.ir)}${articleList(u.ir||[])}</section><section class="panel"><h2>半導体事業に関連するニュース</h2>${statusText(u.sources?.news)}${articleList(u.news||[])}${sourceLink('https://news.google.com/search?q='+encodeURIComponent(c.name+' 半導体')+'&hl=ja&gl=JP&ceid=JP:ja','ニュースを検索')}</section></article>`;
 }
 function manufacturersPage(){
  document.title='半導体メーカー | SEMI ATLAS';
@@ -103,6 +115,7 @@ function route(){
  const route=parseRoute(location.hash);
  document.querySelectorAll('[data-view]').forEach(link=>{const active=(link.dataset.view==='manufacturers')===(route.type==='manufacturers');if(active)link.setAttribute('aria-current','page');else link.removeAttribute('aria-current')});
  if(route.type==='manufacturers')manufacturersPage();
+ else if(route.type==='manufacturer')manufacturerDetail(route.id);
  else if(route.type==='stage')stagePage(route.id);
  else if(route.type==='infrastructure')infrastructurePage(route.id);
  else if(route.type==='company')detail(route.id,route.fromStage,route.fromInfrastructure);

@@ -27,8 +27,18 @@ def finite(value):
 def validate(catalog, research):
     companies = catalog['companies']
     ids = {c['id'] for c in companies}
+    makers = catalog.get('manufacturers', [])
+    maker_ids = {c['id'] for c in makers}
+    require(len(maker_ids) == len(makers) and not maker_ids & ids, 'Duplicate manufacturer ID')
+    ids |= maker_ids
+    for r in catalog.get('manufacturingRelationships', []):
+        require(r.get('customerId') in maker_ids and r.get('foundryId') in maker_ids, 'Unknown manufacturing partner')
+        require(r['customerId'] != r['foundryId'], 'Self manufacturing relationship')
+        require(r.get('status') in ('verified', 'unverified') and valid_url(r.get('sourceUrl')), 'Invalid relationship provenance')
+        if r['status'] == 'verified':
+            require(r.get('verifiedAt') and r.get('note'), 'Missing relationship verification')
     stage_ids = {s['id'] for s in catalog['stages']}
-    require(len(ids) == len(companies), 'Duplicate company ID')
+    require(len(ids) == len(companies) + len(makers), 'Duplicate company ID')
     require(len(stage_ids) == len(catalog['stages']), 'Duplicate stage ID')
     infrastructure = catalog.get('infrastructure', [])
     infrastructure_ids = {t['id'] for t in infrastructure}

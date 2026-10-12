@@ -3942,7 +3942,29 @@
         "analog",
         "power",
         "rf"
-      ]
+      ],
+      "aliases": [
+        "TSMC",
+        "tsmc"
+      ],
+      "profile": {
+        "summary": "半導体の受託製造",
+        "industryPosition": "顧客の設計に基づく半導体の製造受託",
+        "strengths": [
+          "logic",
+          "analog",
+          "power",
+          "rf"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.tsmc.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "umc",
@@ -3956,7 +3978,29 @@
         "analog",
         "power",
         "rf"
-      ]
+      ],
+      "aliases": [
+        "UMC",
+        "umc"
+      ],
+      "profile": {
+        "summary": "半導体の受託製造",
+        "industryPosition": "顧客の設計に基づく半導体の製造受託",
+        "strengths": [
+          "logic",
+          "analog",
+          "power",
+          "rf"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.umc.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "globalfoundries",
@@ -3969,7 +4013,28 @@
         "logic",
         "analog",
         "rf"
-      ]
+      ],
+      "aliases": [
+        "GlobalFoundries",
+        "globalfoundries"
+      ],
+      "profile": {
+        "summary": "半導体の受託製造",
+        "industryPosition": "顧客の設計に基づく半導体の製造受託",
+        "strengths": [
+          "logic",
+          "analog",
+          "rf"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://gf.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "nvidia",
@@ -3980,7 +4045,26 @@
       "website": "https://www.nvidia.com/",
       "types": [
         "logic"
-      ]
+      ],
+      "aliases": [
+        "NVIDIA",
+        "nvidia"
+      ],
+      "profile": {
+        "summary": "GPU・AI向け半導体の設計",
+        "industryPosition": "半導体を設計し、製造を外部のファウンドリーに委託",
+        "strengths": [
+          "logic"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.nvidia.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "amd",
@@ -3991,7 +4075,26 @@
       "website": "https://www.amd.com/",
       "types": [
         "logic"
-      ]
+      ],
+      "aliases": [
+        "AMD",
+        "amd"
+      ],
+      "profile": {
+        "summary": "CPU・GPUの設計",
+        "industryPosition": "半導体を設計し、製造を外部のファウンドリーに委託",
+        "strengths": [
+          "logic"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.amd.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "qualcomm",
@@ -4003,7 +4106,27 @@
       "types": [
         "logic",
         "rf"
-      ]
+      ],
+      "aliases": [
+        "Qualcomm",
+        "qualcomm"
+      ],
+      "profile": {
+        "summary": "モバイル・通信向け半導体の設計",
+        "industryPosition": "半導体を設計し、製造を外部のファウンドリーに委託",
+        "strengths": [
+          "logic",
+          "rf"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.qualcomm.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "broadcom",
@@ -4015,7 +4138,27 @@
       "types": [
         "logic",
         "rf"
-      ]
+      ],
+      "aliases": [
+        "Broadcom",
+        "broadcom"
+      ],
+      "profile": {
+        "summary": "通信・ネットワーク向け半導体の設計",
+        "industryPosition": "半導体を設計し、製造を外部のファウンドリーに委託",
+        "strengths": [
+          "logic",
+          "rf"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.broadcom.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "intel",
@@ -4026,7 +4169,26 @@
       "website": "https://www.intel.com/",
       "types": [
         "logic"
-      ]
+      ],
+      "aliases": [
+        "Intel",
+        "intel"
+      ],
+      "profile": {
+        "summary": "CPUの設計・製造、製造受託",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "logic"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.intel.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "samsung",
@@ -4038,7 +4200,27 @@
       "types": [
         "logic",
         "memory"
-      ]
+      ],
+      "aliases": [
+        "Samsung Electronics",
+        "samsung"
+      ],
+      "profile": {
+        "summary": "メモリ・ロジック半導体、製造受託",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "logic",
+          "memory"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://semiconductor.samsung.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "sk-hynix",
@@ -4049,7 +4231,26 @@
       "website": "https://www.skhynix.com/",
       "types": [
         "memory"
-      ]
+      ],
+      "aliases": [
+        "SK hynix",
+        "sk-hynix"
+      ],
+      "profile": {
+        "summary": "DRAM・NANDフラッシュメモリ",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "memory"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.skhynix.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "micron",
@@ -4060,7 +4261,26 @@
       "website": "https://www.micron.com/",
       "types": [
         "memory"
-      ]
+      ],
+      "aliases": [
+        "Micron",
+        "micron"
+      ],
+      "profile": {
+        "summary": "DRAM・NANDフラッシュメモリ",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "memory"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.micron.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "kioxia",
@@ -4071,7 +4291,26 @@
       "website": "https://www.kioxia.com/",
       "types": [
         "memory"
-      ]
+      ],
+      "aliases": [
+        "キオクシア",
+        "kioxia"
+      ],
+      "profile": {
+        "summary": "NANDフラッシュメモリ",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "memory"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.kioxia.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "renesas",
@@ -4084,7 +4323,28 @@
         "logic",
         "analog",
         "power"
-      ]
+      ],
+      "aliases": [
+        "ルネサス エレクトロニクス",
+        "renesas"
+      ],
+      "profile": {
+        "summary": "マイコン・車載・産業向け半導体",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "logic",
+          "analog",
+          "power"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.renesas.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "rohm",
@@ -4096,7 +4356,27 @@
       "types": [
         "analog",
         "power"
-      ]
+      ],
+      "aliases": [
+        "ローム",
+        "rohm"
+      ],
+      "profile": {
+        "summary": "アナログ・パワー半導体",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "analog",
+          "power"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.rohm.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "infineon",
@@ -4110,7 +4390,29 @@
         "power",
         "analog",
         "rf"
-      ]
+      ],
+      "aliases": [
+        "Infineon",
+        "infineon"
+      ],
+      "profile": {
+        "summary": "パワー・車載・産業向け半導体",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "logic",
+          "power",
+          "analog",
+          "rf"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.infineon.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "ti",
@@ -4123,7 +4425,28 @@
         "analog",
         "logic",
         "power"
-      ]
+      ],
+      "aliases": [
+        "Texas Instruments",
+        "ti"
+      ],
+      "profile": {
+        "summary": "アナログ・組み込み半導体",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "analog",
+          "logic",
+          "power"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.ti.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "ase",
@@ -4137,7 +4460,29 @@
         "memory",
         "analog",
         "rf"
-      ]
+      ],
+      "aliases": [
+        "ASE Technology Holding",
+        "ase"
+      ],
+      "profile": {
+        "summary": "半導体の組立・パッケージング・テスト受託",
+        "industryPosition": "半導体の組立・パッケージング・テスト受託",
+        "strengths": [
+          "logic",
+          "memory",
+          "analog",
+          "rf"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.aseglobal.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "amkor",
@@ -4152,7 +4497,30 @@
         "analog",
         "power",
         "rf"
-      ]
+      ],
+      "aliases": [
+        "Amkor Technology",
+        "amkor"
+      ],
+      "profile": {
+        "summary": "半導体のパッケージング・テスト受託",
+        "industryPosition": "半導体の組立・パッケージング・テスト受託",
+        "strengths": [
+          "logic",
+          "memory",
+          "analog",
+          "power",
+          "rf"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://amkor.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "jcet",
@@ -4167,7 +4535,30 @@
         "analog",
         "power",
         "rf"
-      ]
+      ],
+      "aliases": [
+        "JCET Group",
+        "jcet"
+      ],
+      "profile": {
+        "summary": "半導体のパッケージング・テスト受託",
+        "industryPosition": "半導体の組立・パッケージング・テスト受託",
+        "strengths": [
+          "logic",
+          "memory",
+          "analog",
+          "power",
+          "rf"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.jcetglobal.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "pti",
@@ -4179,7 +4570,27 @@
       "types": [
         "logic",
         "memory"
-      ]
+      ],
+      "aliases": [
+        "Powertech Technology",
+        "pti"
+      ],
+      "profile": {
+        "summary": "メモリ・ロジック向けパッケージング・テスト受託",
+        "industryPosition": "半導体の組立・パッケージング・テスト受託",
+        "strengths": [
+          "logic",
+          "memory"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.pti.com.tw/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
     },
     {
       "id": "chipmos",
@@ -4191,7 +4602,231 @@
       "types": [
         "memory",
         "logic"
-      ]
+      ],
+      "aliases": [
+        "ChipMOS Technologies",
+        "chipmos"
+      ],
+      "profile": {
+        "summary": "メモリ・ディスプレイ駆動ICなどのパッケージング・テスト受託",
+        "industryPosition": "半導体の組立・パッケージング・テスト受託",
+        "strengths": [
+          "memory",
+          "logic"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.chipmos.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
+    },
+    {
+      "id": "sandisk",
+      "name": "Sandisk（サンディスク）",
+      "country": "米国",
+      "model": "idm",
+      "products": "NANDフラッシュメモリ・SSD。キオクシアとの共同事業を通じてメモリを開発・製造",
+      "website": "https://www.sandisk.com/",
+      "types": [
+        "memory"
+      ],
+      "aliases": [
+        "Sandisk（サンディスク）",
+        "sandisk"
+      ],
+      "profile": {
+        "summary": "NANDフラッシュメモリ・SSD。キオクシアとの共同事業を通じてメモリを開発・製造",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "memory"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.sandisk.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
+    },
+    {
+      "id": "fuji-electric",
+      "name": "富士電機",
+      "country": "日本",
+      "model": "idm",
+      "products": "IGBT・パワーMOSFET・SiCデバイスなどのパワー半導体",
+      "website": "https://www.fujielectric.co.jp/products/semiconductor/",
+      "types": [
+        "power"
+      ],
+      "aliases": [
+        "富士電機",
+        "fuji-electric"
+      ],
+      "profile": {
+        "summary": "IGBT・パワーMOSFET・SiCデバイスなどのパワー半導体",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "power"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.fujielectric.co.jp/products/semiconductor/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
+    },
+    {
+      "id": "mitsubishi-electric",
+      "name": "三菱電機",
+      "country": "日本",
+      "model": "idm",
+      "products": "IGBT・SiCパワーモジュール、高周波デバイス",
+      "website": "https://www.mitsubishielectric.co.jp/semiconductors/",
+      "types": [
+        "power",
+        "rf"
+      ],
+      "aliases": [
+        "三菱電機",
+        "mitsubishi-electric"
+      ],
+      "profile": {
+        "summary": "IGBT・SiCパワーモジュール、高周波デバイス",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "power",
+          "rf"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.mitsubishielectric.co.jp/semiconductors/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
+    },
+    {
+      "id": "stmicroelectronics",
+      "name": "STMicroelectronics（STマイクロエレクトロニクス）",
+      "country": "スイス",
+      "model": "idm",
+      "products": "マイコン・アナログIC・パワー半導体・MEMSセンサー",
+      "website": "https://www.st.com/",
+      "types": [
+        "logic",
+        "analog",
+        "power",
+        "sensor"
+      ],
+      "aliases": [
+        "STMicroelectronics（STマイクロエレクトロニクス）",
+        "stmicroelectronics"
+      ],
+      "profile": {
+        "summary": "マイコン・アナログIC・パワー半導体・MEMSセンサー",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "logic",
+          "analog",
+          "power",
+          "sensor"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.st.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
+    },
+    {
+      "id": "sony",
+      "name": "Sony（ソニーセミコンダクタソリューションズ）",
+      "country": "日本",
+      "model": "idm",
+      "products": "CMOSイメージセンサーなどのセンシング半導体の設計・製造",
+      "website": "https://www.sony-semicon.com/",
+      "types": [
+        "sensor"
+      ],
+      "aliases": [
+        "Sony（ソニーセミコンダクタソリューションズ）",
+        "sony"
+      ],
+      "profile": {
+        "summary": "CMOSイメージセンサーなどのセンシング半導体の設計・製造",
+        "industryPosition": "半導体の設計・製造（外部委託を併用する場合もあります）",
+        "strengths": [
+          "sensor"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.sony-semicon.com/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
+    },
+    {
+      "id": "rapidus",
+      "name": "Rapidus（ラピダス）",
+      "country": "日本",
+      "model": "foundry",
+      "products": "先端ロジック半導体の製造受託に向けた技術開発・量産準備。量産稼働状況は公式発表を参照",
+      "website": "https://www.rapidus.inc/",
+      "types": [
+        "logic"
+      ],
+      "aliases": [
+        "Rapidus（ラピダス）",
+        "rapidus"
+      ],
+      "profile": {
+        "summary": "先端ロジック半導体の製造受託に向けた技術開発・量産準備。量産稼働状況は公式発表を参照",
+        "industryPosition": "顧客の設計に基づく半導体の製造受託",
+        "strengths": [
+          "logic"
+        ],
+        "informationStatus": "reference",
+        "sourceUrl": "https://www.rapidus.inc/",
+        "note": "初期登録情報。最新の公式資料との照合待ち。"
+      },
+      "listing": {
+        "status": "unknown",
+        "note": "上場区分・銘柄は未登録。公式資料で確認後に追加します。"
+      },
+      "facilities": []
+    }
+  ],
+  "manufacturingRelationships": [
+    {
+      "customerId": "nvidia",
+      "foundryId": "tsmc",
+      "status": "unverified",
+      "sourceUrl": "https://investor.nvidia.com/financial-info/annual-reports-and-proxies/default.aspx",
+      "note": "公開情報で知られる製造委託関係の確認候補。対象製品・期間・現在の取引状況を一次資料で照合するまで未確認扱い。"
+    },
+    {
+      "customerId": "amd",
+      "foundryId": "tsmc",
+      "status": "unverified",
+      "sourceUrl": "https://ir.amd.com/financial-information/annual-reports-and-proxy-statements",
+      "note": "公開情報で知られる製造委託関係の確認候補。対象製品・期間・現在の取引状況を一次資料で照合するまで未確認扱い。"
     }
   ]
 }
