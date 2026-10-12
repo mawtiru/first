@@ -14,3 +14,18 @@ test('工程別企業一覧は所属工程で絞り込み、企業を重複さ�
 import {companiesForInfrastructure} from '../site/lib.js';
 test('共通設備を工程と別に検索し遷移元を保持',()=>{const data=[{id:'water',stageIds:[],infrastructureIds:['water-treatment']},{id:'process',stageIds:['clean']}];assert.deepEqual(companiesForInfrastructure(data,'water-treatment').map(c=>c.id),['water']);assert.equal(companiesForStage(data,'clean').length,1);const route=parseRoute('#/company/water?infrastructure=water-treatment');assert.equal(route.fromInfrastructure,'water-treatment');assert.equal(parseRoute('#/infrastructure/wafer-handling').type,'infrastructure')});
 test('項目別分類は主分類を変更せず一覧とカテゴリー検索に適用',()=>{const c={id:'multi',name:'複合企業',aliases:[],country:'日本',products:'材料と容器',category:'materials',stageIds:['clean'],infrastructureIds:['handling'],infrastructureCategories:{handling:'parts'}};assert.equal(companiesForStage([c],'clean')[0].category,'materials');const scoped=companiesForInfrastructure([c],'handling');assert.equal(scoped[0].category,'parts');assert.equal(matchingCompanies(scoped,{query:'',category:'parts'}).length,1);assert.equal(matchingCompanies(scoped,{query:'',category:'materials'}).length,0);assert.equal(c.category,'materials')});
+test('出典元の推計市場を表示し、未確認市場と対象外企業を除外',()=>{const rows=[{companyId:'sumco',share:10.98}];const estimated={status:'estimated',rows};assert.deepEqual(comparableMarkets([estimated,{status:'unverified',rows}],'sumco'),[estimated]);assert.deepEqual(comparableMarkets([estimated],'asml'),[])});
+import {matchingManufacturers,semiconductorTypes,manufacturerModels} from '../site/lib.js';
+import fs from 'node:fs';
+test('半導体メーカーへの直接遷移と形態・種類の複合フィルター',()=>{
+ assert.deepEqual(parseRoute('#/manufacturers'),{type:'manufacturers'});
+ const companies=JSON.parse(fs.readFileSync(new URL('../site/data/catalog.json',import.meta.url))).manufacturers;
+ assert.equal(new Set(companies.map(c=>c.id)).size,companies.length);
+ for(const c of companies){assert.ok(manufacturerModels[c.model]);assert.ok(c.types.length);assert.ok(c.types.every(t=>semiconductorTypes[t]));assert.ok(safeUrl(c.website))}
+ assert.equal(matchingManufacturers(companies,{query:'',model:'osat',type:'all'}).length,5);
+ assert.ok(matchingManufacturers(companies,{query:'',model:'osat',type:'memory'}).some(c=>c.id==='pti'));
+ assert.deepEqual(matchingManufacturers(companies,{query:'',model:'fabless',type:'memory'}),[]);
+ assert.ok(matchingManufacturers(companies,{query:'',model:'idm',type:'memory'}).some(c=>c.id==='kioxia'));
+ assert.deepEqual(matchingManufacturers(companies,{query:'NVIDIA',model:'fabless',type:'logic'}).map(c=>c.id),['nvidia']);
+ assert.ok(matchingManufacturers(companies,{query:'',model:'foundry',type:'power'}).some(c=>c.id==='tsmc'));
+});

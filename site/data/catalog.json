@@ -3928,5 +3928,270 @@
       "name": "ガス・薬液供給・流体管理",
       "description": "ガス供給管理、流量・圧力制御、配管、フィルターなど、ガスや薬液の清浄な供給と管理を支える設備・部品・サービス。"
     }
+  ],
+  "manufacturers": [
+    {
+      "id": "tsmc",
+      "name": "TSMC",
+      "country": "台湾",
+      "model": "foundry",
+      "products": "半導体の受託製造",
+      "website": "https://www.tsmc.com/",
+      "types": [
+        "logic",
+        "analog",
+        "power",
+        "rf"
+      ]
+    },
+    {
+      "id": "umc",
+      "name": "UMC",
+      "country": "台湾",
+      "model": "foundry",
+      "products": "半導体の受託製造",
+      "website": "https://www.umc.com/",
+      "types": [
+        "logic",
+        "analog",
+        "power",
+        "rf"
+      ]
+    },
+    {
+      "id": "globalfoundries",
+      "name": "GlobalFoundries",
+      "country": "米国",
+      "model": "foundry",
+      "products": "半導体の受託製造",
+      "website": "https://gf.com/",
+      "types": [
+        "logic",
+        "analog",
+        "rf"
+      ]
+    },
+    {
+      "id": "nvidia",
+      "name": "NVIDIA",
+      "country": "米国",
+      "model": "fabless",
+      "products": "GPU・AI向け半導体の設計",
+      "website": "https://www.nvidia.com/",
+      "types": [
+        "logic"
+      ]
+    },
+    {
+      "id": "amd",
+      "name": "AMD",
+      "country": "米国",
+      "model": "fabless",
+      "products": "CPU・GPUの設計",
+      "website": "https://www.amd.com/",
+      "types": [
+        "logic"
+      ]
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm",
+      "country": "米国",
+      "model": "fabless",
+      "products": "モバイル・通信向け半導体の設計",
+      "website": "https://www.qualcomm.com/",
+      "types": [
+        "logic",
+        "rf"
+      ]
+    },
+    {
+      "id": "broadcom",
+      "name": "Broadcom",
+      "country": "米国",
+      "model": "fabless",
+      "products": "通信・ネットワーク向け半導体の設計",
+      "website": "https://www.broadcom.com/",
+      "types": [
+        "logic",
+        "rf"
+      ]
+    },
+    {
+      "id": "intel",
+      "name": "Intel",
+      "country": "米国",
+      "model": "idm",
+      "products": "CPUの設計・製造、製造受託",
+      "website": "https://www.intel.com/",
+      "types": [
+        "logic"
+      ]
+    },
+    {
+      "id": "samsung",
+      "name": "Samsung Electronics",
+      "country": "韓国",
+      "model": "idm",
+      "products": "メモリ・ロジック半導体、製造受託",
+      "website": "https://semiconductor.samsung.com/",
+      "types": [
+        "logic",
+        "memory"
+      ]
+    },
+    {
+      "id": "sk-hynix",
+      "name": "SK hynix",
+      "country": "韓国",
+      "model": "idm",
+      "products": "DRAM・NANDフラッシュメモリ",
+      "website": "https://www.skhynix.com/",
+      "types": [
+        "memory"
+      ]
+    },
+    {
+      "id": "micron",
+      "name": "Micron",
+      "country": "米国",
+      "model": "idm",
+      "products": "DRAM・NANDフラッシュメモリ",
+      "website": "https://www.micron.com/",
+      "types": [
+        "memory"
+      ]
+    },
+    {
+      "id": "kioxia",
+      "name": "キオクシア",
+      "country": "日本",
+      "model": "idm",
+      "products": "NANDフラッシュメモリ",
+      "website": "https://www.kioxia.com/",
+      "types": [
+        "memory"
+      ]
+    },
+    {
+      "id": "renesas",
+      "name": "ルネサス エレクトロニクス",
+      "country": "日本",
+      "model": "idm",
+      "products": "マイコン・車載・産業向け半導体",
+      "website": "https://www.renesas.com/",
+      "types": [
+        "logic",
+        "analog",
+        "power"
+      ]
+    },
+    {
+      "id": "rohm",
+      "name": "ローム",
+      "country": "日本",
+      "model": "idm",
+      "products": "アナログ・パワー半導体",
+      "website": "https://www.rohm.com/",
+      "types": [
+        "analog",
+        "power"
+      ]
+    },
+    {
+      "id": "infineon",
+      "name": "Infineon",
+      "country": "ドイツ",
+      "model": "idm",
+      "products": "パワー・車載・産業向け半導体",
+      "website": "https://www.infineon.com/",
+      "types": [
+        "logic",
+        "power",
+        "analog",
+        "rf"
+      ]
+    },
+    {
+      "id": "ti",
+      "name": "Texas Instruments",
+      "country": "米国",
+      "model": "idm",
+      "products": "アナログ・組み込み半導体",
+      "website": "https://www.ti.com/",
+      "types": [
+        "analog",
+        "logic",
+        "power"
+      ]
+    },
+    {
+      "id": "ase",
+      "name": "ASE Technology Holding",
+      "country": "台湾",
+      "model": "osat",
+      "products": "半導体の組立・パッケージング・テスト受託",
+      "website": "https://www.aseglobal.com/",
+      "types": [
+        "logic",
+        "memory",
+        "analog",
+        "rf"
+      ]
+    },
+    {
+      "id": "amkor",
+      "name": "Amkor Technology",
+      "country": "米国",
+      "model": "osat",
+      "products": "半導体のパッケージング・テスト受託",
+      "website": "https://amkor.com/",
+      "types": [
+        "logic",
+        "memory",
+        "analog",
+        "power",
+        "rf"
+      ]
+    },
+    {
+      "id": "jcet",
+      "name": "JCET Group",
+      "country": "中国",
+      "model": "osat",
+      "products": "半導体のパッケージング・テスト受託",
+      "website": "https://www.jcetglobal.com/",
+      "types": [
+        "logic",
+        "memory",
+        "analog",
+        "power",
+        "rf"
+      ]
+    },
+    {
+      "id": "pti",
+      "name": "Powertech Technology",
+      "country": "台湾",
+      "model": "osat",
+      "products": "メモリ・ロジック向けパッケージング・テスト受託",
+      "website": "https://www.pti.com.tw/",
+      "types": [
+        "logic",
+        "memory"
+      ]
+    },
+    {
+      "id": "chipmos",
+      "name": "ChipMOS Technologies",
+      "country": "台湾",
+      "model": "osat",
+      "products": "メモリ・ディスプレイ駆動ICなどのパッケージング・テスト受託",
+      "website": "https://www.chipmos.com/",
+      "types": [
+        "memory",
+        "logic"
+      ]
+    }
   ]
 }

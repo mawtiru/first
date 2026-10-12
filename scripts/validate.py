@@ -89,12 +89,14 @@ def validate(catalog, research):
     for market in research['markets']:
         require(market['id'] not in market_ids, 'Duplicate market ID')
         market_ids.add(market['id'])
-        require(market['status'] in ('verified', 'unverified'), 'Invalid market status')
-        if market['status'] != 'verified':
+        require(market['status'] in ('verified', 'estimated', 'unverified'), 'Invalid market status')
+        if market['status'] == 'unverified':
             continue
         for key in ('product', 'year', 'region', 'measure', 'definition', 'sourceUrl', 'verifiedAt'):
             require(market.get(key), f'Missing market provenance: {key}')
         require(valid_url(market['sourceUrl']), 'Invalid market source URL')
+        if market['status'] == 'estimated':
+            require(market.get('note'), 'Estimated market requires methodology note')
         rows = market['rows']
         require(len(rows) >= 2, 'Market comparison requires at least two rows')
         seen = set()

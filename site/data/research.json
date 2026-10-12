@@ -1,5 +1,52 @@
 {
   "finance": {},
-  "markets": [],
+  "markets": [
+    {
+      "id": "silicon-wafer-world-2025-deallab",
+      "status": "estimated",
+      "product": "シリコンウエハ（Deallab推計）",
+      "year": 2025,
+      "region": "世界",
+      "measure": "売上金額ベース（出典元の簡易試算）",
+      "definition": "Deallab掲載のシリコンウエハ市場。各社の2025年度売上高を市場規模234億米ドルで除した試算。口径別・製品別の算入範囲、為替換算・決算期調整の詳細は公開本文に明示なし。",
+      "sourceUrl": "https://deallab.info/siliconwafer/",
+      "verifiedAt": "2026-10-12",
+      "note": "出典元の推計値。Deallab「シリコンウエハ業界の世界市場シェアの分析」（2026/09/04更新）の2025年表を照合。分母はBusiness Research Insightsの市場規模を採用したと記載。一次資料による算定の独立検証は未実施。掲載8社のみを表示し、未掲載分を「その他」として推算しない。",
+      "rows": [
+        {
+          "companyId": "shinetsu",
+          "share": 27.22
+        },
+        {
+          "companyId": "sumco",
+          "share": 10.98
+        },
+        {
+          "name": "グローバルウエハーズ",
+          "share": 8.14
+        },
+        {
+          "name": "シルトロニック",
+          "share": 6.71
+        },
+        {
+          "name": "SKシルトロン",
+          "share": 5.92
+        },
+        {
+          "name": "ソイテック",
+          "share": 2.95
+        },
+        {
+          "name": "上海硅産業集団（NSIG）",
+          "share": 2.32
+        },
+        {
+          "name": "ウエハーワークス",
+          "share": 1.32
+        }
+      ]
+    }
+  ],
   "disclosures": {}
 }

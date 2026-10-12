@@ -167,6 +167,16 @@ class DataTests(unittest.TestCase):
             data['markets']=[{**self.market(),**change}]
             with self.assertRaises(ValueError):validate(CATALOG,data)
 
+    def test_estimated_market_requires_provenance_and_methodology(self):
+        market = {**self.market(), 'status': 'estimated', 'note': 'Source estimate'}
+        data = copy.deepcopy(RESEARCH)
+        data['markets'] = [market]
+        validate(CATALOG, data)
+        for change in ({'sourceUrl': ''}, {'note': ''}, {'rows': [{'companyId': 'asml', 'share': 90}, {'companyId': 'nikon', 'share': 60}]}):
+            data['markets'] = [{**market, **change}]
+            with self.assertRaises(ValueError):
+                validate(CATALOG, data)
+
     def test_market_unknown_company_rejected(self):
         data=copy.deepcopy(RESEARCH)
         market=self.market()
