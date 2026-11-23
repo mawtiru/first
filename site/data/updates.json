@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "lastAttemptAt": "2026-11-22T01:56:15Z",
-  "lastSuccessAt": "2026-11-22T01:56:15Z",
+  "lastAttemptAt": "2026-11-23T02:20:27Z",
+  "lastSuccessAt": "2026-11-23T02:20:27Z",
   "companies": {
     "tel": {
       "news": [
@@ -12,7 +12,7 @@
           "publishedAt": "2026-11-18T05:09:00Z",
           "publisher": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -22,7 +22,7 @@
           "publishedAt": "2026-11-17T01:00:00Z",
           "publisher": "MONOist",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -32,7 +32,7 @@
           "publishedAt": "2026-11-15T21:00:00Z",
           "publisher": "JBpress",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -52,7 +52,7 @@
           "publishedAt": "2026-11-11T00:26:09Z",
           "publisher": "東京エレクトロン株式会社",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -72,7 +72,7 @@
           "publishedAt": "2026-11-06T08:00:00Z",
           "publisher": "ブルーモ証券",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -82,7 +82,7 @@
           "publishedAt": "2026-11-04T08:00:00Z",
           "publisher": "東京エレクトロン株式会社",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -112,7 +112,7 @@
           "publishedAt": "2026-11-02T08:00:00Z",
           "publisher": "みんかぶ",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -122,7 +122,7 @@
           "publishedAt": "2026-11-02T08:00:00Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -134,7 +134,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -150,24 +150,23 @@
       ],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 22,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%22+OR+%22Tokyo+Electron%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%B3%22+OR+%22Tokyo+Electron%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 1,
           "sourceUrl": "https://www.tel.com/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/tokyo-electron/marketcap/",
         "error": "ValueError"
       }
@@ -181,7 +180,7 @@
           "publishedAt": "2026-11-18T20:00:00Z",
           "publisher": "日経クロステック",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -241,7 +240,7 @@
           "publishedAt": "2026-10-13T07:00:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -261,7 +260,7 @@
           "publishedAt": "2026-09-30T07:00:00Z",
           "publisher": "日経クロステック",
           "kind": "news",
-          "retrievedAt": "2026-11-17T04:21:08Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -298,16 +297,15 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 8,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22ASML%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22ASML%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
           "lastSuccessAt": "2026-11-14T01:59:54Z",
           "matchedCount": 0,
           "sourceUrl": "https://www.asml.com/en/investors",
@@ -316,7 +314,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/asml/marketcap/",
         "error": "ValueError"
       }
@@ -360,7 +358,7 @@
           "publishedAt": "2026-11-05T18:30:35Z",
           "publisher": "TIKR.com",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -430,19 +428,18 @@
           "publishedAt": "2026-08-30T07:00:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
-          "matchedCount": 4,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22Applied+Materials%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 2,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22Applied+Materials%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -450,7 +447,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/applied-materials/marketcap/",
         "error": "ValueError"
       }
@@ -494,7 +491,7 @@
           "publishedAt": "2026-11-05T18:30:35Z",
           "publisher": "TIKR.com",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -504,7 +501,7 @@
           "publishedAt": "2026-10-08T07:00:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -531,12 +528,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 2,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22Lam+Research%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22Lam+Research%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -544,7 +540,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/lam-research/marketcap/",
         "error": "ValueError"
       }
@@ -558,7 +554,7 @@
           "publishedAt": "2026-11-20T05:22:24Z",
           "publisher": "Vietnam.vn",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -568,7 +564,7 @@
           "publishedAt": "2026-11-09T08:00:00Z",
           "publisher": "ニュースイッチ by 日刊工業新聞社",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -598,7 +594,7 @@
           "publishedAt": "2026-11-05T08:00:00Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-20T02:52:04Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -608,7 +604,7 @@
           "publishedAt": "2026-10-30T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -618,7 +614,7 @@
           "publishedAt": "2026-10-27T07:00:00Z",
           "publisher": "文春オンライン",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -680,7 +676,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -696,24 +692,23 @@
       ],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 17,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%8B%E3%82%B3%E3%83%B3%22+OR+%22Nikon%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%8B%E3%82%B3%E3%83%B3%22+OR+%22Nikon%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 1,
           "sourceUrl": "https://www.nikon.com/company/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/nikon/marketcap/",
         "error": "ValueError"
       }
@@ -723,12 +718,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22KOKUSAI+ELECTRIC%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22KOKUSAI+ELECTRIC%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -736,7 +730,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/kokusai-electric/marketcap/",
         "error": "HTTP 404"
       }
@@ -746,12 +740,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22ASM+International%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22ASM+International%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -759,7 +752,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/asm-international/marketcap/",
         "error": "ValueError"
       }
@@ -773,7 +766,7 @@
           "publishedAt": "2026-09-28T07:00:00Z",
           "publisher": "note",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -790,12 +783,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 1,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22KLA%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22KLA%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -803,7 +795,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/kla/marketcap/",
         "error": "ValueError"
       }
@@ -817,7 +809,7 @@
           "publishedAt": "2026-10-26T07:00:00Z",
           "publisher": "日刊工業新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -827,7 +819,7 @@
           "publishedAt": "2026-10-10T07:00:00Z",
           "publisher": "ニュースイッチ by 日刊工業新聞社",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -867,7 +859,7 @@
           "publishedAt": "2026-10-01T07:00:00Z",
           "publisher": "OPTRONICS ONLINE",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -877,7 +869,7 @@
           "publishedAt": "2026-09-30T07:00:00Z",
           "publisher": "ニュースメディアVOIX",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -887,7 +879,7 @@
           "publishedAt": "2026-09-18T07:00:00Z",
           "publisher": "電波新聞デジタル",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -904,12 +896,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 5,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E7%AB%8B%E3%83%8F%E3%82%A4%E3%83%86%E3%82%AF%22+OR+%22Hitachi+High-Tech%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E7%AB%8B%E3%83%8F%E3%82%A4%E3%83%86%E3%82%AF%22+OR+%22Hitachi+High-Tech%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -928,17 +919,17 @@
           "publishedAt": "2026-11-02T08:00:00Z",
           "publisher": "マイナビニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
           "id": "c29c256d93612b3fee2f",
           "title": "SCREEN、半導体装置増産へ長岡京に250億円 - LOGISTICS TODAY",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hbll0S0NOT1Z2SkdVVmZXQzMxcnFCV0Vhalp0UmZZSjdnc0EzZG0xUGl2LWV6YzRGcHVlVmtaZzU5QlZaQm5LUjBR?oc=5",
-          "publishedAt": "2026-11-02T06:58:24Z",
+          "publishedAt": "2026-11-02T08:00:00Z",
           "publisher": "LOGISTICS TODAY",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -958,7 +949,7 @@
           "publishedAt": "2026-09-24T07:00:00Z",
           "publisher": "マイナビニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -968,31 +959,30 @@
           "publishedAt": "2026-09-18T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 4,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22SCREEN%22+OR+%22SCREEN+Holdings%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22SCREEN%22+OR+%22SCREEN+Holdings%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "sourceUrl": "https://www.screen.co.jp/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/screen-holdings/marketcap/",
         "error": "ValueError"
       }
@@ -1060,6 +1050,16 @@
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
+          "id": "90a6275f12e11c1f7290",
+          "title": "東京精密---大幅続落、半導体関連地合い悪の中で決算が出尽くし材料に(フィスコ) - Yahoo!ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNci05UTh1WkNhZGZueVRoYTBhY3MzMnA5WGNnNnBNeE15TEtka1BoYnJ2LWZaMk5EOFdOWGhjNW5fYnlxX09jSU1LM05tQllVLWwxSDNOVTFnMk5uTWhNNjNFRjRKYzNlTGR4RG02cThESExjM0I3ajYyRk02NktJTFlnUTB0OFU?oc=5",
+          "publishedAt": "2026-11-05T05:23:56Z",
+          "publisher": "Yahoo!ファイナンス",
+          "kind": "news",
+          "retrievedAt": "2026-11-23T02:20:27Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
           "id": "9dca6b07455d0b8f0eff",
           "title": "東京精密---大幅続落、半導体関連地合い悪の中で決算が出尽くし材料に - TradingView",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRbXBidkYyS09BZmR1aHRSSjJESllEZXdWV2piUktNd0xkYnRGeG9MS1pnMWg0d1pPRnVWTlF1cTdmdjNHcXZJR1dnamliQWdWcWtCTTFBUjBaVzRieHlGYnhrZjhkUQ?oc=5",
@@ -1113,12 +1113,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
-          "matchedCount": 2,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%9D%B1%E4%BA%AC%E7%B2%BE%E5%AF%86%22+OR+%22ACCRETECH%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 1,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%9D%B1%E4%BA%AC%E7%B2%BE%E5%AF%86%22+OR+%22ACCRETECH%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -1126,7 +1125,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/tokyo-seimitsu/marketcap/",
         "error": "HTTP 404"
       }
@@ -1140,7 +1139,7 @@
           "publishedAt": "2026-11-20T10:22:00Z",
           "publisher": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1150,7 +1149,7 @@
           "publishedAt": "2026-11-19T11:47:00Z",
           "publisher": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1160,7 +1159,7 @@
           "publishedAt": "2026-11-18T09:41:00Z",
           "publisher": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1207,12 +1206,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
-          "matchedCount": 4,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22Besi%22+OR+%22BE+Semiconductor+Industries%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 3,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22Besi%22+OR+%22BE+Semiconductor+Industries%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -1220,7 +1218,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/besi/marketcap/",
         "error": "HTTP 404"
       }
@@ -1262,8 +1260,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22ASMPT%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -1273,7 +1271,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/asmpt/marketcap/",
         "error": "HTTP 404"
       }
@@ -1297,7 +1295,7 @@
           "publishedAt": "2026-10-07T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -1305,8 +1303,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 1,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22TOWA%22+OR+%22TOWA+Corporation%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -1316,7 +1314,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/towa/marketcap/",
         "error": "HTTP 404"
       }
@@ -1330,7 +1328,7 @@
           "publishedAt": "2026-11-20T05:30:46Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1340,7 +1338,7 @@
           "publishedAt": "2026-11-20T01:56:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1350,7 +1348,7 @@
           "publishedAt": "2026-11-20T01:33:33Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1360,7 +1358,7 @@
           "publishedAt": "2026-11-20T01:30:00Z",
           "publisher": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1370,7 +1368,7 @@
           "publishedAt": "2026-11-20T01:23:27Z",
           "publisher": "株探",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1384,13 +1382,23 @@
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
+          "id": "ef4ffcce9d6c4c94887d",
+          "title": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目（ダイヤモンド・ザイ） - Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIQThNMzVwTHYwc1FmLW5YY1MzNDFfNnJTdW90SS1UQmtFdGhYZlRSakdzSXM1TmVYYjhKSmpLVTl4YnZjRzUzdEZSb3JuN3NJdGtFWk81cTdJbHZkOVU5UWRTR0hEUTVobE15MWRtSHVQTFh0cTlpS1R6VTJEMlU?oc=5",
+          "publishedAt": "2026-11-19T09:55:00Z",
+          "publisher": "Yahoo!ニュース",
+          "kind": "news",
+          "retrievedAt": "2026-11-23T02:20:27Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
           "id": "0d24e97ca78f37f01074",
           "title": "日経平均、半導体株安で801円続落 アドバンテスト1銘柄で257円押し下げ - BigGo ファイナンス",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16cnlXaWdibm1TRlBkSnItR1hMcE1fd2RnNE9Gem9rYXpjeVdQbE5CNFlpRTJKRk9mNXJ4Y2RTT2k5SG9vVkh0b1dZODBPQTNiNjNIMTRPUHJRT0pfTV9kTlBVTkpUc1h3d0VCYzQ0bkk5U2ZX?oc=5",
           "publishedAt": "2026-11-17T08:36:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1400,7 +1408,7 @@
           "publishedAt": "2026-11-17T01:15:45Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1410,7 +1418,7 @@
           "publishedAt": "2026-11-17T00:03:01Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1420,7 +1428,7 @@
           "publishedAt": "2026-11-16T04:29:00Z",
           "publisher": "Bloomberg.com",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1430,29 +1438,18 @@
           "publishedAt": "2026-11-16T04:29:00Z",
           "publisher": "TBS NEWS DIG",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
-          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
-        },
-        {
-          "id": "69236b559ad3e22e81bc",
-          "title": "アドバンテスト株価が大幅反落 米半導体株安が波及、200日平均割る - 日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rUEtValV2LW9CbnpCT0RZNnJnbDhTVnc3Z2JsTnFJS2pYWGE4ZGhrY2l0VzYtb21HLXpMQ1FTLXBLTHlSbnUzTWRfNFVpUW5BQjBMR2d5UU9JZEp0a0V0ODFxQmJKR3VrWXpncA?oc=5",
-          "publishedAt": "2026-11-16T01:26:15Z",
-          "publisher": "日本経済新聞",
-          "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
-          "matchedCount": 40,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%22+OR+%22Advantest%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 38,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%22+OR+%22Advantest%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -1460,7 +1457,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/advantest/marketcap/",
         "error": "ValueError"
       }
@@ -1522,8 +1519,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22Teradyne%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -1533,7 +1530,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/teradyne/marketcap/",
         "error": "ValueError"
       }
@@ -1543,12 +1540,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22PVA+TePla%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22PVA+TePla%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -1556,7 +1552,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/pva-tepla/marketcap/",
         "error": "HTTP 404"
       }
@@ -1567,8 +1563,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22Edwards%22+OR+%22Edwards+Vacuum%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -1609,7 +1605,7 @@
           "publishedAt": "2026-11-19T02:45:02Z",
           "publisher": "レスポンス（Response.jp）",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1639,7 +1635,7 @@
           "publishedAt": "2026-09-27T07:00:00Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1649,7 +1645,7 @@
           "publishedAt": "2026-09-27T07:00:00Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1659,7 +1655,7 @@
           "publishedAt": "2026-09-26T07:00:00Z",
           "publisher": "LIMO | くらしとお金の経済メディア",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1669,7 +1665,7 @@
           "publishedAt": "2026-09-25T07:00:00Z",
           "publisher": "みんかぶ",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1686,12 +1682,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
-          "matchedCount": 6,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E8%8D%8F%E5%8E%9F%E8%A3%BD%E4%BD%9C%E6%89%80%22+OR+%22Ebara%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 5,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E8%8D%8F%E5%8E%9F%E8%A3%BD%E4%BD%9C%E6%89%80%22+OR+%22Ebara%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -1699,7 +1694,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/ebara/marketcap/",
         "error": "HTTP 404"
       }
@@ -1709,12 +1704,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22MKS+Instruments%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22MKS+Instruments%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -1722,7 +1716,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/mks-instruments/marketcap/",
         "error": "ValueError"
       }
@@ -1732,12 +1726,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22VAT+Group%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22VAT+Group%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -1745,7 +1738,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/vat-group/marketcap/",
         "error": "ValueError"
       }
@@ -1766,12 +1759,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22ZEISS%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22ZEISS%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -1790,7 +1782,7 @@
           "publishedAt": "2026-11-16T06:44:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1810,17 +1802,17 @@
           "publishedAt": "2026-11-13T21:00:00Z",
           "publisher": "京都新聞デジタル",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
           "id": "56f3dd4a4a4e30ce78d1",
           "title": "決算:堀場製作所の純利益39%増に上振れ 26年12月期、半導体事業けん引 - 日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CT2o4VUtJR24xTl8yd01pd0oxdUcwQmQ0NlNGZUNQQ0N0VWFiSldsV0JNbjV4QlBFdXctQVRFSmtITGdaRXA3d01majlJcy0tS01wR1c4OC1jZGVLT2NRNndUVWpfdzd0VDM0Zg?oc=5",
-          "publishedAt": "2026-11-13T08:38:10Z",
+          "publishedAt": "2026-11-13T08:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1830,7 +1822,7 @@
           "publishedAt": "2026-10-12T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1850,19 +1842,18 @@
           "publishedAt": "2026-09-15T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 5,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E5%A0%80%E5%A0%B4%E8%A3%BD%E4%BD%9C%E6%89%80%22+OR+%22HORIBA%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E5%A0%80%E5%A0%B4%E8%A3%BD%E4%BD%9C%E6%89%80%22+OR+%22HORIBA%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -1870,7 +1861,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/horiba/marketcap/",
         "error": "ValueError"
       }
@@ -1894,7 +1885,7 @@
           "publishedAt": "2026-09-02T07:00:00Z",
           "publisher": "note",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1906,65 +1897,15 @@
           "kind": "news",
           "retrievedAt": "2026-10-25T23:53:40Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
-        },
-        {
-          "id": "ff97d92ebb754ac3b726",
-          "title": "THK【6481】株価快走、年初来8割高 PBR「1倍割れ」から「3倍」に AI・半導体の追い風と構造改革で躍進、好調は続くのか？ - Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOThsbGFVVkxUbmMxbXR1NUwwbENYR0pocDVfQkJtdEZjOFRpNk5lQU9MT2tDZW14UVIxTFJtZUtFZ3drODJ4RmsxNmphSTRrdWgzdmM1UlZsbGlKb3NkdzN6QTl6VzRhVDBKazA5WXpsTm5qQWxIQXJyaTE0QkQzQUR6bklibU5kemZjVERn?oc=5",
-          "publishedAt": "2026-08-24T08:48:40Z",
-          "publisher": "Yahoo!ニュース",
-          "kind": "news",
-          "retrievedAt": "2026-10-12T15:30:38Z",
-          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
-        },
-        {
-          "id": "9a10c4a8548e69230188",
-          "title": "THK【6481】株価快走、年初来8割高 PBR「1倍割れ」から「3倍」に AI・半導体の追い風と構造改革で躍進、好調は続くのか？ - Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WLWRFVzJqaFY1U0tabmlzdkh6MXQ3Z20tWXdjTGcySDJGSUZxMG15Q1d5ZXg0WWdhTTRTV0ZYbXBDVy1RYTlNWmlHTjRNRzk5WXU2ZUFrQk8yTzBBcXQwVnZRU09OekVMYTgySXRNcTg4WGxPYmJOYURHaGcyc0k?oc=5",
-          "publishedAt": "2026-08-24T07:00:00Z",
-          "publisher": "Yahoo!ニュース",
-          "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
-          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
-        },
-        {
-          "id": "1c47ee0b43be34de5305",
-          "title": "THK【6481】株価快走、年初来8割高 PBR「1倍割れ」から「3倍」に AI・半導体の追い風と構造改革で躍進、好調は続くのか？ - Finasee",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iNGNheWRwcGIxRlRPdEVmZEhrWmV6U3dJT3E2R3RPX1RtRnZZWll0ZTRNRTNHQ1QtSTNwUFFYbXZjUHlSaUpSdXpGVFRjdDVQTkVn?oc=5",
-          "publishedAt": "2026-08-24T07:00:00Z",
-          "publisher": "Finasee",
-          "kind": "news",
-          "retrievedAt": "2026-10-18T23:57:16Z",
-          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
-        },
-        {
-          "id": "54b20d042a685aa4e68c",
-          "title": "THK【6481】株価快走、年初来8割高 PBR「1倍割れ」から「3倍」に AI・半導体の追い風と構造改革で躍進、好調は続くのか？ - ｄメニューニュース",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2clRpTTBQbjd3QXdHejlXU3hwcDRQdVFBbmd1WjFKQlNMTHVzN2JKMFlBckItVGstR2NlMlUweGxGaS0tM09xT3FOYkRUWmdKWFVJRWkxcHF5bjF1bTI5czk5c3NjWHhRdU56R0Qtd1paeFM2MXRHVGJR0gF_QVVfeXFMUGxKMFpzWnhUQWtoY0VPVGxLTF9sMFVlN1IzRXYtMFZubS1GMHZVc1NSQjBMTTVQdlZac2J3UWVCVDJuQVlZWWZaWUtyanFoeGVnN0xNaW5nUXpwRmZWR0djcUJpVEcwN0VBY0IxekVUUUM2ZTNzcHgzaGZTNEF2RQ?oc=5",
-          "publishedAt": "2026-08-24T07:00:00Z",
-          "publisher": "ｄメニューニュース",
-          "kind": "news",
-          "retrievedAt": "2026-11-10T03:58:16Z",
-          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
-        },
-        {
-          "id": "a289cfa9b6bcf5ac822d",
-          "title": "THK【6481】株価快走、年初来8割高 PBR「1倍割れ」から「3倍」に AI・半導体の追い風と構造改革で躍進、好調は続くのか？ - 千葉テレビ放送株式会社",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JamdjYk5hMEw5WFVRZEt4OUVIZDVnUXVUdlFQVXdzT2V5cFl3VXBvZUVnR2FhX2RZR1dNWUgxV0UyQkNOZW9JM0RpZExJYzdDOGR1S3pqbWllX1gycXZN?oc=5",
-          "publishedAt": "2026-08-24T07:00:00Z",
-          "publisher": "千葉テレビ放送株式会社",
-          "kind": "news",
-          "retrievedAt": "2026-11-01T00:45:05Z",
-          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
       "ir": [],
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 3,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 1,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22THK%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
@@ -1973,7 +1914,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/thk/marketcap/",
         "error": "HTTP 404"
       }
@@ -1987,7 +1928,7 @@
           "publishedAt": "2026-11-15T20:03:42Z",
           "publisher": "電波新聞デジタル",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -1997,7 +1938,7 @@
           "publishedAt": "2026-11-02T08:00:00Z",
           "publisher": "電波新聞デジタル",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2007,7 +1948,7 @@
           "publishedAt": "2026-10-30T07:00:00Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2037,19 +1978,18 @@
           "publishedAt": "2026-08-26T07:00:00Z",
           "publisher": "日経ビジネス電子版",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 4,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E6%9C%AC%E3%82%AC%E3%82%A4%E3%82%B7%22+OR+%22NGK+Insulators%22+OR+%22NGK%22+OR+%22%E6%97%A5%E6%9C%AC%E7%A2%8D%E5%AD%90%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E6%9C%AC%E3%82%AC%E3%82%A4%E3%82%B7%22+OR+%22NGK+Insulators%22+OR+%22NGK%22+OR+%22%E6%97%A5%E6%9C%AC%E7%A2%8D%E5%AD%90%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -2057,7 +1997,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/ngk-insulators/marketcap/",
         "error": "ValueError"
       }
@@ -2071,7 +2011,7 @@
           "publishedAt": "2026-11-16T07:30:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2081,7 +2021,7 @@
           "publishedAt": "2026-10-28T07:00:00Z",
           "publisher": "河北新報オンライン",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2121,7 +2061,7 @@
           "publishedAt": "2026-09-06T07:00:00Z",
           "publisher": "マネーポストWEB",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -2129,8 +2069,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 3,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E6%9C%AC%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%22+OR+%22Micronics+Japan%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -2140,7 +2080,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/micronics-japan/marketcap/",
         "error": "ValueError"
       }
@@ -2154,7 +2094,7 @@
           "publishedAt": "2026-09-25T07:00:00Z",
           "publisher": "レスポンス（Response.jp）",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2184,7 +2124,7 @@
           "publishedAt": "2026-09-24T07:00:00Z",
           "publisher": "株探",
           "kind": "news",
-          "retrievedAt": "2026-11-10T03:58:16Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2194,7 +2134,7 @@
           "publishedAt": "2026-09-24T07:00:00Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2204,7 +2144,7 @@
           "publishedAt": "2026-09-24T07:00:00Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2241,12 +2181,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 4,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E5%B1%B1%E4%B8%80%E9%9B%BB%E6%A9%9F%22+OR+%22Yamaichi+Electronics%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E5%B1%B1%E4%B8%80%E9%9B%BB%E6%A9%9F%22+OR+%22Yamaichi+Electronics%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -2254,7 +2193,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/yamaichi-electronics/marketcap/",
         "error": "HTTP 404"
       }
@@ -2278,7 +2217,7 @@
           "publishedAt": "2026-11-09T08:00:00Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2288,19 +2227,18 @@
           "publishedAt": "2026-09-17T07:00:00Z",
           "publisher": "JBpress",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 2,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22JSR%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22JSR%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -2319,7 +2257,7 @@
           "publishedAt": "2026-11-17T08:37:09Z",
           "publisher": "国立大学法人 岡山大学",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2329,7 +2267,7 @@
           "publishedAt": "2026-11-16T05:00:44Z",
           "publisher": "Unisba Media",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2339,7 +2277,7 @@
           "publishedAt": "2026-11-16T01:27:00Z",
           "publisher": "中国新聞デジタル",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2349,7 +2287,7 @@
           "publishedAt": "2026-11-15T04:41:06Z",
           "publisher": "Unisba Media",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2409,7 +2347,7 @@
           "publishedAt": "2026-10-27T07:00:00Z",
           "publisher": "マネーポストWEB",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2441,7 +2379,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -2451,7 +2389,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -2461,7 +2399,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -2471,7 +2409,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -2507,24 +2445,23 @@
       ],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 11,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%22+OR+%22DISCO+Corporation%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%22+OR+%22DISCO+Corporation%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 4,
           "sourceUrl": "https://www.disco.co.jp/jp/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/disco/marketcap/",
         "error": "HTTP 404"
       }
@@ -2538,7 +2475,7 @@
           "publishedAt": "2026-11-16T01:36:38Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2548,7 +2485,7 @@
           "publishedAt": "2026-10-31T07:00:00Z",
           "publisher": "Dellows News",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2558,7 +2495,7 @@
           "publishedAt": "2026-10-24T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2578,7 +2515,7 @@
           "publishedAt": "2026-10-21T07:00:00Z",
           "publisher": "ニュースメディアVOIX",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2598,7 +2535,7 @@
           "publishedAt": "2026-10-20T07:00:00Z",
           "publisher": "www.ctiweb.co.jp",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2608,7 +2545,7 @@
           "publishedAt": "2026-10-20T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2628,7 +2565,7 @@
           "publishedAt": "2026-10-13T07:00:00Z",
           "publisher": "EE Times Japan",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2656,8 +2593,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 16,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%9D%B1%E4%BA%AC%E5%BF%9C%E5%8C%96%E5%B7%A5%E6%A5%AD%22+OR+%22Tokyo+Ohka+Kogyo%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -2667,7 +2604,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/tokyo-ohka-kogyo/marketcap/",
         "error": "ValueError"
       }
@@ -2681,7 +2618,7 @@
           "publishedAt": "2026-11-17T00:30:54Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2691,7 +2628,7 @@
           "publishedAt": "2026-11-11T08:00:00Z",
           "publisher": "日経クロステック",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2711,7 +2648,7 @@
           "publishedAt": "2026-11-05T08:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2721,7 +2658,7 @@
           "publishedAt": "2026-11-02T08:00:00Z",
           "publisher": "テレビ東京",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2731,7 +2668,7 @@
           "publishedAt": "2026-11-02T08:00:00Z",
           "publisher": "日経クロステック",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2798,12 +2735,11 @@
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
-          "matchedCount": 24,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E5%AF%8C%E5%A3%AB%E3%83%95%E3%82%A4%E3%83%AB%E3%83%A0%22+OR+%22Fujifilm%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 22,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22%E5%AF%8C%E5%A3%AB%E3%83%95%E3%82%A4%E3%83%AB%E3%83%A0%22+OR+%22Fujifilm%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "unconfigured"
@@ -2811,7 +2747,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/fujifilm/marketcap/",
         "error": "ValueError"
       }
@@ -2825,7 +2761,7 @@
           "publishedAt": "2026-09-07T07:00:00Z",
           "publisher": "風傳媒日本語版",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -2833,8 +2769,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 1,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22Merck%22+OR+%22Merck+KGaA%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -2844,7 +2780,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/merck-kgaa/marketcap/",
         "error": "ValueError"
       }
@@ -2855,8 +2791,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E6%9C%AC%E9%85%B8%E7%B4%A0%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%22+OR+%22Nippon+Sanso%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -2866,7 +2802,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/nippon-sanso/marketcap/",
         "error": "ValueError"
       }
@@ -2877,8 +2813,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22Air+Liquide%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -2888,7 +2824,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/air-liquide/marketcap/",
         "error": "ValueError"
       }
@@ -2912,7 +2848,7 @@
           "publishedAt": "2026-10-19T07:00:00Z",
           "publisher": "電波新聞デジタル",
           "kind": "news",
-          "retrievedAt": "2026-11-20T02:52:04Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -2922,31 +2858,30 @@
           "publishedAt": "2026-09-04T07:00:00Z",
           "publisher": "週刊エコノミスト Online",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
       "ir": [],
       "sources": {
         "news": {
-          "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-21T02:59:42Z",
-          "matchedCount": 1,
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22SUMCO%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja",
-          "error": "HTTP 503"
+          "state": "ok",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 2,
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22SUMCO%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "sourceUrl": "https://www.sumcosi.com/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/sumco/marketcap/",
         "error": "HTTP 404"
       }
@@ -2957,8 +2892,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%82%B9%E3%83%86%E3%83%A9%E3%82%B1%E3%83%9F%E3%83%95%E3%82%A1%22+OR+%22Stella+Chemifa%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -2968,7 +2903,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/stella-chemifa/marketcap/",
         "error": "HTTP 404"
       }
@@ -2979,8 +2914,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22Entegris%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -2990,7 +2925,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/entegris/marketcap/",
         "error": "ValueError"
       }
@@ -3014,7 +2949,7 @@
           "publishedAt": "2026-11-04T08:00:00Z",
           "publisher": "マイナビニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3024,7 +2959,7 @@
           "publishedAt": "2026-11-04T08:00:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3034,7 +2969,7 @@
           "publishedAt": "2026-11-04T08:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3044,7 +2979,7 @@
           "publishedAt": "2026-11-04T08:00:00Z",
           "publisher": "MONOist",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3054,7 +2989,7 @@
           "publishedAt": "2026-11-04T08:00:00Z",
           "publisher": "Tokyo Brief",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3074,7 +3009,7 @@
           "publishedAt": "2026-10-30T07:00:00Z",
           "publisher": "Infoseek",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3084,7 +3019,7 @@
           "publishedAt": "2026-10-30T07:00:00Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3114,7 +3049,7 @@
           "publishedAt": "2026-10-27T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -3122,9 +3057,9 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 20,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 19,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E4%BD%8F%E5%8F%8B%E3%83%99%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88%22+OR+%22Sumitomo+Bakelite%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
@@ -3133,7 +3068,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/sumitomo-bakelite/marketcap/",
         "error": "HTTP 404"
       }
@@ -3147,7 +3082,7 @@
           "publishedAt": "2026-11-18T04:45:02Z",
           "publisher": "レスポンス（Response.jp）",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3157,7 +3092,7 @@
           "publishedAt": "2026-11-18T04:45:02Z",
           "publisher": "レスポンス（Response.jp）",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3177,7 +3112,7 @@
           "publishedAt": "2026-11-16T03:00:00Z",
           "publisher": "ニュースイッチ by 日刊工業新聞社",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3197,7 +3132,7 @@
           "publishedAt": "2026-11-12T08:00:00Z",
           "publisher": "日刊工業新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3207,7 +3142,7 @@
           "publishedAt": "2026-10-15T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3227,7 +3162,7 @@
           "publishedAt": "2026-09-08T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3247,7 +3182,7 @@
           "publishedAt": "2026-09-07T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3257,7 +3192,7 @@
           "publishedAt": "2026-09-07T07:00:00Z",
           "publisher": "マイナビニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -3265,8 +3200,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 9,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E6%9D%B1%E9%9B%BB%E5%B7%A5%22+OR+%22Nitto+Denko%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -3276,7 +3211,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/nitto-denko/marketcap/",
         "error": "ValueError"
       }
@@ -3290,7 +3225,7 @@
           "publishedAt": "2026-10-23T07:00:00Z",
           "publisher": "環境ビジネスオンライン",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3300,7 +3235,7 @@
           "publishedAt": "2026-10-22T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3318,8 +3253,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 2,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E7%94%B0%E4%B8%AD%E8%B2%B4%E9%87%91%E5%B1%9E%22+OR+%22Tanaka+Precious+Metals%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -3350,7 +3285,7 @@
           "publishedAt": "2026-11-13T04:12:27Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3390,7 +3325,7 @@
           "publishedAt": "2026-11-12T08:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3430,7 +3365,7 @@
           "publishedAt": "2026-11-11T08:00:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3440,7 +3375,7 @@
           "publishedAt": "2026-11-11T08:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3450,7 +3385,7 @@
           "publishedAt": "2026-11-11T08:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -3462,7 +3397,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -3472,7 +3407,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -3482,7 +3417,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -3492,7 +3427,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -3502,7 +3437,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -3529,22 +3464,22 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 28,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 23,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%AC%E3%82%BE%E3%83%8A%E3%83%83%E3%82%AF%22+OR+%22Resonac%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 5,
           "sourceUrl": "https://www.resonac.com/jp/ir"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/resonac/marketcap/",
         "error": "HTTP 404"
       }
@@ -3558,7 +3493,7 @@
           "publishedAt": "2026-10-29T07:00:00Z",
           "publisher": "note",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3568,7 +3503,7 @@
           "publishedAt": "2026-10-27T07:00:00Z",
           "publisher": "日本投資機構株式会社",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3578,7 +3513,7 @@
           "publishedAt": "2026-10-13T07:00:00Z",
           "publisher": "現代ビジネス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3588,7 +3523,7 @@
           "publishedAt": "2026-10-13T07:00:00Z",
           "publisher": "現代ビジネス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3680,7 +3615,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -3690,7 +3625,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -3700,7 +3635,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -3710,7 +3645,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -3720,7 +3655,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -3730,7 +3665,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -3740,7 +3675,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -3807,15 +3742,15 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 4,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E4%BF%A1%E8%B6%8A%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%22+OR+%22Shin-Etsu+Chemical%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "partial",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 7,
           "sourceUrl": "https://www.shinetsu.co.jp/jp/ir/",
           "error": "ValueError"
@@ -3823,7 +3758,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/shin-etsu-chemical/marketcap/",
         "error": "ValueError"
       }
@@ -3837,7 +3772,7 @@
           "publishedAt": "2026-10-27T07:00:00Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3875,8 +3810,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 1,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%22+OR+%22SINFONIA+TECHNOLOGY%22+OR+%22%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -3886,7 +3821,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/sinfonia-technology/marketcap/",
         "error": "ValueError"
       }
@@ -3894,13 +3829,33 @@
     "rorze": {
       "news": [
         {
+          "id": "8ec11a17a3cb2c943f45",
+          "title": "ローツェの半導体関連子会社が新社屋整備 開発スペース拡充、グループ連携強化 - 山陽新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9INmEwbzNVMXk2bFBudlpoY3pfT0NLTlFVTG96bjJFOWlfYzgxNFNyYmE5MTBkVDc5U2Q1MjRLdmt5M29jSTd4WEdNLTNyRXRVN0E?oc=5",
+          "publishedAt": "2026-11-21T08:00:00Z",
+          "publisher": "山陽新聞",
+          "kind": "news",
+          "retrievedAt": "2026-11-23T02:20:27Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "1445fecc54ae1ba70249",
+          "title": "ローツェ 上海に製造会社を設立 主力の半導体搬送装置を現地生産 - 山陽新聞",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80Nk1DTHg2eWwwdkdGWThYVHh1YWJXOTVZeDlzNkwtTXZaQkNuVWpkbnRBSDNEeURaQ1NlNWttYlI1Ym9wUUg3UXdpSmhlVXJSQnc?oc=5",
+          "publishedAt": "2026-11-20T08:00:00Z",
+          "publisher": "山陽新聞",
+          "kind": "news",
+          "retrievedAt": "2026-11-23T02:20:27Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
           "id": "67292e7298fd7f9966a0",
           "title": "｢AI需要衰えない｣ 搬送システムのローツェ社長､半導体から見た景気 - 日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44dVB0YnFDcEtJdDhXU1U1OTdacWhzLWxEMTMxaXdWSG1UakNZbWJfOG11WVg0WDl1UEdUMEdYNXJZTWFuUE5aZW53RWRobWFzVkRxZjRQQVRmV01heDJ4QTJIYWlLNkJDcXZDcA?oc=5",
           "publishedAt": "2026-11-15T17:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3970,7 +3925,7 @@
           "publishedAt": "2026-10-18T07:00:00Z",
           "publisher": "マネーポストWEB",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3980,7 +3935,7 @@
           "publishedAt": "2026-10-09T07:00:00Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -3992,35 +3947,15 @@
           "kind": "news",
           "retrievedAt": "2026-11-10T03:58:16Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
-        },
-        {
-          "id": "7d61741318c2eee25709",
-          "title": "ローツェ株価がストップ高 27年2月期上方修正、半導体関連装置が伸長 - 日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fY1h0WGNDM2hXRDFVSDdqWjBJZzVFV0F3a0M5QVdKYnVKUHB3ZXFQM1RGa3ZWblJCMzNrcXo2ZWxUbU55c0RRN01ZdjNKMk5jZFBKTklSYVE1ZFBCRjl3N1RfLVlFOUl3MFlVMg?oc=5",
-          "publishedAt": "2026-10-09T07:00:00Z",
-          "publisher": "日本経済新聞",
-          "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
-          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
-        },
-        {
-          "id": "74f0a9571d15b9c750fc",
-          "title": "ローツェが通期営業利益を531億円に大幅上方修正、半導体需要が追い風 - BigGo ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OREk3dGdoSDR3elh0anF4cVJMRHdrLWw3VE03MjhOaGczdU9GWjdEVnBUeXRVRWdMRkQ1NGFlVnZ3TXFNWXN2NkZCU2xDY21DX2tRZHV2NzJ1WVFYdGptM29MVFBNcWNsNWV3T1NZMXZXX0VM?oc=5",
-          "publishedAt": "2026-10-08T07:00:00Z",
-          "publisher": "BigGo ファイナンス",
-          "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
-          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
       "ir": [],
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 9,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 11,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%AD%E3%83%BC%E3%83%84%E3%82%A7%22+OR+%22RORZE%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
@@ -4029,7 +3964,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/rorze/marketcap/",
         "error": "HTTP 404"
       }
@@ -4063,7 +3998,7 @@
           "publishedAt": "2026-11-18T00:35:00Z",
           "publisher": "ｄメニューニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4103,7 +4038,7 @@
           "publishedAt": "2026-10-20T07:00:00Z",
           "publisher": "M&A Online",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4113,7 +4048,7 @@
           "publishedAt": "2026-10-20T07:00:00Z",
           "publisher": "Tokyo Brief",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4123,7 +4058,7 @@
           "publishedAt": "2026-08-31T07:00:00Z",
           "publisher": "建設通信新聞Digital",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4143,7 +4078,7 @@
           "publishedAt": "2026-08-28T07:00:00Z",
           "publisher": "北國新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4153,7 +4088,7 @@
           "publishedAt": "2026-08-27T07:00:00Z",
           "publisher": "au Webポータル",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -4161,8 +4096,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 6,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC%E3%83%86%E3%83%83%E3%82%AF%22+OR+%22Ferrotec%22+OR+%22%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC%E3%83%86%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -4172,7 +4107,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/ferrotec/marketcap/",
         "error": "HTTP 404"
       }
@@ -4206,7 +4141,7 @@
           "publishedAt": "2026-09-26T07:00:00Z",
           "publisher": "中国新聞デジタル",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4216,7 +4151,7 @@
           "publishedAt": "2026-09-24T07:00:00Z",
           "publisher": "47NEWS",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4226,7 +4161,7 @@
           "publishedAt": "2026-09-12T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4236,7 +4171,7 @@
           "publishedAt": "2026-08-26T07:00:00Z",
           "publisher": "中国経済産業局",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -4244,8 +4179,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 4,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%82%BF%E3%83%84%E3%83%A2%22+OR+%22TATSUMO%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -4255,7 +4190,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/tatsumo/marketcap/",
         "error": "HTTP 404"
       }
@@ -4269,7 +4204,7 @@
           "publishedAt": "2026-11-02T08:00:00Z",
           "publisher": "MONOist",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4279,7 +4214,7 @@
           "publishedAt": "2026-10-16T07:00:00Z",
           "publisher": "LOGISTICS TODAY",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -4287,8 +4222,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 2,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%9D%91%E7%94%B0%E6%A9%9F%E6%A2%B0%22+OR+%22Murata+Machinery%22+OR+%22MURATEC%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -4357,8 +4292,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E9%87%8E%E6%9D%91%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%BB%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%22+OR+%22%E9%87%8E%E6%9D%91%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%22+OR+%22Nomura+Micro+Science%22+OR+%22Nomura+Micro+Science+Co%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -4368,7 +4303,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/nomura-micro-science/marketcap/",
         "error": "HTTP 404"
       }
@@ -4382,7 +4317,7 @@
           "publishedAt": "2026-11-05T08:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -4390,8 +4325,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 1,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%A0%97%E7%94%B0%E5%B7%A5%E6%A5%AD%22+OR+%22Kurita+Water+Industries%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -4401,7 +4336,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/kurita-water-industries/marketcap/",
         "error": "ValueError"
       }
@@ -4433,8 +4368,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E6%9D%90%E6%96%99%22+OR+%22Japan+Electronic+Materials%22+OR+%22Japan+Electronic+Materials+Corporation%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -4444,7 +4379,7 @@
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/japan-electronic-materials/marketcap/",
         "error": "HTTP 404"
       }
@@ -4458,7 +4393,7 @@
           "publishedAt": "2026-11-11T08:00:00Z",
           "publisher": "物流ニュースのLNEWS",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4498,7 +4433,7 @@
           "publishedAt": "2026-10-05T07:00:00Z",
           "publisher": "週刊エコノミスト Online",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4508,7 +4443,7 @@
           "publishedAt": "2026-09-25T07:00:00Z",
           "publisher": "さっつーのAIエージェント",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4518,7 +4453,7 @@
           "publishedAt": "2026-09-09T07:00:00Z",
           "publisher": "マイナビニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4528,7 +4463,7 @@
           "publishedAt": "2026-09-09T07:00:00Z",
           "publisher": "日刊工業新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4550,7 +4485,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -4567,22 +4502,22 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 5,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%80%E3%82%A4%E3%83%95%E3%82%AF%22+OR+%22Daifuku%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 1,
           "sourceUrl": "https://www.daifuku.com/jp/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/daifuku/marketcap/",
         "error": "ValueError"
       }
@@ -4593,8 +4528,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%86%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%89%E3%83%95%E3%82%A9%E3%83%88%E3%83%9E%E3%82%B9%E3%82%AF%22+OR+%22%E3%83%86%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%89%22+OR+%22Tekscend+Photomask%22+OR+%22Toppan+Photomask%22+OR+%22%E3%83%88%E3%83%83%E3%83%91%E3%83%B3%E3%83%95%E3%82%A9%E3%83%88%E3%83%9E%E3%82%B9%E3%82%AF%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -4615,17 +4550,7 @@
           "publishedAt": "2026-09-24T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
-          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
-        },
-        {
-          "id": "6e367e986571348237cf",
-          "title": "【芝浦メカトロニクス】先端パッケージの黒衣の正体〜AI半導体の超積層化を支える「CoWoSの隠れた心臓部」を牛耳る、装置の要塞〜｜Semiconductor Geek - note",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zVV81TDAxRmJGLURDZERxdnVDZzN0dVVfY0V0UVRTUTF6b2VuaFpvTGRTVlRCUFp0UEQ2d3h1SzR5RmZmQzZSMGdVSDQtd1JTa0dWbFBzRmRwSXRJb3c?oc=5",
-          "publishedAt": "2026-08-24T07:00:00Z",
-          "publisher": "note",
-          "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -4633,22 +4558,22 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 2,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 1,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E8%8A%9D%E6%B5%A6%E3%83%A1%E3%82%AB%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%22+OR+%22Shibaura+Mechatronics%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "sourceUrl": "https://www.shibaura.co.jp/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/shibaura-mechatronics/marketcap/",
         "error": "ValueError"
       }
@@ -4662,7 +4587,7 @@
           "publishedAt": "2026-11-02T08:00:00Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4732,7 +4657,7 @@
           "publishedAt": "2026-10-30T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4742,7 +4667,7 @@
           "publishedAt": "2026-10-30T07:00:00Z",
           "publisher": "エコノミックニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-18T03:21:52Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4762,7 +4687,7 @@
           "publishedAt": "2026-10-30T07:00:00Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4772,7 +4697,7 @@
           "publishedAt": "2026-10-30T05:02:40Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -4780,22 +4705,22 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 10,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%86%E3%83%83%E3%82%AF%22+OR+%22Lasertec%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "sourceUrl": "https://www.lasertec.co.jp/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/lasertec/marketcap/",
         "error": "ValueError"
       }
@@ -4831,7 +4756,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -4848,22 +4773,22 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22HOYA%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A4%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 1,
           "sourceUrl": "https://www.hoya.com/investor/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/hoya/marketcap/",
         "error": "ValueError"
       }
@@ -4877,7 +4802,7 @@
           "publishedAt": "2026-11-16T03:15:00Z",
           "publisher": "オートメーション新聞WEB",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4887,7 +4812,7 @@
           "publishedAt": "2026-11-13T08:00:00Z",
           "publisher": "三菱ケミカルグループ",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4897,7 +4822,17 @@
           "publishedAt": "2026-11-13T08:00:00Z",
           "publisher": "ニュースイッチ by 日刊工業新聞社",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "1b2671d8c45cb7e9376a",
+          "title": "｢半導体｣追い風…三菱ケミカルG･旭化成･住友化学など化学5社､通期見通し相次ぎ上方修正 (ニュースイッチ) - Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHZyMHYzTFpMLVRJcTNJV1VEMDROdVJ6U3M0dHJfZ1pkTjd0UmV1YTFaZzdYZDhTb0l0ekRWai1TdXRmQXJ4UklLME5TYVFPYThaZ1BfeExxT2pQenhTbTYwandXUTNmZ0hHZjZWSFFHenBFdEhjMExQc096bGJJQ05PTTZ3czBvU0haM1hn?oc=5",
+          "publishedAt": "2026-11-13T08:00:00Z",
+          "publisher": "Yahoo!ニュース",
+          "kind": "news",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4907,17 +4842,7 @@
           "publishedAt": "2026-11-13T02:45:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
-          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
-        },
-        {
-          "id": "1b2671d8c45cb7e9376a",
-          "title": "｢半導体｣追い風…三菱ケミカルG･旭化成･住友化学など化学5社､通期見通し相次ぎ上方修正 (ニュースイッチ) - Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHZyMHYzTFpMLVRJcTNJV1VEMDROdVJ6U3M0dHJfZ1pkTjd0UmV1YTFaZzdYZDhTb0l0ekRWai1TdXRmQXJ4UklLME5TYVFPYThaZ1BfeExxT2pQenhTbTYwandXUTNmZ0hHZjZWSFFHenBFdEhjMExQc096bGJJQ05PTTZ3czBvU0haM1hn?oc=5",
-          "publishedAt": "2026-11-13T02:20:02Z",
-          "publisher": "Yahoo!ニュース",
-          "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4927,7 +4852,7 @@
           "publishedAt": "2026-11-13T00:57:48Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4957,7 +4882,7 @@
           "publishedAt": "2026-11-12T21:30:16Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4967,7 +4892,17 @@
           "publishedAt": "2026-11-12T08:00:00Z",
           "publisher": "MONOist",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "00b9bfa7fb982efd2d6a",
+          "title": "三菱ケミカルＧ－ＳＢＩが目標株価引き上げ 半導体材料とZoox向けCFRP部品が中期成長を支える - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xcVR3QUNqS0pyUUtYY0hONERDXzdXamNLU2M2Zks0ZmZ5Vnl2SFlFeTZtSWU0eUlNamVjY1NSWDR2V01fQkdnMVpiQk0tbG9WT0djanZnblJ4QVoyeXBpb2tfQ2NDNjFVTmN0dGtsUQ?oc=5",
+          "publishedAt": "2026-11-12T08:00:00Z",
+          "publisher": "TradingView",
+          "kind": "news",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -4979,25 +4914,15 @@
           "kind": "news",
           "retrievedAt": "2026-11-12T02:43:45Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
-        },
-        {
-          "id": "80dd77157e57f372c3e0",
-          "title": "三菱ケミカルグループ(4188) コア営業利益の見通しを若干減額したものの、半導体関連製品は想定以上に拡大 - QUICK Money World",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmaW5yREg3Mlg4SmRGWUxTbkVrQ3RvcllSNjN3NEprYThZWE1TbGFadk1wWmdxalh0cUY3WnB2YlhCZXN0Rk0wN09PVTNYM1NxbEt5cDJn?oc=5",
-          "publishedAt": "2026-11-11T01:30:00Z",
-          "publisher": "QUICK Money World",
-          "kind": "news",
-          "retrievedAt": "2026-11-14T01:59:54Z",
-          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
       "ir": [],
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 26,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 28,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E4%B8%89%E8%8F%B1%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%22+OR+%22Mitsubishi+Chemical%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
@@ -5017,7 +4942,7 @@
           "publishedAt": "2026-11-20T20:34:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5027,7 +4952,7 @@
           "publishedAt": "2026-10-23T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5037,7 +4962,7 @@
           "publishedAt": "2026-10-23T07:00:00Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5055,22 +4980,22 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 3,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E9%96%A2%E6%9D%B1%E9%9B%BB%E5%8C%96%E5%B7%A5%E6%A5%AD%22+OR+%22%E9%96%A2%E6%9D%B1%E9%9B%BB%E5%8C%96%22+OR+%22Kanto+Denka%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "sourceUrl": "https://www.kantodenka.co.jp/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/kanto-denka-kogyo/marketcap/",
         "error": "HTTP 404"
       }
@@ -5084,7 +5009,7 @@
           "publishedAt": "2026-11-13T08:00:00Z",
           "publisher": "ニュースイッチ by 日刊工業新聞社",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5094,17 +5019,17 @@
           "publishedAt": "2026-11-13T08:00:00Z",
           "publisher": "日経クロステック",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
           "id": "1b2671d8c45cb7e9376a",
           "title": "｢半導体｣追い風…三菱ケミカルG･旭化成･住友化学など化学5社､通期見通し相次ぎ上方修正 (ニュースイッチ) - Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHZyMHYzTFpMLVRJcTNJV1VEMDROdVJ6U3M0dHJfZ1pkTjd0UmV1YTFaZzdYZDhTb0l0ekRWai1TdXRmQXJ4UklLME5TYVFPYThaZ1BfeExxT2pQenhTbTYwandXUTNmZ0hHZjZWSFFHenBFdEhjMExQc096bGJJQ05PTTZ3czBvU0haM1hn?oc=5",
-          "publishedAt": "2026-11-13T02:20:02Z",
+          "publishedAt": "2026-11-13T08:00:00Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5121,10 +5046,10 @@
           "id": "8682c211cd53624229ec",
           "title": "AIや自動化技術で、半導体向け感光性絶縁材料を開発：旭化成がスマートラボラトリー開設 - EE Times Japan",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aczlfTFBqTEZLN0hmd0pmNVpsTDVkV0FSUVdQdjJINlRRZTNZV2hlZnBTUmNZTVVmRXUyNzVBUFJXczBZUnRkNFVCcWk3VGxYOVFXZTBSZkNlUzBrMElYZ1JjNGRsZzVGQjltSWgxWQ?oc=5",
-          "publishedAt": "2026-11-09T00:30:00Z",
+          "publishedAt": "2026-11-09T08:00:00Z",
           "publisher": "EE Times Japan",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5134,7 +5059,7 @@
           "publishedAt": "2026-11-06T08:00:00Z",
           "publisher": "MONOist",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5144,7 +5069,7 @@
           "publishedAt": "2026-11-06T01:27:01Z",
           "publisher": "https://kabu-ir.com/",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5164,7 +5089,7 @@
           "publishedAt": "2026-11-05T08:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5174,7 +5099,7 @@
           "publishedAt": "2026-11-05T08:00:00Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5184,7 +5109,7 @@
           "publishedAt": "2026-11-05T08:00:00Z",
           "publisher": "ニュースメディアVOIX",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5194,7 +5119,7 @@
           "publishedAt": "2026-10-28T07:00:00Z",
           "publisher": "ロボスタ",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -5202,22 +5127,22 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 28,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 27,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%AD%E5%8C%96%E6%88%90%22+OR+%22Asahi+Kasei%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "sourceUrl": "https://www.asahi-kasei.com/jp/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/asahi-kasei/marketcap/",
         "error": "ValueError"
       }
@@ -5231,7 +5156,7 @@
           "publishedAt": "2026-11-16T20:10:00Z",
           "publisher": "ニッキンONLINE",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5241,7 +5166,7 @@
           "publishedAt": "2026-11-10T08:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5281,7 +5206,7 @@
           "publishedAt": "2026-11-09T08:00:00Z",
           "publisher": "MONOist",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5291,7 +5216,7 @@
           "publishedAt": "2026-11-06T08:00:00Z",
           "publisher": "マイナビニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5301,7 +5226,7 @@
           "publishedAt": "2026-11-06T08:00:00Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5311,7 +5236,7 @@
           "publishedAt": "2026-11-06T08:00:00Z",
           "publisher": "LOGISTICS TODAY",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5321,7 +5246,7 @@
           "publishedAt": "2026-11-05T08:00:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5331,7 +5256,7 @@
           "publishedAt": "2026-11-05T08:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5349,15 +5274,15 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 25,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 24,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22JX%E9%87%91%E5%B1%9E%22+OR+%22JX+Advanced+Metals%22+OR+%22JX+Nippon+Mining+%26+Metals%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "sourceUrl": "https://www.jx-nmm.com/ir/"
         }
@@ -5375,7 +5300,7 @@
           "publishedAt": "2026-11-20T12:20:29Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5395,7 +5320,7 @@
           "publishedAt": "2026-11-19T23:00:00Z",
           "publisher": "ダイヤモンド・オンライン",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5435,7 +5360,7 @@
           "publishedAt": "2026-09-29T07:00:00Z",
           "publisher": "株探",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5453,22 +5378,22 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 4,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 3,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%89%B6%E6%A1%91%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%22+OR+%22%E6%89%B6%E6%A1%91%E5%8C%96%E5%AD%A6%22+OR+%22Fuso+Chemical%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "sourceUrl": "https://www.fusokk.co.jp/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/fuso-chemical/marketcap/",
         "error": "ValueError"
       }
@@ -5482,7 +5407,7 @@
           "publishedAt": "2026-11-19T08:33:12Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5492,7 +5417,7 @@
           "publishedAt": "2026-11-18T12:20:00Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5512,7 +5437,7 @@
           "publishedAt": "2026-11-18T01:30:00Z",
           "publisher": "QUICK Money World",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5522,7 +5447,7 @@
           "publishedAt": "2026-11-16T03:09:00Z",
           "publisher": "Reuters",
           "kind": "news",
-          "retrievedAt": "2026-11-21T02:59:42Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5532,17 +5457,17 @@
           "publishedAt": "2026-11-16T02:05:09Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
           "id": "7d12759ba9dfa1132ff6",
           "title": "三井化学会長「JSR買収で半導体軸に事業再構成」 債務減へ売却急ぐ - 日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LenFiZXNLN25MSFdPZ0h6ZFJ1U3AtRFZXeXdBdVBUWUYzRjE0UVREdVZ1TkJ5ZjN0dWRmeGxjNmNEVksyNkdsZ2RlN0h4V0N0UzR3U1hNaUNjNlE1VHJ6a0p3T0pkYTJ0aUgxVA?oc=5",
-          "publishedAt": "2026-11-13T20:00:00Z",
+          "publishedAt": "2026-11-14T08:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5552,7 +5477,7 @@
           "publishedAt": "2026-11-13T08:00:00Z",
           "publisher": "ダイヤモンド・オンライン",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5572,7 +5497,7 @@
           "publishedAt": "2026-11-12T08:00:00Z",
           "publisher": "日経ビジネス電子版",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5592,7 +5517,7 @@
           "publishedAt": "2026-11-11T08:00:00Z",
           "publisher": "日経クロステック",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -5604,7 +5529,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -5614,7 +5539,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -5624,7 +5549,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -5634,7 +5559,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -5671,22 +5596,22 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 44,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E4%B8%89%E4%BA%95%E5%8C%96%E5%AD%A6%22+OR+%22Mitsui+Chemicals%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 4,
           "sourceUrl": "https://jp.mitsuichemicals.com/jp/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/mitsui-chemicals/marketcap/",
         "error": "ValueError"
       }
@@ -5720,7 +5645,7 @@
           "publishedAt": "2026-11-19T21:02:00Z",
           "publisher": "ニュースイッチ by 日刊工業新聞社",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5740,7 +5665,7 @@
           "publishedAt": "2026-11-19T06:31:48Z",
           "publisher": "LOGISTICS TODAY",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5760,7 +5685,7 @@
           "publishedAt": "2026-11-19T02:05:09Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5770,7 +5695,7 @@
           "publishedAt": "2026-11-19T02:00:00Z",
           "publisher": "MONOist",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5780,7 +5705,7 @@
           "publishedAt": "2026-11-18T09:52:07Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5790,7 +5715,7 @@
           "publishedAt": "2026-11-17T11:37:10Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5810,7 +5735,7 @@
           "publishedAt": "2026-11-17T07:30:00Z",
           "publisher": "EE Times Japan",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -5822,7 +5747,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -5832,7 +5757,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -5842,7 +5767,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -5889,22 +5814,22 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 13,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 12,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22ADEKA%22+OR+%22%E3%82%A2%E3%83%87%E3%82%AB%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 7,
           "sourceUrl": "https://www.adeka.co.jp/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/adeka/marketcap/",
         "error": "HTTP 404"
       }
@@ -5928,7 +5853,7 @@
           "publishedAt": "2026-11-16T06:10:00Z",
           "publisher": "NET-IB NEWS",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5938,7 +5863,7 @@
           "publishedAt": "2026-11-16T00:19:46Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5958,7 +5883,7 @@
           "publishedAt": "2026-10-09T07:00:00Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5968,7 +5893,7 @@
           "publishedAt": "2026-09-18T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -5978,7 +5903,7 @@
           "publishedAt": "2026-09-11T07:00:00Z",
           "publisher": "読売新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -5986,21 +5911,21 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 6,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 5,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E5%B9%B3%E7%94%B0%E6%A9%9F%E5%B7%A5%22+OR+%22Hirata%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
           "error": "HTTP 404",
           "sourceUrl": "https://www.hirata.co.jp/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/hirata/marketcap/",
         "error": "HTTP 404"
       }
@@ -6014,7 +5939,7 @@
           "publishedAt": "2026-11-20T01:10:02Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6034,7 +5959,7 @@
           "publishedAt": "2026-11-19T21:03:00Z",
           "publisher": "ニュースイッチ by 日刊工業新聞社",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6054,7 +5979,7 @@
           "publishedAt": "2026-10-28T07:00:00Z",
           "publisher": "みんかぶ",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6114,7 +6039,7 @@
           "publishedAt": "2026-10-27T07:00:00Z",
           "publisher": "M&A Online",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6124,7 +6049,7 @@
           "publishedAt": "2026-10-27T07:00:00Z",
           "publisher": "LOGISTICS TODAY",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -6132,21 +6057,21 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 8,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 7,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%82%A2%E3%83%AB%E3%83%90%E3%83%83%E3%82%AF%22+OR+%22ULVAC%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "error",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
           "error": "HTTP 404",
           "sourceUrl": "https://www.ulvac.co.jp/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/ulvac/marketcap/",
         "error": "ValueError"
       }
@@ -6160,7 +6085,7 @@
           "publishedAt": "2026-10-27T07:00:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6170,7 +6095,7 @@
           "publishedAt": "2026-10-26T07:00:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6180,7 +6105,7 @@
           "publishedAt": "2026-10-26T07:00:00Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6200,7 +6125,7 @@
           "publishedAt": "2026-10-26T07:00:00Z",
           "publisher": "Tokyo Brief",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6230,7 +6155,7 @@
           "publishedAt": "2026-09-11T07:00:00Z",
           "publisher": "ビジネス+IT",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -6242,7 +6167,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6252,7 +6177,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6262,7 +6187,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6272,7 +6197,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6282,7 +6207,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6292,7 +6217,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6302,7 +6227,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6312,7 +6237,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6322,7 +6247,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6332,7 +6257,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6342,7 +6267,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6352,7 +6277,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6362,7 +6287,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6372,7 +6297,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6382,22 +6307,22 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         }
       ],
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 5,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E4%BF%A1%E8%B6%8A%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%22+OR+%22Shin-Etsu+Polymer%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 179,
           "sourceUrl": "https://www.shinpoly.co.jp/ir/"
         }
@@ -6415,7 +6340,7 @@
           "publishedAt": "2026-09-28T07:00:00Z",
           "publisher": "M&A Online",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6445,7 +6370,17 @@
           "publishedAt": "2026-09-11T07:00:00Z",
           "publisher": "ビジネス+IT",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
+          "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
+        },
+        {
+          "id": "9f5936fa7fa6786bae8a",
+          "title": "ミライアル－後場下げ幅縮小 上期営業益67％増 AI向け先端半導体需要が増加 - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84YzlZX3dGMUlRYlJlM2ZQdnlXSTZ0VDUtSUdsX2RtMHRpM0RnTHY1NnhDdkJBOWliSFJYWnFjemJaSVRiOTA2aW1IVkdtTmlLVDVGMWp3YTdXX0prcTh2bGIwYy1pWWVZSm94c1M0aw?oc=5",
+          "publishedAt": "2026-09-07T07:00:00Z",
+          "publisher": "TradingView",
+          "kind": "news",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -6453,15 +6388,15 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 2,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 3,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%9F%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%AB%22+OR+%22Miraial%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "sourceUrl": "https://www.miraial.co.jp/ir/"
         }
@@ -6499,7 +6434,7 @@
           "publishedAt": "2026-11-13T08:00:00Z",
           "publisher": "ログミーFinance",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -6511,7 +6446,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6521,7 +6456,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -6558,15 +6493,15 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 1,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22FUJI%22+OR+%22%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEFUJI%22+OR+%22%E5%AF%8C%E5%A3%AB%E6%A9%9F%E6%A2%B0%E8%A3%BD%E9%80%A0%22+OR+%22Fuji+Corporation%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 2,
           "sourceUrl": "https://www.fuji.co.jp/ir/"
         }
@@ -6604,7 +6539,7 @@
           "publishedAt": "2026-11-06T08:00:00Z",
           "publisher": "- 神戸経済ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6634,7 +6569,7 @@
           "publishedAt": "2026-09-12T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6644,7 +6579,7 @@
           "publishedAt": "2026-09-07T07:00:00Z",
           "publisher": "日刊ゲンダイDIGITAL",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -6652,9 +6587,9 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 4,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 3,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%88%E3%83%BC%E3%82%AB%E3%83%AD%22+OR+%22Tocalo%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
@@ -6682,8 +6617,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%22+OR+%22Japan+Material%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -6701,8 +6636,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%86%E3%82%AF%E3%83%8E%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%22+OR+%22Technoflex%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -6743,7 +6678,7 @@
           "publishedAt": "2026-10-29T07:00:00Z",
           "publisher": "Yahoo!ニュース",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6753,7 +6688,7 @@
           "publishedAt": "2026-10-29T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -6761,8 +6696,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 2,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E6%9C%AC%E7%B2%BE%E5%B7%A5%22+OR+%22NSK%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -6783,7 +6718,7 @@
           "publishedAt": "2026-11-11T20:04:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6793,7 +6728,7 @@
           "publishedAt": "2026-10-22T07:00:00Z",
           "publisher": "Yahoo!ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6863,7 +6798,7 @@
           "publishedAt": "2026-09-08T07:00:00Z",
           "publisher": "電波新聞デジタル",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6873,7 +6808,7 @@
           "publishedAt": "2026-08-28T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6901,9 +6836,9 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 5,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 4,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%AA%E3%82%AC%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%22+OR+%22%E3%83%AA%E3%82%AC%E3%82%AF%22+OR+%22Rigaku+Holdings%22+OR+%22Rigaku%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
@@ -6953,7 +6888,7 @@
           "publishedAt": "2026-09-18T07:00:00Z",
           "publisher": "MONOist",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6963,7 +6898,7 @@
           "publishedAt": "2026-09-08T07:00:00Z",
           "publisher": "読売新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6973,7 +6908,7 @@
           "publishedAt": "2026-09-03T07:00:00Z",
           "publisher": "中部経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6983,7 +6918,7 @@
           "publishedAt": "2026-09-01T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -6993,7 +6928,7 @@
           "publishedAt": "2026-08-26T07:00:00Z",
           "publisher": "日経ビジネス電子版",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -7001,8 +6936,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 5,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%E9%99%B6%E6%A5%AD%22+OR+%22Niterra%22+OR+%22%E3%83%8B%E3%83%86%E3%83%A9%22+OR+%22NGK+Spark+Plug%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -7031,8 +6966,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 0,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22FIG%22+OR+%22FIG%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%22+OR+%22Future+Innovation+Group%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -7053,7 +6988,7 @@
           "publishedAt": "2026-11-05T08:00:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -7093,7 +7028,7 @@
           "publishedAt": "2026-10-23T07:00:00Z",
           "publisher": "note",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -7113,7 +7048,7 @@
           "publishedAt": "2026-09-28T07:00:00Z",
           "publisher": "レスポンス（Response.jp）",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -7133,7 +7068,7 @@
           "publishedAt": "2026-09-17T07:00:00Z",
           "publisher": "中日BIZナビ",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -7151,9 +7086,9 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
-          "matchedCount": 5,
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
+          "matchedCount": 4,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E5%A4%A7%E5%90%8C%E7%89%B9%E6%AE%8A%E9%8B%BC%22+OR+%22Daido+Steel%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
@@ -7173,7 +7108,7 @@
           "publishedAt": "2026-10-28T07:00:00Z",
           "publisher": "BigGo ファイナンス",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -7183,7 +7118,7 @@
           "publishedAt": "2026-10-13T07:00:00Z",
           "publisher": "NET-IB NEWS",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -7193,7 +7128,7 @@
           "publishedAt": "2026-10-09T11:08:19Z",
           "publisher": "Tokyo Brief",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -7203,7 +7138,7 @@
           "publishedAt": "2026-10-09T07:00:00Z",
           "publisher": "南日本新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -7213,7 +7148,7 @@
           "publishedAt": "2026-10-09T07:00:00Z",
           "publisher": "南日本新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -7223,7 +7158,7 @@
           "publishedAt": "2026-10-09T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -7233,7 +7168,7 @@
           "publishedAt": "2026-09-21T07:00:00Z",
           "publisher": "南日本新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -7251,8 +7186,8 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 7,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E3%83%9E%E3%83%AB%E3%83%9E%E3%82%A8%22+OR+%22Marumae%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
@@ -7273,7 +7208,7 @@
           "publishedAt": "2026-11-02T08:00:00Z",
           "publisher": "日刊工業新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         },
         {
@@ -7283,7 +7218,7 @@
           "publishedAt": "2026-10-30T07:00:00Z",
           "publisher": "日本経済新聞",
           "kind": "news",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "企業名と半導体関連語が見出しに一致（自動判定）"
         }
       ],
@@ -7295,7 +7230,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -7305,7 +7240,7 @@
           "publishedAt": null,
           "publisher": "企業公式IR",
           "kind": "ir",
-          "retrievedAt": "2026-11-22T01:56:15Z",
+          "retrievedAt": "2026-11-23T02:20:27Z",
           "relevance": "公式IR資料リンク。適時開示の該当性・公表日は未確認。"
         },
         {
@@ -7342,22 +7277,22 @@
       "sources": {
         "news": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 2,
           "feedUrl": "https://news.google.com/rss/search?q=%28%22%E4%BD%8F%E5%8F%8B%E9%87%8D%E6%A9%9F%E6%A2%B0%E5%B7%A5%E6%A5%AD%22+OR+%22Sumitomo+Heavy+Industries%22+OR+%22%E4%BD%8F%E5%8F%8B%E9%87%8D%E6%A9%9F%E6%A2%B0%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%22+OR+%22Sumitomo+Heavy+Industries+Ion+Technology%22%29+%28%E5%8D%8A%E5%B0%8E%E4%BD%93+OR+semiconductor+OR+wafer+OR+EUV+OR+chip%29+when%3A90d&hl=ja&gl=JP&ceid=JP%3Aja"
         },
         "ir": {
           "state": "ok",
-          "lastAttemptAt": "2026-11-22T01:56:15Z",
-          "lastSuccessAt": "2026-11-22T01:56:15Z",
+          "lastAttemptAt": "2026-11-23T02:20:27Z",
+          "lastSuccessAt": "2026-11-23T02:20:27Z",
           "matchedCount": 2,
           "sourceUrl": "https://www.shi.co.jp/ir/"
         }
       },
       "marketCap": {
         "state": "error",
-        "lastAttemptAt": "2026-11-22T01:56:15Z",
+        "lastAttemptAt": "2026-11-23T02:20:27Z",
         "sourceUrl": "https://companiesmarketcap.com/sumitomo-heavy-industries/marketcap/",
         "error": "ValueError"
       }
@@ -7365,8 +7300,8 @@
   },
   "summary": {
     "companiesAttempted": 77,
-    "newsSucceeded": 52,
-    "newsFailed": 25,
+    "newsSucceeded": 77,
+    "newsFailed": 0,
     "irSucceeded": 20,
     "irPartial": 1,
     "irFailed": 3,
